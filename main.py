@@ -2,40 +2,36 @@ import stripe
 import os
 import time
 from dotenv import load_dotenv
-from hyper_layer import TitaniumHyperLayer
-from marketing_layer import TitaniumMarketingEngine
-from enterprise_layer import TitaniumEnterpriseLayer
+from apex_layer import TitaniumApexEngine
+from nexus_layer import TitaniumNexusEngine
 
 load_dotenv(dotenv_path="~/.titanium_env")
 
 stripe.api_key = os.getenv("STRIPE_SECRET_KEY")
-hyper_engine = TitaniumHyperLayer(os.getenv("EMAIL_USER"), os.getenv("EMAIL_PASS"))
-marketing_engine = TitaniumMarketingEngine()
-enterprise_layer = TitaniumEnterpriseLayer()
+apex_engine = TitaniumApexEngine()
+nexus_engine = TitaniumNexusEngine()
 
-def enterprise_cycle():
-    print("🏢 TITANIUM ENTERPRISE V28 - MULTI-FUNCTION RUN 🏢")
+def nexus_operation():
+    print("🛸 TITANIUM V32 - GLOBAL AI-NEXUS OPERATIONAL 🛸")
     try:
-        # Pénzügyi státusz
+        # 1. Stratégiai elemzés
+        apex_engine.optimize_strategy(0.92)
+        
+        # 2. Külső AI rendszerek státuszának ellenőrzése
+        hubs = nexus_engine.list_active_hubs()
+        
+        # 3. Automatikus szolgáltatás-értékesítés (példa: Video AI)
+        nexus_engine.bridge_to_global_market("Video-Marketing-AI", "High-Quality Corporate Ad")
+        
+        # 4. Stripe Pénzügyi Monitor
         balance = stripe.Balance.retrieve()
-        print(f"💰 Liquidity Check: OK")
-
-        # 1. Funkció: Értékesítés
-        hyper_engine.deep_market_scan("Global Enterprise Solutions")
-
-        # 2. Funkció: Szabályozás figyelés
-        enterprise_layer.compliance_scan()
-
-        # 3. Funkció: Dokumentum elemzés demó indítása
-        enterprise_layer.process_document("Invoice-Sample")
-
-        # 4. Funkció: Önhirdetés
-        marketing_engine.auto_post_promotion()
+        amount = balance['available'][0]['amount'] / 100
+        print(f"💰 Global Revenue Stream: {amount} {balance['available'][0]['currency'].upper()}")
 
     except Exception as e:
-        print(f"❌ Enterprise Hiba: {e}")
+        print(f"❌ Nexus System Warning: {e}")
 
 if __name__ == "__main__":
     while True:
-        enterprise_cycle()
-        time.sleep(3600)
+        nexus_operation()
+        time.sleep(3600) # Óránkénti globális szinkronizáció
