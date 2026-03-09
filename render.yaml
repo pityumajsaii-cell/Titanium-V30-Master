@@ -1,9 +1,13 @@
 services:
   - type: worker
-    name: titanium-optimizer
+    name: titanium-core-worker
     env: python
     buildCommand: pip install -r requirements.txt
-    startCommand: python core/auto_optimizer.py
+    startCommand: python main.py
     envVars:
       - key: STRIPE_SECRET_KEY
+        sync: false
+      - key: TELEGRAM_BOT_TOKEN
+        sync: false
+      - key: TELEGRAM_CHAT_ID
         sync: false
