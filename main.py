@@ -1,42 +1,35 @@
-import os
 import stripe
-import requests
+import os
+import time
 from dotenv import load_dotenv
+from hyper_layer import TitaniumHyperLayer
 
-load_dotenv()
+load_dotenv(dotenv_path="~/.titanium_env")
 
 stripe.api_key = os.getenv("STRIPE_SECRET_KEY")
-TELEGRAM_TOKEN = os.getenv("TELEGRAM_BOT_TOKEN")
-TELEGRAM_CHAT_ID = os.getenv("TELEGRAM_CHAT_ID")
+hyper_engine = TitaniumHyperLayer(
+    smtp_user=os.getenv("EMAIL_USER"), 
+    smtp_pass=os.getenv("EMAIL_PASS")
+)
 
-def send_telegram(message):
-    if TELEGRAM_TOKEN and TELEGRAM_CHAT_ID:
-        url = f"https://api.telegram.org/bot{TELEGRAM_TOKEN}/sendMessage"
-        try:
-            requests.post(url, json={"chat_id": TELEGRAM_CHAT_ID, "text": message})
-        except Exception as e:
-            print(f"Telegram error: {e}")
-
-def check_and_payout():
+def run_titanium_cycle():
+    print("🔄 Titanium Autonóm Ciklus Indítása...")
     try:
+        # 1. Pénzügyi ellenőrzés
         balance = stripe.Balance.retrieve()
-        available = balance['available'][0]['amount'] / 100
-        currency = balance['available'][0]['currency'].upper()
-        
-        status_msg = f"💎 TITANIUM STATUS: Egyenleg: {available} {currency}"
-        print(status_msg)
-        send_telegram(status_msg)
-        
-        if available >= 50:
-            send_telegram(f"🚀 Kifizetés indítása: {available} {currency}")
-            stripe.Payout.create(
-                amount=int(available * 100),
-                currency=currency.lower(),
-            )
-            send_telegram("✅ Sikeres kifizetés!")
+        print(f"💰 Aktuális likviditás: {balance['available'][0]['amount']/100} {balance['available'][0]['currency'].upper()}")
+
+        # 2. Piaci vadászat
+        opportunities = hyper_engine.deep_market_scan("AI Automation SaaS")
+        for opp in opportunities:
+            print(f"🎯 Célpont: {opp['target']} | Megoldás: {opp['solution']}")
+            # Itt hívná meg az automatikus értékesítőt
+            
+        print("✅ Ciklus sikeresen lefutott. Következő ellenőrzés 1 óra múlva.")
     except Exception as e:
-        print(f"Hiba: {e}")
-        send_telegram(f"⚠️ Hiba: {e}")
+        print(f"❌ Hiba a rendszerben: {e}")
 
 if __name__ == "__main__":
-    check_and_payout()
+    while True:
+        run_titanium_cycle()
+        time.sleep(3600) # Óránkénti automatikus futás
