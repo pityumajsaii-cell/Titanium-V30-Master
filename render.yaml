@@ -1,0 +1,9 @@
+services:
+  - type: worker
+    name: titanium-optimizer
+    env: python
+    buildCommand: pip install -r requirements.txt
+    startCommand: python core/auto_optimizer.py
+    envVars:
+      - key: STRIPE_SECRET_KEY
+        sync: false
