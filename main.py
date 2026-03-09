@@ -3,33 +3,36 @@ import os
 import time
 from dotenv import load_dotenv
 from hyper_layer import TitaniumHyperLayer
+from marketing_layer import TitaniumMarketingEngine
 
 load_dotenv(dotenv_path="~/.titanium_env")
 
 stripe.api_key = os.getenv("STRIPE_SECRET_KEY")
-hyper_engine = TitaniumHyperLayer(
-    smtp_user=os.getenv("EMAIL_USER"), 
-    smtp_pass=os.getenv("EMAIL_PASS")
-)
+hyper_engine = TitaniumHyperLayer(os.getenv("EMAIL_USER"), os.getenv("EMAIL_PASS"))
+marketing_engine = TitaniumMarketingEngine()
 
-def run_titanium_cycle():
-    print("🔄 Titanium Autonóm Ciklus Indítása...")
+def main_loop():
+    print("💎 TITANIUM EMPIRE - V27 HYPER-DRIVE 💎")
     try:
-        # 1. Pénzügyi ellenőrzés
+        # 1. Pénzügyek
         balance = stripe.Balance.retrieve()
-        print(f"💰 Aktuális likviditás: {balance['available'][0]['amount']/100} {balance['available'][0]['currency'].upper()}")
+        current_eur = balance['available'][0]['amount'] / 100
+        print(f"💰 Egyenleg: {current_eur} EUR")
 
-        # 2. Piaci vadászat
-        opportunities = hyper_engine.deep_market_scan("AI Automation SaaS")
-        for opp in opportunities:
-            print(f"🎯 Célpont: {opp['target']} | Megoldás: {opp['solution']}")
-            # Itt hívná meg az automatikus értékesítőt
-            
-        print("✅ Ciklus sikeresen lefutott. Következő ellenőrzés 1 óra múlva.")
+        # 2. Értékesítés (E-mail)
+        hyper_engine.deep_market_scan("SaaS Automation")
+        
+        # 3. Önhirdetés és Marketing
+        marketing_engine.scan_forums_for_opportunities()
+        marketing_engine.auto_post_promotion()
+        
+        # 4. Újrabefektetés
+        marketing_engine.reinvest_check(current_eur)
+
     except Exception as e:
-        print(f"❌ Hiba a rendszerben: {e}")
+        print(f"⚠️ Hiba: {e}")
 
 if __name__ == "__main__":
     while True:
-        run_titanium_cycle()
-        time.sleep(3600) # Óránkénti automatikus futás
+        main_loop()
+        time.sleep(3600) # Óránkénti teljes ciklus
