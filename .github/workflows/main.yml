@@ -1,0 +1,23 @@
+name: Titanium Cloud Core
+on:
+  schedule:
+    - cron: '0 * * * *' # Minden órában lefut
+  workflow_dispatch:      # Manuálisan is indítható
+
+jobs:
+  run-titanium:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+      - name: Install Dependencies
+        run: pip install stripe requests python-dotenv
+      - name: Execute Titanium Logic
+        env:
+          STRIPE_SECRET_KEY: ${{ secrets.STRIPE_SECRET_KEY }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: python main.py
