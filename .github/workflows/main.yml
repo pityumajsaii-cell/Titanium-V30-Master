@@ -13,8 +13,6 @@ jobs:
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v3
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Setup Python
         uses: actions/setup-python@v4
@@ -25,17 +23,20 @@ jobs:
         run: |
           pip install stripe requests google-api-python-client google-auth-oauthlib moviepy imageio imageio-ffmpeg
 
-      - name: 🚀 Autonóm Munkafolyamat (Hibaeltűrő)
+      - name: 🚀 Autonóm Munkafolyamat (Social Integration)
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           STRIPE_SECRET_KEY: ${{ secrets.STRIPE_SECRET_KEY }}
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          YOUTUBE_API_TOKEN: ${{ secrets.YOUTUBE_API_TOKEN }}
+          TIKTOK_ACCESS_TOKEN: ${{ secrets.TIKTOK_ACCESS_TOKEN }}
+          INSTAGRAM_GRAPH_TOKEN: ${{ secrets.INSTAGRAM_GRAPH_TOKEN }}
         run: |
-          python core/titanium_dual_engine.py || echo "AI hiba, folytatás..."
-          python core/b2b_scraper.py || echo "Scraper hiba, folytatás..."
-          python core/video_creator.py || echo "Video hiba, folytatás..."
-          python core/b2b_email_sender.py || echo "Email hiba, folytatás..."
-          python core/profit_report.py || echo "Report hiba, folytatás..."
-          python core/github_auto.py || echo "Git hiba, folytatás..."
+          python core/titanium_dual_engine.py || echo "AI hiba"
+          python core/video_creator.py || echo "Video hiba"
+          python core/social_poster.py || echo "Social hiba"
+          python core/b2b_email_sender.py || echo "Email hiba"
+          python core/profit_report.py || echo "Report hiba"
+          python core/github_auto.py || echo "Git hiba"
