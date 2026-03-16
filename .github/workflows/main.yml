@@ -23,7 +23,7 @@ jobs:
 
       - name: Install Dependencies
         run: |
-          pip install stripe requests google-api-python-client google-auth-oauthlib moviepy
+          pip install stripe requests google-api-python-client google-auth-oauthlib moviepy imageio imageio-ffmpeg
 
       - name: 🚀 Teljes Autonóm Munkamenet
         env:
