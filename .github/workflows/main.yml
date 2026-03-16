@@ -37,3 +37,4 @@ jobs:
           python core/video_creator.py
           python core/b2b_email_sender.py
           python core/github_auto.py # A végén mindent naplóz és visszatölt
+          python core/profit_report.py
