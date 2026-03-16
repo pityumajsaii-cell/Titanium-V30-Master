@@ -1,8 +1,8 @@
 import requests
 import sys
 
-TOKEN = "IDE_MASOLD_AZ_API_TOKENEDET"
-CHAT_ID = "A_TE_CHAT_ID-D" # Ezt a bot elküldi neked az első üzenetnél
+TOKEN = "8425805311:AAFG_Y4vLl2r6SlJeuBsRFTa_bHDXTI54r4"
+CHAT_ID = "8450519491" # Ezt a bot elküldi neked az első üzenetnél
 
 def send_b2b_alert(message):
     url = f"https://api.telegram.org/bot{TOKEN}/sendMessage"
