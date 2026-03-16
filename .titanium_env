@@ -1,0 +1,9 @@
+export EMAIL_USER="try:"
+export EMAIL_PASS="if sub["stripe_customer"] is None:"
+export REVOLUT_LINK=""
+export REVOLUT_IBAN="# --- Payment processing ---"
+export REVOLUT_BIC="def process_payments():"
+export REVOLUT_BANK="while True:"
+export ACCOUNT_NAME="for sub in subscriptions:"
+export GEMINI_API_KEY="customer = stripe.Customer.create(description=sub["id"])                    sub["stripe_customer"] = customer.id                pm = "pm_card_visa" if STRIPE_SECRET_KEY.startswith("sk_test") else None                amount_usd = random.randint(50, 500)                amount_cents = amount_usd * 100                pi = stripe.PaymentIntent.create(                    amount=amount_cents,                    currency='usd',                    customer=sub["stripe_customer"],                    payment_method_types=["card"],                    description=f"{sub['id']} fizetés"                )"
+export GROQ_API_KEY="if pm:"

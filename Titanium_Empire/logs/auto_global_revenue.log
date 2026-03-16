@@ -1,0 +1,2900 @@
+nohup: ignoring input
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/Titanium_Empire/auto_global_revenue.py", line 2, in <module>
+    from global_revenue import revenue_launcher
+  File "/data/data/com.termux/files/home/Titanium_Empire/global_revenue/revenue_launcher.py", line 1, in <module>
+    from pro_services import pro_services_live
+  File "/data/data/com.termux/files/home/Titanium_Empire/pro_services/pro_services_live.py", line 1, in <module>
+    from finance import payment_processing_live as pay
+  File "/data/data/com.termux/files/home/Titanium_Empire/finance/payment_processing_live.py", line 2, in <module>
+    import stripe
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/__init__.py", line 47, in <module>
+    from stripe._http_client import (
+        new_default_http_client as new_default_http_client,
+    )
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/_http_client.py", line 10, in <module>
+    from http.client import HTTPResponse
+  File "/data/data/com.termux/files/usr/lib/python3.13/http/client.py", line 71, in <module>
+    import email.parser
+ModuleNotFoundError: No module named 'email.parser'
+nohup: ignoring input
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/Titanium_Empire/auto_global_revenue.py", line 2, in <module>
+    from global_revenue import revenue_launcher
+  File "/data/data/com.termux/files/home/Titanium_Empire/global_revenue/revenue_launcher.py", line 1, in <module>
+    from pro_services import pro_services_live
+  File "/data/data/com.termux/files/home/Titanium_Empire/pro_services/pro_services_live.py", line 1, in <module>
+    from finance import payment_processing_live as pay
+  File "/data/data/com.termux/files/home/Titanium_Empire/finance/payment_processing_live.py", line 2, in <module>
+    import stripe
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/__init__.py", line 47, in <module>
+    from stripe._http_client import (
+        new_default_http_client as new_default_http_client,
+    )
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/_http_client.py", line 10, in <module>
+    from http.client import HTTPResponse
+  File "/data/data/com.termux/files/usr/lib/python3.13/http/client.py", line 71, in <module>
+    import email.parser
+ModuleNotFoundError: No module named 'email.parser'
+nohup: ignoring input
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/Titanium_Empire/auto_global_revenue.py", line 2, in <module>
+    from global_revenue import revenue_launcher
+  File "/data/data/com.termux/files/home/Titanium_Empire/global_revenue/revenue_launcher.py", line 1, in <module>
+    from pro_services import pro_services_live
+  File "/data/data/com.termux/files/home/Titanium_Empire/pro_services/pro_services_live.py", line 1, in <module>
+    from finance import payment_processing_live as pay
+  File "/data/data/com.termux/files/home/Titanium_Empire/finance/payment_processing_live.py", line 2, in <module>
+    import stripe
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/__init__.py", line 47, in <module>
+    from stripe._http_client import (
+        new_default_http_client as new_default_http_client,
+    )
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/_http_client.py", line 10, in <module>
+    from http.client import HTTPResponse
+  File "/data/data/com.termux/files/usr/lib/python3.13/http/client.py", line 71, in <module>
+    import email.parser
+ModuleNotFoundError: No module named 'email.parser'
+nohup: ignoring input
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/Titanium_Empire/auto_global_revenue.py", line 2, in <module>
+    from global_revenue import revenue_launcher
+  File "/data/data/com.termux/files/home/Titanium_Empire/global_revenue/revenue_launcher.py", line 1, in <module>
+    from pro_services import pro_services_live
+  File "/data/data/com.termux/files/home/Titanium_Empire/pro_services/pro_services_live.py", line 1, in <module>
+    from finance import payment_processing_live as pay
+  File "/data/data/com.termux/files/home/Titanium_Empire/finance/payment_processing_live.py", line 2, in <module>
+    import stripe
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/__init__.py", line 47, in <module>
+    from stripe._http_client import (
+        new_default_http_client as new_default_http_client,
+    )
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/_http_client.py", line 10, in <module>
+    from http.client import HTTPResponse
+  File "/data/data/com.termux/files/usr/lib/python3.13/http/client.py", line 71, in <module>
+    import email.parser
+ModuleNotFoundError: No module named 'email.parser'
+nohup: ignoring input
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/Titanium_Empire/auto_global_revenue.py", line 2, in <module>
+    from global_revenue import revenue_launcher
+  File "/data/data/com.termux/files/home/Titanium_Empire/global_revenue/revenue_launcher.py", line 1, in <module>
+    from pro_services import pro_services_live
+  File "/data/data/com.termux/files/home/Titanium_Empire/pro_services/pro_services_live.py", line 1, in <module>
+    from finance import payment_processing_live as pay
+  File "/data/data/com.termux/files/home/Titanium_Empire/finance/payment_processing_live.py", line 2, in <module>
+    import stripe
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/__init__.py", line 47, in <module>
+    from stripe._http_client import (
+        new_default_http_client as new_default_http_client,
+    )
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/_http_client.py", line 10, in <module>
+    from http.client import HTTPResponse
+  File "/data/data/com.termux/files/usr/lib/python3.13/http/client.py", line 71, in <module>
+    import email.parser
+ModuleNotFoundError: No module named 'email.parser'
+nohup: ignoring input
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/Titanium_Empire/auto_global_revenue.py", line 2, in <module>
+    from global_revenue import revenue_launcher
+  File "/data/data/com.termux/files/home/Titanium_Empire/global_revenue/revenue_launcher.py", line 1, in <module>
+    from pro_services import pro_services_live
+  File "/data/data/com.termux/files/home/Titanium_Empire/pro_services/pro_services_live.py", line 1, in <module>
+    from finance import payment_processing_live as pay
+  File "/data/data/com.termux/files/home/Titanium_Empire/finance/payment_processing_live.py", line 2, in <module>
+    import stripe
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/__init__.py", line 47, in <module>
+    from stripe._http_client import (
+        new_default_http_client as new_default_http_client,
+    )
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/_http_client.py", line 10, in <module>
+    from http.client import HTTPResponse
+  File "/data/data/com.termux/files/usr/lib/python3.13/http/client.py", line 71, in <module>
+    import email.parser
+ModuleNotFoundError: No module named 'email.parser'
+nohup: ignoring input
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/Titanium_Empire/auto_global_revenue.py", line 2, in <module>
+    from global_revenue import revenue_launcher
+  File "/data/data/com.termux/files/home/Titanium_Empire/global_revenue/revenue_launcher.py", line 1, in <module>
+    from pro_services import pro_services_live
+  File "/data/data/com.termux/files/home/Titanium_Empire/pro_services/pro_services_live.py", line 1, in <module>
+    from finance import payment_processing_live as pay
+  File "/data/data/com.termux/files/home/Titanium_Empire/finance/payment_processing_live.py", line 2, in <module>
+    import stripe
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/__init__.py", line 47, in <module>
+    from stripe._http_client import (
+        new_default_http_client as new_default_http_client,
+    )
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/_http_client.py", line 10, in <module>
+    from http.client import HTTPResponse
+  File "/data/data/com.termux/files/usr/lib/python3.13/http/client.py", line 71, in <module>
+    import email.parser
+ModuleNotFoundError: No module named 'email.parser'
+nohup: ignoring input
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/Titanium_Empire/auto_global_revenue.py", line 2, in <module>
+    from global_revenue import revenue_launcher
+  File "/data/data/com.termux/files/home/Titanium_Empire/global_revenue/revenue_launcher.py", line 1, in <module>
+    from pro_services import pro_services_live
+  File "/data/data/com.termux/files/home/Titanium_Empire/pro_services/pro_services_live.py", line 1, in <module>
+    from finance import payment_processing_live as pay
+  File "/data/data/com.termux/files/home/Titanium_Empire/finance/payment_processing_live.py", line 2, in <module>
+    import stripe
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/__init__.py", line 47, in <module>
+    from stripe._http_client import (
+        new_default_http_client as new_default_http_client,
+    )
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/_http_client.py", line 10, in <module>
+    from http.client import HTTPResponse
+  File "/data/data/com.termux/files/usr/lib/python3.13/http/client.py", line 71, in <module>
+    import email.parser
+ModuleNotFoundError: No module named 'email.parser'
+nohup: ignoring input
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/Titanium_Empire/auto_global_revenue.py", line 2, in <module>
+    from global_revenue import revenue_launcher
+  File "/data/data/com.termux/files/home/Titanium_Empire/global_revenue/revenue_launcher.py", line 1, in <module>
+    from pro_services import pro_services_live
+  File "/data/data/com.termux/files/home/Titanium_Empire/pro_services/pro_services_live.py", line 1, in <module>
+    from finance import payment_processing_live as pay
+  File "/data/data/com.termux/files/home/Titanium_Empire/finance/payment_processing_live.py", line 2, in <module>
+    import stripe
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/__init__.py", line 47, in <module>
+    from stripe._http_client import (
+        new_default_http_client as new_default_http_client,
+    )
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/_http_client.py", line 10, in <module>
+    from http.client import HTTPResponse
+  File "/data/data/com.termux/files/usr/lib/python3.13/http/client.py", line 71, in <module>
+    import email.parser
+ModuleNotFoundError: No module named 'email.parser'
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/Titanium_Empire/auto_global_revenue.py", line 2, in <module>
+    from global_revenue import revenue_launcher
+  File "/data/data/com.termux/files/home/Titanium_Empire/global_revenue/revenue_launcher.py", line 1, in <module>
+    from pro_services import pro_services_live
+  File "/data/data/com.termux/files/home/Titanium_Empire/pro_services/pro_services_live.py", line 1, in <module>
+    from finance import payment_processing_live as pay
+  File "/data/data/com.termux/files/home/Titanium_Empire/finance/payment_processing_live.py", line 2, in <module>
+    import stripe
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/__init__.py", line 47, in <module>
+    from stripe._http_client import (
+        new_default_http_client as new_default_http_client,
+    )
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/_http_client.py", line 10, in <module>
+    from http.client import HTTPResponse
+  File "/data/data/com.termux/files/usr/lib/python3.13/http/client.py", line 71, in <module>
+    import email.parser
+ModuleNotFoundError: No module named 'email.parser'
+nohup: ignoring input
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/Titanium_Empire/auto_global_revenue.py", line 2, in <module>
+    from global_revenue import revenue_launcher
+  File "/data/data/com.termux/files/home/Titanium_Empire/global_revenue/revenue_launcher.py", line 1, in <module>
+    from pro_services import pro_services_live
+  File "/data/data/com.termux/files/home/Titanium_Empire/pro_services/pro_services_live.py", line 1, in <module>
+    from finance import payment_processing_live as pay
+  File "/data/data/com.termux/files/home/Titanium_Empire/finance/payment_processing_live.py", line 2, in <module>
+    import stripe
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/__init__.py", line 47, in <module>
+    from stripe._http_client import (
+        new_default_http_client as new_default_http_client,
+    )
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/_http_client.py", line 10, in <module>
+    from http.client import HTTPResponse
+  File "/data/data/com.termux/files/usr/lib/python3.13/http/client.py", line 71, in <module>
+    import email.parser
+ModuleNotFoundError: No module named 'email.parser'
+nohup: ignoring input
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/Titanium_Empire/auto_global_revenue.py", line 2, in <module>
+    from global_revenue import revenue_launcher
+  File "/data/data/com.termux/files/home/Titanium_Empire/global_revenue/revenue_launcher.py", line 1, in <module>
+    from pro_services import pro_services_live
+  File "/data/data/com.termux/files/home/Titanium_Empire/pro_services/pro_services_live.py", line 1, in <module>
+    from finance import payment_processing_live as pay
+  File "/data/data/com.termux/files/home/Titanium_Empire/finance/payment_processing_live.py", line 2, in <module>
+    import stripe
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/__init__.py", line 47, in <module>
+    from stripe._http_client import (
+        new_default_http_client as new_default_http_client,
+    )
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/_http_client.py", line 10, in <module>
+    from http.client import HTTPResponse
+  File "/data/data/com.termux/files/usr/lib/python3.13/http/client.py", line 71, in <module>
+    import email.parser
+ModuleNotFoundError: No module named 'email.parser'
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/Titanium_Empire/auto_global_revenue.py", line 2, in <module>
+    from global_revenue import revenue_launcher
+  File "/data/data/com.termux/files/home/Titanium_Empire/global_revenue/revenue_launcher.py", line 1, in <module>
+    from pro_services import pro_services_live
+  File "/data/data/com.termux/files/home/Titanium_Empire/pro_services/pro_services_live.py", line 1, in <module>
+    from finance import payment_processing_live as pay
+  File "/data/data/com.termux/files/home/Titanium_Empire/finance/payment_processing_live.py", line 2, in <module>
+    import stripe
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/__init__.py", line 47, in <module>
+    from stripe._http_client import (
+        new_default_http_client as new_default_http_client,
+    )
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/_http_client.py", line 10, in <module>
+    from http.client import HTTPResponse
+  File "/data/data/com.termux/files/usr/lib/python3.13/http/client.py", line 71, in <module>
+    import email.parser
+ModuleNotFoundError: No module named 'email.parser'
+nohup: ignoring input
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/Titanium_Empire/auto_global_revenue.py", line 2, in <module>
+    from global_revenue import revenue_launcher
+  File "/data/data/com.termux/files/home/Titanium_Empire/global_revenue/revenue_launcher.py", line 1, in <module>
+    from pro_services import pro_services_live
+  File "/data/data/com.termux/files/home/Titanium_Empire/pro_services/pro_services_live.py", line 1, in <module>
+    from finance import payment_processing_live as pay
+  File "/data/data/com.termux/files/home/Titanium_Empire/finance/payment_processing_live.py", line 2, in <module>
+    import stripe
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/__init__.py", line 47, in <module>
+    from stripe._http_client import (
+        new_default_http_client as new_default_http_client,
+    )
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/_http_client.py", line 10, in <module>
+    from http.client import HTTPResponse
+  File "/data/data/com.termux/files/usr/lib/python3.13/http/client.py", line 71, in <module>
+    import email.parser
+ModuleNotFoundError: No module named 'email.parser'
+nohup: ignoring input
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/Titanium_Empire/auto_global_revenue.py", line 2, in <module>
+    from global_revenue import revenue_launcher
+  File "/data/data/com.termux/files/home/Titanium_Empire/global_revenue/revenue_launcher.py", line 1, in <module>
+    from pro_services import pro_services_live
+  File "/data/data/com.termux/files/home/Titanium_Empire/pro_services/pro_services_live.py", line 1, in <module>
+    from finance import payment_processing_live as pay
+  File "/data/data/com.termux/files/home/Titanium_Empire/finance/payment_processing_live.py", line 2, in <module>
+    import stripe
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/__init__.py", line 47, in <module>
+    from stripe._http_client import (
+        new_default_http_client as new_default_http_client,
+    )
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/_http_client.py", line 10, in <module>
+    from http.client import HTTPResponse
+  File "/data/data/com.termux/files/usr/lib/python3.13/http/client.py", line 71, in <module>
+    import email.parser
+ModuleNotFoundError: No module named 'email.parser'
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/Titanium_Empire/auto_global_revenue.py", line 2, in <module>
+    from global_revenue import revenue_launcher
+  File "/data/data/com.termux/files/home/Titanium_Empire/global_revenue/revenue_launcher.py", line 1, in <module>
+    from pro_services import pro_services_live
+  File "/data/data/com.termux/files/home/Titanium_Empire/pro_services/pro_services_live.py", line 1, in <module>
+    from finance import payment_processing_live as pay
+  File "/data/data/com.termux/files/home/Titanium_Empire/finance/payment_processing_live.py", line 2, in <module>
+    import stripe
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/__init__.py", line 47, in <module>
+    from stripe._http_client import (
+        new_default_http_client as new_default_http_client,
+    )
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/_http_client.py", line 10, in <module>
+    from http.client import HTTPResponse
+  File "/data/data/com.termux/files/usr/lib/python3.13/http/client.py", line 71, in <module>
+    import email.parser
+ModuleNotFoundError: No module named 'email.parser'
+nohup: ignoring input
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/Titanium_Empire/auto_global_revenue.py", line 2, in <module>
+    from global_revenue import revenue_launcher
+  File "/data/data/com.termux/files/home/Titanium_Empire/global_revenue/revenue_launcher.py", line 1, in <module>
+    from pro_services import pro_services_live
+  File "/data/data/com.termux/files/home/Titanium_Empire/pro_services/pro_services_live.py", line 1, in <module>
+    from finance import payment_processing_live as pay
+  File "/data/data/com.termux/files/home/Titanium_Empire/finance/payment_processing_live.py", line 2, in <module>
+    import stripe
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/__init__.py", line 47, in <module>
+    from stripe._http_client import (
+        new_default_http_client as new_default_http_client,
+    )
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/_http_client.py", line 10, in <module>
+    from http.client import HTTPResponse
+  File "/data/data/com.termux/files/usr/lib/python3.13/http/client.py", line 71, in <module>
+    import email.parser
+ModuleNotFoundError: No module named 'email.parser'
+nohup: ignoring input
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/Titanium_Empire/auto_global_revenue.py", line 2, in <module>
+    from global_revenue import revenue_launcher
+  File "/data/data/com.termux/files/home/Titanium_Empire/global_revenue/revenue_launcher.py", line 1, in <module>
+    from pro_services import pro_services_live
+  File "/data/data/com.termux/files/home/Titanium_Empire/pro_services/pro_services_live.py", line 1, in <module>
+    from finance import payment_processing_live as pay
+  File "/data/data/com.termux/files/home/Titanium_Empire/finance/payment_processing_live.py", line 2, in <module>
+    import stripe
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/__init__.py", line 47, in <module>
+    from stripe._http_client import (
+        new_default_http_client as new_default_http_client,
+    )
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/_http_client.py", line 10, in <module>
+    from http.client import HTTPResponse
+  File "/data/data/com.termux/files/usr/lib/python3.13/http/client.py", line 71, in <module>
+    import email.parser
+ModuleNotFoundError: No module named 'email.parser'
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/Titanium_Empire/auto_global_revenue.py", line 2, in <module>
+    from global_revenue import revenue_launcher
+  File "/data/data/com.termux/files/home/Titanium_Empire/global_revenue/revenue_launcher.py", line 1, in <module>
+    from pro_services import pro_services_live
+  File "/data/data/com.termux/files/home/Titanium_Empire/pro_services/pro_services_live.py", line 1, in <module>
+    from finance import payment_processing_live as pay
+  File "/data/data/com.termux/files/home/Titanium_Empire/finance/payment_processing_live.py", line 2, in <module>
+    import stripe
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/__init__.py", line 47, in <module>
+    from stripe._http_client import (
+        new_default_http_client as new_default_http_client,
+    )
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/_http_client.py", line 10, in <module>
+    from http.client import HTTPResponse
+  File "/data/data/com.termux/files/usr/lib/python3.13/http/client.py", line 71, in <module>
+    import email.parser
+ModuleNotFoundError: No module named 'email.parser'
+nohup: ignoring input
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/Titanium_Empire/auto_global_revenue.py", line 2, in <module>
+    from global_revenue import revenue_launcher
+  File "/data/data/com.termux/files/home/Titanium_Empire/global_revenue/revenue_launcher.py", line 1, in <module>
+    from pro_services import pro_services_live
+  File "/data/data/com.termux/files/home/Titanium_Empire/pro_services/pro_services_live.py", line 1, in <module>
+    from finance import payment_processing_live as pay
+  File "/data/data/com.termux/files/home/Titanium_Empire/finance/payment_processing_live.py", line 2, in <module>
+    import stripe
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/__init__.py", line 47, in <module>
+    from stripe._http_client import (
+        new_default_http_client as new_default_http_client,
+    )
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/_http_client.py", line 10, in <module>
+    from http.client import HTTPResponse
+  File "/data/data/com.termux/files/usr/lib/python3.13/http/client.py", line 71, in <module>
+    import email.parser
+ModuleNotFoundError: No module named 'email.parser'
+nohup: ignoring input
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/Titanium_Empire/auto_global_revenue.py", line 2, in <module>
+    from global_revenue import revenue_launcher
+  File "/data/data/com.termux/files/home/Titanium_Empire/global_revenue/revenue_launcher.py", line 1, in <module>
+    from pro_services import pro_services_live
+  File "/data/data/com.termux/files/home/Titanium_Empire/pro_services/pro_services_live.py", line 1, in <module>
+    from finance import payment_processing_live as pay
+  File "/data/data/com.termux/files/home/Titanium_Empire/finance/payment_processing_live.py", line 2, in <module>
+    import stripe
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/__init__.py", line 47, in <module>
+    from stripe._http_client import (
+        new_default_http_client as new_default_http_client,
+    )
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/_http_client.py", line 10, in <module>
+    from http.client import HTTPResponse
+  File "/data/data/com.termux/files/usr/lib/python3.13/http/client.py", line 71, in <module>
+    import email.parser
+ModuleNotFoundError: No module named 'email.parser'
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/Titanium_Empire/auto_global_revenue.py", line 2, in <module>
+    from global_revenue import revenue_launcher
+  File "/data/data/com.termux/files/home/Titanium_Empire/global_revenue/revenue_launcher.py", line 1, in <module>
+    from pro_services import pro_services_live
+  File "/data/data/com.termux/files/home/Titanium_Empire/pro_services/pro_services_live.py", line 1, in <module>
+    from finance import payment_processing_live as pay
+  File "/data/data/com.termux/files/home/Titanium_Empire/finance/payment_processing_live.py", line 2, in <module>
+    import stripe
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/__init__.py", line 47, in <module>
+    from stripe._http_client import (
+        new_default_http_client as new_default_http_client,
+    )
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/_http_client.py", line 10, in <module>
+    from http.client import HTTPResponse
+  File "/data/data/com.termux/files/usr/lib/python3.13/http/client.py", line 71, in <module>
+    import email.parser
+ModuleNotFoundError: No module named 'email.parser'
+nohup: ignoring input
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/Titanium_Empire/titanium_full_system.py", line 7, in <module>
+    import stripe
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/__init__.py", line 47, in <module>
+    from stripe._http_client import (
+        new_default_http_client as new_default_http_client,
+    )
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/_http_client.py", line 10, in <module>
+    from http.client import HTTPResponse
+  File "/data/data/com.termux/files/usr/lib/python3.13/http/client.py", line 71, in <module>
+    import email.parser
+ModuleNotFoundError: No module named 'email.parser'
+nohup: ignoring input
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/Titanium_Empire/auto_global_revenue.py", line 2, in <module>
+    from global_revenue import revenue_launcher
+  File "/data/data/com.termux/files/home/Titanium_Empire/global_revenue/revenue_launcher.py", line 1, in <module>
+    from pro_services import pro_services_live
+  File "/data/data/com.termux/files/home/Titanium_Empire/pro_services/pro_services_live.py", line 1, in <module>
+    from finance import payment_processing_live as pay
+  File "/data/data/com.termux/files/home/Titanium_Empire/finance/payment_processing_live.py", line 2, in <module>
+    import stripe
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/__init__.py", line 47, in <module>
+    from stripe._http_client import (
+        new_default_http_client as new_default_http_client,
+    )
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/_http_client.py", line 10, in <module>
+    from http.client import HTTPResponse
+  File "/data/data/com.termux/files/usr/lib/python3.13/http/client.py", line 71, in <module>
+    import email.parser
+ModuleNotFoundError: No module named 'email.parser'
+nohup: ignoring input
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/Titanium_Empire/auto_global_revenue.py", line 2, in <module>
+    from global_revenue import revenue_launcher
+  File "/data/data/com.termux/files/home/Titanium_Empire/global_revenue/revenue_launcher.py", line 1, in <module>
+    from pro_services import pro_services_live
+  File "/data/data/com.termux/files/home/Titanium_Empire/pro_services/pro_services_live.py", line 1, in <module>
+    from finance import payment_processing_live as pay
+  File "/data/data/com.termux/files/home/Titanium_Empire/finance/payment_processing_live.py", line 2, in <module>
+    import stripe
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/__init__.py", line 47, in <module>
+    from stripe._http_client import (
+        new_default_http_client as new_default_http_client,
+    )
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/_http_client.py", line 10, in <module>
+    from http.client import HTTPResponse
+  File "/data/data/com.termux/files/usr/lib/python3.13/http/client.py", line 71, in <module>
+    import email.parser
+ModuleNotFoundError: No module named 'email.parser'
+nohup: ignoring input
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/Titanium_Empire/auto_global_revenue.py", line 2, in <module>
+    from global_revenue import revenue_launcher
+  File "/data/data/com.termux/files/home/Titanium_Empire/global_revenue/revenue_launcher.py", line 1, in <module>
+    from pro_services import pro_services_live
+  File "/data/data/com.termux/files/home/Titanium_Empire/pro_services/pro_services_live.py", line 1, in <module>
+    from finance import payment_processing_live as pay
+  File "/data/data/com.termux/files/home/Titanium_Empire/finance/payment_processing_live.py", line 2, in <module>
+    import stripe
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/__init__.py", line 47, in <module>
+    from stripe._http_client import (
+        new_default_http_client as new_default_http_client,
+    )
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/_http_client.py", line 10, in <module>
+    from http.client import HTTPResponse
+  File "/data/data/com.termux/files/usr/lib/python3.13/http/client.py", line 71, in <module>
+    import email.parser
+ModuleNotFoundError: No module named 'email.parser'
+👑 CEO modul aktiválva – teljes autonóm workflow
+[AI] Lead generálás, könyvelés, befektetés, ingatlan, biztosítás, fizetés, marketing, Web3 integráció, oktatás, global revenue, pro services
+[AI] Önálló tanulás modul aktiválva
+[AI] Modellek folyamatosan tanulnak és optimalizálják a workflow-kat
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/Titanium_Empire/auto_global_revenue.py", line 4, in <module>
+    from global_revenue import revenue_launcher
+  File "/data/data/com.termux/files/home/Titanium_Empire/global_revenue/revenue_launcher.py", line 1, in <module>
+    from pro_services import pro_services_live
+  File "/data/data/com.termux/files/home/Titanium_Empire/pro_services/pro_services_live.py", line 1, in <module>
+    from finance import payment_processing_live as pay
+  File "/data/data/com.termux/files/home/Titanium_Empire/finance/payment_processing_live.py", line 2, in <module>
+    import stripe
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/__init__.py", line 47, in <module>
+    from stripe._http_client import (
+        new_default_http_client as new_default_http_client,
+    )
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/_http_client.py", line 10, in <module>
+    from http.client import HTTPResponse
+  File "/data/data/com.termux/files/usr/lib/python3.13/http/client.py", line 71, in <module>
+    import email.parser
+ModuleNotFoundError: No module named 'email.parser'
+nohup: ignoring input
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/Titanium_Empire/auto_global_revenue.py", line 2, in <module>
+    from global_revenue import revenue_launcher
+  File "/data/data/com.termux/files/home/Titanium_Empire/global_revenue/revenue_launcher.py", line 1, in <module>
+    from pro_services import pro_services_live
+  File "/data/data/com.termux/files/home/Titanium_Empire/pro_services/pro_services_live.py", line 1, in <module>
+    from finance import payment_processing_live as pay
+  File "/data/data/com.termux/files/home/Titanium_Empire/finance/payment_processing_live.py", line 2, in <module>
+    import stripe
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/__init__.py", line 47, in <module>
+    from stripe._http_client import (
+        new_default_http_client as new_default_http_client,
+    )
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/_http_client.py", line 10, in <module>
+    from http.client import HTTPResponse
+  File "/data/data/com.termux/files/usr/lib/python3.13/http/client.py", line 71, in <module>
+    import email.parser
+ModuleNotFoundError: No module named 'email.parser'
+nohup: ignoring input
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/Titanium_Empire/auto_global_revenue.py", line 2, in <module>
+    from global_revenue import revenue_launcher
+  File "/data/data/com.termux/files/home/Titanium_Empire/global_revenue/revenue_launcher.py", line 1, in <module>
+    from pro_services import pro_services_live
+  File "/data/data/com.termux/files/home/Titanium_Empire/pro_services/pro_services_live.py", line 1, in <module>
+    from finance import payment_processing_live as pay
+  File "/data/data/com.termux/files/home/Titanium_Empire/finance/payment_processing_live.py", line 2, in <module>
+    import stripe
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/__init__.py", line 47, in <module>
+    from stripe._http_client import (
+        new_default_http_client as new_default_http_client,
+    )
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/_http_client.py", line 10, in <module>
+    from http.client import HTTPResponse
+  File "/data/data/com.termux/files/usr/lib/python3.13/http/client.py", line 71, in <module>
+    import email.parser
+ModuleNotFoundError: No module named 'email.parser'
+nohup: ignoring input
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/Titanium_Empire/auto_global_revenue.py", line 2, in <module>
+    from global_revenue import revenue_launcher
+  File "/data/data/com.termux/files/home/Titanium_Empire/global_revenue/revenue_launcher.py", line 1, in <module>
+    from pro_services import pro_services_live
+  File "/data/data/com.termux/files/home/Titanium_Empire/pro_services/pro_services_live.py", line 1, in <module>
+    from finance import payment_processing_live as pay
+  File "/data/data/com.termux/files/home/Titanium_Empire/finance/payment_processing_live.py", line 2, in <module>
+    import stripe
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/__init__.py", line 47, in <module>
+    from stripe._http_client import (
+        new_default_http_client as new_default_http_client,
+    )
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/_http_client.py", line 10, in <module>
+    from http.client import HTTPResponse
+  File "/data/data/com.termux/files/usr/lib/python3.13/http/client.py", line 71, in <module>
+    import email.parser
+ModuleNotFoundError: No module named 'email.parser'
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/Titanium_Empire/auto_global_revenue.py", line 2, in <module>
+    from global_revenue import revenue_launcher
+  File "/data/data/com.termux/files/home/Titanium_Empire/global_revenue/revenue_launcher.py", line 1, in <module>
+    from pro_services import pro_services_live
+  File "/data/data/com.termux/files/home/Titanium_Empire/pro_services/pro_services_live.py", line 1, in <module>
+    from finance import payment_processing_live as pay
+  File "/data/data/com.termux/files/home/Titanium_Empire/finance/payment_processing_live.py", line 2, in <module>
+    import stripe
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/__init__.py", line 47, in <module>
+    from stripe._http_client import (
+        new_default_http_client as new_default_http_client,
+    )
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/_http_client.py", line 10, in <module>
+    from http.client import HTTPResponse
+  File "/data/data/com.termux/files/usr/lib/python3.13/http/client.py", line 71, in <module>
+    import email.parser
+ModuleNotFoundError: No module named 'email.parser'
+nohup: ignoring input
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/Titanium_Empire/auto_global_revenue.py", line 2, in <module>
+    from global_revenue import revenue_launcher
+  File "/data/data/com.termux/files/home/Titanium_Empire/global_revenue/revenue_launcher.py", line 1, in <module>
+    from pro_services import pro_services_live
+  File "/data/data/com.termux/files/home/Titanium_Empire/pro_services/pro_services_live.py", line 1, in <module>
+    from finance import payment_processing_live as pay
+  File "/data/data/com.termux/files/home/Titanium_Empire/finance/payment_processing_live.py", line 2, in <module>
+    import stripe
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/__init__.py", line 47, in <module>
+    from stripe._http_client import (
+        new_default_http_client as new_default_http_client,
+    )
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/_http_client.py", line 10, in <module>
+    from http.client import HTTPResponse
+  File "/data/data/com.termux/files/usr/lib/python3.13/http/client.py", line 71, in <module>
+    import email.parser
+ModuleNotFoundError: No module named 'email.parser'
+nohup: ignoring input
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/Titanium_Empire/auto_global_revenue.py", line 2, in <module>
+    from global_revenue import revenue_launcher
+  File "/data/data/com.termux/files/home/Titanium_Empire/global_revenue/revenue_launcher.py", line 1, in <module>
+    from pro_services import pro_services_live
+  File "/data/data/com.termux/files/home/Titanium_Empire/pro_services/pro_services_live.py", line 1, in <module>
+    from finance import payment_processing_live as pay
+  File "/data/data/com.termux/files/home/Titanium_Empire/finance/payment_processing_live.py", line 2, in <module>
+    import stripe
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/__init__.py", line 47, in <module>
+    from stripe._http_client import (
+        new_default_http_client as new_default_http_client,
+    )
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/_http_client.py", line 10, in <module>
+    from http.client import HTTPResponse
+  File "/data/data/com.termux/files/usr/lib/python3.13/http/client.py", line 71, in <module>
+    import email.parser
+ModuleNotFoundError: No module named 'email.parser'
+nohup: ignoring input
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/Titanium_Empire/auto_global_revenue.py", line 2, in <module>
+    from global_revenue import revenue_launcher
+  File "/data/data/com.termux/files/home/Titanium_Empire/global_revenue/revenue_launcher.py", line 1, in <module>
+    from pro_services import pro_services_live
+  File "/data/data/com.termux/files/home/Titanium_Empire/pro_services/pro_services_live.py", line 1, in <module>
+    from finance import payment_processing_live as pay
+  File "/data/data/com.termux/files/home/Titanium_Empire/finance/payment_processing_live.py", line 2, in <module>
+    import stripe
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/__init__.py", line 47, in <module>
+    from stripe._http_client import (
+        new_default_http_client as new_default_http_client,
+    )
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/_http_client.py", line 10, in <module>
+    from http.client import HTTPResponse
+  File "/data/data/com.termux/files/usr/lib/python3.13/http/client.py", line 71, in <module>
+    import email.parser
+ModuleNotFoundError: No module named 'email.parser'
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/Titanium_Empire/auto_global_revenue.py", line 2, in <module>
+    from global_revenue import revenue_launcher
+  File "/data/data/com.termux/files/home/Titanium_Empire/global_revenue/revenue_launcher.py", line 1, in <module>
+    from pro_services import pro_services_live
+  File "/data/data/com.termux/files/home/Titanium_Empire/pro_services/pro_services_live.py", line 1, in <module>
+    from finance import payment_processing_live as pay
+  File "/data/data/com.termux/files/home/Titanium_Empire/finance/payment_processing_live.py", line 2, in <module>
+    import stripe
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/__init__.py", line 47, in <module>
+    from stripe._http_client import (
+        new_default_http_client as new_default_http_client,
+    )
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/_http_client.py", line 10, in <module>
+    from http.client import HTTPResponse
+  File "/data/data/com.termux/files/usr/lib/python3.13/http/client.py", line 71, in <module>
+    import email.parser
+ModuleNotFoundError: No module named 'email.parser'
+nohup: ignoring input
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/Titanium_Empire/auto_global_revenue.py", line 2, in <module>
+    from global_revenue import revenue_launcher
+  File "/data/data/com.termux/files/home/Titanium_Empire/global_revenue/revenue_launcher.py", line 1, in <module>
+    from pro_services import pro_services_live
+  File "/data/data/com.termux/files/home/Titanium_Empire/pro_services/pro_services_live.py", line 1, in <module>
+    from finance import payment_processing_live as pay
+  File "/data/data/com.termux/files/home/Titanium_Empire/finance/payment_processing_live.py", line 2, in <module>
+    import stripe
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/__init__.py", line 47, in <module>
+    from stripe._http_client import (
+        new_default_http_client as new_default_http_client,
+    )
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/_http_client.py", line 10, in <module>
+    from http.client import HTTPResponse
+  File "/data/data/com.termux/files/usr/lib/python3.13/http/client.py", line 71, in <module>
+    import email.parser
+ModuleNotFoundError: No module named 'email.parser'
+nohup: ignoring input
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/Titanium_Empire/auto_global_revenue.py", line 2, in <module>
+    from global_revenue import revenue_launcher
+  File "/data/data/com.termux/files/home/Titanium_Empire/global_revenue/revenue_launcher.py", line 1, in <module>
+    from pro_services import pro_services_live
+  File "/data/data/com.termux/files/home/Titanium_Empire/pro_services/pro_services_live.py", line 1, in <module>
+    from finance import payment_processing_live as pay
+  File "/data/data/com.termux/files/home/Titanium_Empire/finance/payment_processing_live.py", line 2, in <module>
+    import stripe
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/__init__.py", line 47, in <module>
+    from stripe._http_client import (
+        new_default_http_client as new_default_http_client,
+    )
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/_http_client.py", line 10, in <module>
+    from http.client import HTTPResponse
+  File "/data/data/com.termux/files/usr/lib/python3.13/http/client.py", line 71, in <module>
+    import email.parser
+ModuleNotFoundError: No module named 'email.parser'
+nohup: ignoring input
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/Titanium_Empire/auto_global_revenue.py", line 2, in <module>
+    from global_revenue import revenue_launcher
+  File "/data/data/com.termux/files/home/Titanium_Empire/global_revenue/revenue_launcher.py", line 1, in <module>
+    from pro_services import pro_services_live
+  File "/data/data/com.termux/files/home/Titanium_Empire/pro_services/pro_services_live.py", line 1, in <module>
+    from finance import payment_processing_live as pay
+  File "/data/data/com.termux/files/home/Titanium_Empire/finance/payment_processing_live.py", line 2, in <module>
+    import stripe
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/__init__.py", line 47, in <module>
+    from stripe._http_client import (
+        new_default_http_client as new_default_http_client,
+    )
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/_http_client.py", line 10, in <module>
+    from http.client import HTTPResponse
+  File "/data/data/com.termux/files/usr/lib/python3.13/http/client.py", line 71, in <module>
+    import email.parser
+ModuleNotFoundError: No module named 'email.parser'
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/Titanium_Empire/auto_global_revenue.py", line 2, in <module>
+    from global_revenue import revenue_launcher
+  File "/data/data/com.termux/files/home/Titanium_Empire/global_revenue/revenue_launcher.py", line 1, in <module>
+    from pro_services import pro_services_live
+  File "/data/data/com.termux/files/home/Titanium_Empire/pro_services/pro_services_live.py", line 1, in <module>
+    from finance import payment_processing_live as pay
+  File "/data/data/com.termux/files/home/Titanium_Empire/finance/payment_processing_live.py", line 2, in <module>
+    import stripe
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/__init__.py", line 47, in <module>
+    from stripe._http_client import (
+        new_default_http_client as new_default_http_client,
+    )
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/_http_client.py", line 10, in <module>
+    from http.client import HTTPResponse
+  File "/data/data/com.termux/files/usr/lib/python3.13/http/client.py", line 71, in <module>
+    import email.parser
+ModuleNotFoundError: No module named 'email.parser'
+nohup: ignoring input
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/Titanium_Empire/auto_global_revenue.py", line 2, in <module>
+    from global_revenue import revenue_launcher
+  File "/data/data/com.termux/files/home/Titanium_Empire/global_revenue/revenue_launcher.py", line 1, in <module>
+    from pro_services import pro_services_live
+  File "/data/data/com.termux/files/home/Titanium_Empire/pro_services/pro_services_live.py", line 1, in <module>
+    from finance import payment_processing_live as pay
+  File "/data/data/com.termux/files/home/Titanium_Empire/finance/payment_processing_live.py", line 2, in <module>
+    import stripe
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/__init__.py", line 47, in <module>
+    from stripe._http_client import (
+        new_default_http_client as new_default_http_client,
+    )
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/_http_client.py", line 10, in <module>
+    from http.client import HTTPResponse
+  File "/data/data/com.termux/files/usr/lib/python3.13/http/client.py", line 71, in <module>
+    import email.parser
+ModuleNotFoundError: No module named 'email.parser'
+nohup: ignoring input
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/Titanium_Empire/auto_global_revenue.py", line 2, in <module>
+    from global_revenue import revenue_launcher
+  File "/data/data/com.termux/files/home/Titanium_Empire/global_revenue/revenue_launcher.py", line 1, in <module>
+    from pro_services import pro_services_live
+  File "/data/data/com.termux/files/home/Titanium_Empire/pro_services/pro_services_live.py", line 1, in <module>
+    from finance import payment_processing_live as pay
+  File "/data/data/com.termux/files/home/Titanium_Empire/finance/payment_processing_live.py", line 2, in <module>
+    import stripe
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/__init__.py", line 47, in <module>
+    from stripe._http_client import (
+        new_default_http_client as new_default_http_client,
+    )
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/_http_client.py", line 10, in <module>
+    from http.client import HTTPResponse
+  File "/data/data/com.termux/files/usr/lib/python3.13/http/client.py", line 71, in <module>
+    import email.parser
+ModuleNotFoundError: No module named 'email.parser'
+nohup: ignoring input
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/Titanium_Empire/auto_global_revenue.py", line 2, in <module>
+    from global_revenue import revenue_launcher
+  File "/data/data/com.termux/files/home/Titanium_Empire/global_revenue/revenue_launcher.py", line 1, in <module>
+    from pro_services import pro_services_live
+  File "/data/data/com.termux/files/home/Titanium_Empire/pro_services/pro_services_live.py", line 1, in <module>
+    from finance import payment_processing_live as pay
+  File "/data/data/com.termux/files/home/Titanium_Empire/finance/payment_processing_live.py", line 2, in <module>
+    import stripe
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/__init__.py", line 47, in <module>
+    from stripe._http_client import (
+        new_default_http_client as new_default_http_client,
+    )
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/_http_client.py", line 10, in <module>
+    from http.client import HTTPResponse
+  File "/data/data/com.termux/files/usr/lib/python3.13/http/client.py", line 71, in <module>
+    import email.parser
+ModuleNotFoundError: No module named 'email.parser'
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/Titanium_Empire/auto_global_revenue.py", line 2, in <module>
+    from global_revenue import revenue_launcher
+  File "/data/data/com.termux/files/home/Titanium_Empire/global_revenue/revenue_launcher.py", line 1, in <module>
+    from pro_services import pro_services_live
+  File "/data/data/com.termux/files/home/Titanium_Empire/pro_services/pro_services_live.py", line 1, in <module>
+    from finance import payment_processing_live as pay
+  File "/data/data/com.termux/files/home/Titanium_Empire/finance/payment_processing_live.py", line 2, in <module>
+    import stripe
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/__init__.py", line 47, in <module>
+    from stripe._http_client import (
+        new_default_http_client as new_default_http_client,
+    )
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/_http_client.py", line 10, in <module>
+    from http.client import HTTPResponse
+  File "/data/data/com.termux/files/usr/lib/python3.13/http/client.py", line 71, in <module>
+    import email.parser
+ModuleNotFoundError: No module named 'email.parser'
+nohup: ignoring input
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/Titanium_Empire/auto_global_revenue.py", line 2, in <module>
+    from global_revenue import revenue_launcher
+  File "/data/data/com.termux/files/home/Titanium_Empire/global_revenue/revenue_launcher.py", line 1, in <module>
+    from pro_services import pro_services_live
+  File "/data/data/com.termux/files/home/Titanium_Empire/pro_services/pro_services_live.py", line 1, in <module>
+    from finance import payment_processing_live as pay
+  File "/data/data/com.termux/files/home/Titanium_Empire/finance/payment_processing_live.py", line 2, in <module>
+    import stripe
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/__init__.py", line 47, in <module>
+    from stripe._http_client import (
+        new_default_http_client as new_default_http_client,
+    )
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/_http_client.py", line 10, in <module>
+    from http.client import HTTPResponse
+  File "/data/data/com.termux/files/usr/lib/python3.13/http/client.py", line 71, in <module>
+    import email.parser
+ModuleNotFoundError: No module named 'email.parser'
+nohup: ignoring input
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/Titanium_Empire/auto_global_revenue.py", line 2, in <module>
+    from global_revenue import revenue_launcher
+  File "/data/data/com.termux/files/home/Titanium_Empire/global_revenue/revenue_launcher.py", line 1, in <module>
+    from pro_services import pro_services_live
+  File "/data/data/com.termux/files/home/Titanium_Empire/pro_services/pro_services_live.py", line 1, in <module>
+    from finance import payment_processing_live as pay
+  File "/data/data/com.termux/files/home/Titanium_Empire/finance/payment_processing_live.py", line 2, in <module>
+    import stripe
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/__init__.py", line 47, in <module>
+    from stripe._http_client import (
+        new_default_http_client as new_default_http_client,
+    )
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/_http_client.py", line 10, in <module>
+    from http.client import HTTPResponse
+  File "/data/data/com.termux/files/usr/lib/python3.13/http/client.py", line 71, in <module>
+    import email.parser
+ModuleNotFoundError: No module named 'email.parser'
+nohup: ignoring input
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/Titanium_Empire/auto_global_revenue.py", line 2, in <module>
+    from global_revenue import revenue_launcher
+  File "/data/data/com.termux/files/home/Titanium_Empire/global_revenue/revenue_launcher.py", line 1, in <module>
+    from pro_services import pro_services_live
+  File "/data/data/com.termux/files/home/Titanium_Empire/pro_services/pro_services_live.py", line 1, in <module>
+    from finance import payment_processing_live as pay
+  File "/data/data/com.termux/files/home/Titanium_Empire/finance/payment_processing_live.py", line 2, in <module>
+    import stripe
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/__init__.py", line 47, in <module>
+    from stripe._http_client import (
+        new_default_http_client as new_default_http_client,
+    )
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/_http_client.py", line 10, in <module>
+    from http.client import HTTPResponse
+  File "/data/data/com.termux/files/usr/lib/python3.13/http/client.py", line 71, in <module>
+    import email.parser
+ModuleNotFoundError: No module named 'email.parser'
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/Titanium_Empire/auto_global_revenue.py", line 2, in <module>
+    from global_revenue import revenue_launcher
+  File "/data/data/com.termux/files/home/Titanium_Empire/global_revenue/revenue_launcher.py", line 1, in <module>
+    from pro_services import pro_services_live
+  File "/data/data/com.termux/files/home/Titanium_Empire/pro_services/pro_services_live.py", line 1, in <module>
+    from finance import payment_processing_live as pay
+  File "/data/data/com.termux/files/home/Titanium_Empire/finance/payment_processing_live.py", line 2, in <module>
+    import stripe
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/__init__.py", line 47, in <module>
+    from stripe._http_client import (
+        new_default_http_client as new_default_http_client,
+    )
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/_http_client.py", line 10, in <module>
+    from http.client import HTTPResponse
+  File "/data/data/com.termux/files/usr/lib/python3.13/http/client.py", line 71, in <module>
+    import email.parser
+ModuleNotFoundError: No module named 'email.parser'
+nohup: ignoring input
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/Titanium_Empire/auto_global_revenue.py", line 2, in <module>
+    from global_revenue import revenue_launcher
+  File "/data/data/com.termux/files/home/Titanium_Empire/global_revenue/revenue_launcher.py", line 1, in <module>
+    from pro_services import pro_services_live
+  File "/data/data/com.termux/files/home/Titanium_Empire/pro_services/pro_services_live.py", line 1, in <module>
+    from finance import payment_processing_live as pay
+  File "/data/data/com.termux/files/home/Titanium_Empire/finance/payment_processing_live.py", line 2, in <module>
+    import stripe
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/__init__.py", line 47, in <module>
+    from stripe._http_client import (
+        new_default_http_client as new_default_http_client,
+    )
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/_http_client.py", line 10, in <module>
+    from http.client import HTTPResponse
+  File "/data/data/com.termux/files/usr/lib/python3.13/http/client.py", line 71, in <module>
+    import email.parser
+ModuleNotFoundError: No module named 'email.parser'
+nohup: ignoring input
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/Titanium_Empire/auto_global_revenue.py", line 2, in <module>
+    from global_revenue import revenue_launcher
+  File "/data/data/com.termux/files/home/Titanium_Empire/global_revenue/revenue_launcher.py", line 1, in <module>
+    from pro_services import pro_services_live
+  File "/data/data/com.termux/files/home/Titanium_Empire/pro_services/pro_services_live.py", line 1, in <module>
+    from finance import payment_processing_live as pay
+  File "/data/data/com.termux/files/home/Titanium_Empire/finance/payment_processing_live.py", line 2, in <module>
+    import stripe
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/__init__.py", line 47, in <module>
+    from stripe._http_client import (
+        new_default_http_client as new_default_http_client,
+    )
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/_http_client.py", line 10, in <module>
+    from http.client import HTTPResponse
+  File "/data/data/com.termux/files/usr/lib/python3.13/http/client.py", line 71, in <module>
+    import email.parser
+ModuleNotFoundError: No module named 'email.parser'
+nohup: ignoring input
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/Titanium_Empire/auto_global_revenue.py", line 2, in <module>
+    from global_revenue import revenue_launcher
+  File "/data/data/com.termux/files/home/Titanium_Empire/global_revenue/revenue_launcher.py", line 1, in <module>
+    from pro_services import pro_services_live
+  File "/data/data/com.termux/files/home/Titanium_Empire/pro_services/pro_services_live.py", line 1, in <module>
+    from finance import payment_processing_live as pay
+  File "/data/data/com.termux/files/home/Titanium_Empire/finance/payment_processing_live.py", line 2, in <module>
+    import stripe
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/__init__.py", line 47, in <module>
+    from stripe._http_client import (
+        new_default_http_client as new_default_http_client,
+    )
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/_http_client.py", line 10, in <module>
+    from http.client import HTTPResponse
+  File "/data/data/com.termux/files/usr/lib/python3.13/http/client.py", line 71, in <module>
+    import email.parser
+ModuleNotFoundError: No module named 'email.parser'
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/Titanium_Empire/auto_global_revenue.py", line 2, in <module>
+    from global_revenue import revenue_launcher
+  File "/data/data/com.termux/files/home/Titanium_Empire/global_revenue/revenue_launcher.py", line 1, in <module>
+    from pro_services import pro_services_live
+  File "/data/data/com.termux/files/home/Titanium_Empire/pro_services/pro_services_live.py", line 1, in <module>
+    from finance import payment_processing_live as pay
+  File "/data/data/com.termux/files/home/Titanium_Empire/finance/payment_processing_live.py", line 2, in <module>
+    import stripe
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/__init__.py", line 47, in <module>
+    from stripe._http_client import (
+        new_default_http_client as new_default_http_client,
+    )
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/_http_client.py", line 10, in <module>
+    from http.client import HTTPResponse
+  File "/data/data/com.termux/files/usr/lib/python3.13/http/client.py", line 71, in <module>
+    import email.parser
+ModuleNotFoundError: No module named 'email.parser'
+nohup: ignoring input
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/Titanium_Empire/auto_global_revenue.py", line 2, in <module>
+    from global_revenue import revenue_launcher
+  File "/data/data/com.termux/files/home/Titanium_Empire/global_revenue/revenue_launcher.py", line 1, in <module>
+    from pro_services import pro_services_live
+  File "/data/data/com.termux/files/home/Titanium_Empire/pro_services/pro_services_live.py", line 1, in <module>
+    from finance import payment_processing_live as pay
+  File "/data/data/com.termux/files/home/Titanium_Empire/finance/payment_processing_live.py", line 2, in <module>
+    import stripe
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/__init__.py", line 47, in <module>
+    from stripe._http_client import (
+        new_default_http_client as new_default_http_client,
+    )
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/_http_client.py", line 10, in <module>
+    from http.client import HTTPResponse
+  File "/data/data/com.termux/files/usr/lib/python3.13/http/client.py", line 71, in <module>
+    import email.parser
+ModuleNotFoundError: No module named 'email.parser'
+nohup: ignoring input
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/Titanium_Empire/auto_global_revenue.py", line 2, in <module>
+    from global_revenue import revenue_launcher
+  File "/data/data/com.termux/files/home/Titanium_Empire/global_revenue/revenue_launcher.py", line 1, in <module>
+    from pro_services import pro_services_live
+  File "/data/data/com.termux/files/home/Titanium_Empire/pro_services/pro_services_live.py", line 1, in <module>
+    from finance import payment_processing_live as pay
+  File "/data/data/com.termux/files/home/Titanium_Empire/finance/payment_processing_live.py", line 2, in <module>
+    import stripe
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/__init__.py", line 47, in <module>
+    from stripe._http_client import (
+        new_default_http_client as new_default_http_client,
+    )
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/_http_client.py", line 10, in <module>
+    from http.client import HTTPResponse
+  File "/data/data/com.termux/files/usr/lib/python3.13/http/client.py", line 71, in <module>
+    import email.parser
+ModuleNotFoundError: No module named 'email.parser'
+nohup: ignoring input
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/Titanium_Empire/auto_global_revenue.py", line 2, in <module>
+    from global_revenue import revenue_launcher
+  File "/data/data/com.termux/files/home/Titanium_Empire/global_revenue/revenue_launcher.py", line 1, in <module>
+    from pro_services import pro_services_live
+  File "/data/data/com.termux/files/home/Titanium_Empire/pro_services/pro_services_live.py", line 1, in <module>
+    from finance import payment_processing_live as pay
+  File "/data/data/com.termux/files/home/Titanium_Empire/finance/payment_processing_live.py", line 2, in <module>
+    import stripe
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/__init__.py", line 47, in <module>
+    from stripe._http_client import (
+        new_default_http_client as new_default_http_client,
+    )
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/_http_client.py", line 10, in <module>
+    from http.client import HTTPResponse
+  File "/data/data/com.termux/files/usr/lib/python3.13/http/client.py", line 71, in <module>
+    import email.parser
+ModuleNotFoundError: No module named 'email.parser'
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/Titanium_Empire/auto_global_revenue.py", line 2, in <module>
+    from global_revenue import revenue_launcher
+  File "/data/data/com.termux/files/home/Titanium_Empire/global_revenue/revenue_launcher.py", line 1, in <module>
+    from pro_services import pro_services_live
+  File "/data/data/com.termux/files/home/Titanium_Empire/pro_services/pro_services_live.py", line 1, in <module>
+    from finance import payment_processing_live as pay
+  File "/data/data/com.termux/files/home/Titanium_Empire/finance/payment_processing_live.py", line 2, in <module>
+    import stripe
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/__init__.py", line 47, in <module>
+    from stripe._http_client import (
+        new_default_http_client as new_default_http_client,
+    )
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/_http_client.py", line 10, in <module>
+    from http.client import HTTPResponse
+  File "/data/data/com.termux/files/usr/lib/python3.13/http/client.py", line 71, in <module>
+    import email.parser
+ModuleNotFoundError: No module named 'email.parser'
+nohup: ignoring input
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/Titanium_Empire/auto_global_revenue.py", line 2, in <module>
+    from global_revenue import revenue_launcher
+  File "/data/data/com.termux/files/home/Titanium_Empire/global_revenue/revenue_launcher.py", line 1, in <module>
+    from pro_services import pro_services_live
+  File "/data/data/com.termux/files/home/Titanium_Empire/pro_services/pro_services_live.py", line 1, in <module>
+    from finance import payment_processing_live as pay
+  File "/data/data/com.termux/files/home/Titanium_Empire/finance/payment_processing_live.py", line 2, in <module>
+    import stripe
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/__init__.py", line 47, in <module>
+    from stripe._http_client import (
+        new_default_http_client as new_default_http_client,
+    )
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/_http_client.py", line 10, in <module>
+    from http.client import HTTPResponse
+  File "/data/data/com.termux/files/usr/lib/python3.13/http/client.py", line 71, in <module>
+    import email.parser
+ModuleNotFoundError: No module named 'email.parser'
+nohup: ignoring input
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/Titanium_Empire/auto_global_revenue.py", line 2, in <module>
+    from global_revenue import revenue_launcher
+  File "/data/data/com.termux/files/home/Titanium_Empire/global_revenue/revenue_launcher.py", line 1, in <module>
+    from pro_services import pro_services_live
+  File "/data/data/com.termux/files/home/Titanium_Empire/pro_services/pro_services_live.py", line 1, in <module>
+    from finance import payment_processing_live as pay
+  File "/data/data/com.termux/files/home/Titanium_Empire/finance/payment_processing_live.py", line 2, in <module>
+    import stripe
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/__init__.py", line 47, in <module>
+    from stripe._http_client import (
+        new_default_http_client as new_default_http_client,
+    )
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/_http_client.py", line 10, in <module>
+    from http.client import HTTPResponse
+  File "/data/data/com.termux/files/usr/lib/python3.13/http/client.py", line 71, in <module>
+    import email.parser
+ModuleNotFoundError: No module named 'email.parser'
+nohup: ignoring input
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/Titanium_Empire/auto_global_revenue.py", line 2, in <module>
+    from global_revenue import revenue_launcher
+  File "/data/data/com.termux/files/home/Titanium_Empire/global_revenue/revenue_launcher.py", line 1, in <module>
+    from pro_services import pro_services_live
+  File "/data/data/com.termux/files/home/Titanium_Empire/pro_services/pro_services_live.py", line 1, in <module>
+    from finance import payment_processing_live as pay
+  File "/data/data/com.termux/files/home/Titanium_Empire/finance/payment_processing_live.py", line 2, in <module>
+    import stripe
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/__init__.py", line 47, in <module>
+    from stripe._http_client import (
+        new_default_http_client as new_default_http_client,
+    )
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/_http_client.py", line 10, in <module>
+    from http.client import HTTPResponse
+  File "/data/data/com.termux/files/usr/lib/python3.13/http/client.py", line 71, in <module>
+    import email.parser
+ModuleNotFoundError: No module named 'email.parser'
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/Titanium_Empire/auto_global_revenue.py", line 2, in <module>
+    from global_revenue import revenue_launcher
+  File "/data/data/com.termux/files/home/Titanium_Empire/global_revenue/revenue_launcher.py", line 1, in <module>
+    from pro_services import pro_services_live
+  File "/data/data/com.termux/files/home/Titanium_Empire/pro_services/pro_services_live.py", line 1, in <module>
+    from finance import payment_processing_live as pay
+  File "/data/data/com.termux/files/home/Titanium_Empire/finance/payment_processing_live.py", line 2, in <module>
+    import stripe
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/__init__.py", line 47, in <module>
+    from stripe._http_client import (
+        new_default_http_client as new_default_http_client,
+    )
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/_http_client.py", line 10, in <module>
+    from http.client import HTTPResponse
+  File "/data/data/com.termux/files/usr/lib/python3.13/http/client.py", line 71, in <module>
+    import email.parser
+ModuleNotFoundError: No module named 'email.parser'
+nohup: ignoring input
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/Titanium_Empire/auto_global_revenue.py", line 2, in <module>
+    from global_revenue import revenue_launcher
+  File "/data/data/com.termux/files/home/Titanium_Empire/global_revenue/revenue_launcher.py", line 1, in <module>
+    from pro_services import pro_services_live
+  File "/data/data/com.termux/files/home/Titanium_Empire/pro_services/pro_services_live.py", line 1, in <module>
+    from finance import payment_processing_live as pay
+  File "/data/data/com.termux/files/home/Titanium_Empire/finance/payment_processing_live.py", line 2, in <module>
+    import stripe
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/__init__.py", line 47, in <module>
+    from stripe._http_client import (
+        new_default_http_client as new_default_http_client,
+    )
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/_http_client.py", line 10, in <module>
+    from http.client import HTTPResponse
+  File "/data/data/com.termux/files/usr/lib/python3.13/http/client.py", line 71, in <module>
+    import email.parser
+ModuleNotFoundError: No module named 'email.parser'
+nohup: ignoring input
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/Titanium_Empire/auto_global_revenue.py", line 2, in <module>
+    from global_revenue import revenue_launcher
+  File "/data/data/com.termux/files/home/Titanium_Empire/global_revenue/revenue_launcher.py", line 1, in <module>
+    from pro_services import pro_services_live
+  File "/data/data/com.termux/files/home/Titanium_Empire/pro_services/pro_services_live.py", line 1, in <module>
+    from finance import payment_processing_live as pay
+  File "/data/data/com.termux/files/home/Titanium_Empire/finance/payment_processing_live.py", line 2, in <module>
+    import stripe
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/__init__.py", line 47, in <module>
+    from stripe._http_client import (
+        new_default_http_client as new_default_http_client,
+    )
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/_http_client.py", line 10, in <module>
+    from http.client import HTTPResponse
+  File "/data/data/com.termux/files/usr/lib/python3.13/http/client.py", line 71, in <module>
+    import email.parser
+ModuleNotFoundError: No module named 'email.parser'
+nohup: ignoring input
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/Titanium_Empire/auto_global_revenue.py", line 2, in <module>
+    from global_revenue import revenue_launcher
+  File "/data/data/com.termux/files/home/Titanium_Empire/global_revenue/revenue_launcher.py", line 1, in <module>
+    from pro_services import pro_services_live
+  File "/data/data/com.termux/files/home/Titanium_Empire/pro_services/pro_services_live.py", line 1, in <module>
+    from finance import payment_processing_live as pay
+  File "/data/data/com.termux/files/home/Titanium_Empire/finance/payment_processing_live.py", line 2, in <module>
+    import stripe
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/__init__.py", line 47, in <module>
+    from stripe._http_client import (
+        new_default_http_client as new_default_http_client,
+    )
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/_http_client.py", line 10, in <module>
+    from http.client import HTTPResponse
+  File "/data/data/com.termux/files/usr/lib/python3.13/http/client.py", line 71, in <module>
+    import email.parser
+ModuleNotFoundError: No module named 'email.parser'
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/Titanium_Empire/auto_global_revenue.py", line 2, in <module>
+    from global_revenue import revenue_launcher
+  File "/data/data/com.termux/files/home/Titanium_Empire/global_revenue/revenue_launcher.py", line 1, in <module>
+    from pro_services import pro_services_live
+  File "/data/data/com.termux/files/home/Titanium_Empire/pro_services/pro_services_live.py", line 1, in <module>
+    from finance import payment_processing_live as pay
+  File "/data/data/com.termux/files/home/Titanium_Empire/finance/payment_processing_live.py", line 2, in <module>
+    import stripe
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/__init__.py", line 47, in <module>
+    from stripe._http_client import (
+        new_default_http_client as new_default_http_client,
+    )
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/_http_client.py", line 10, in <module>
+    from http.client import HTTPResponse
+  File "/data/data/com.termux/files/usr/lib/python3.13/http/client.py", line 71, in <module>
+    import email.parser
+ModuleNotFoundError: No module named 'email.parser'
+nohup: ignoring input
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/Titanium_Empire/auto_global_revenue.py", line 2, in <module>
+    from global_revenue import revenue_launcher
+  File "/data/data/com.termux/files/home/Titanium_Empire/global_revenue/revenue_launcher.py", line 1, in <module>
+    from pro_services import pro_services_live
+  File "/data/data/com.termux/files/home/Titanium_Empire/pro_services/pro_services_live.py", line 1, in <module>
+    from finance import payment_processing_live as pay
+  File "/data/data/com.termux/files/home/Titanium_Empire/finance/payment_processing_live.py", line 2, in <module>
+    import stripe
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/__init__.py", line 47, in <module>
+    from stripe._http_client import (
+        new_default_http_client as new_default_http_client,
+    )
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/_http_client.py", line 10, in <module>
+    from http.client import HTTPResponse
+  File "/data/data/com.termux/files/usr/lib/python3.13/http/client.py", line 71, in <module>
+    import email.parser
+ModuleNotFoundError: No module named 'email.parser'
+nohup: ignoring input
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/Titanium_Empire/auto_global_revenue.py", line 2, in <module>
+    from global_revenue import revenue_launcher
+  File "/data/data/com.termux/files/home/Titanium_Empire/global_revenue/revenue_launcher.py", line 1, in <module>
+    from pro_services import pro_services_live
+  File "/data/data/com.termux/files/home/Titanium_Empire/pro_services/pro_services_live.py", line 1, in <module>
+    from finance import payment_processing_live as pay
+  File "/data/data/com.termux/files/home/Titanium_Empire/finance/payment_processing_live.py", line 2, in <module>
+    import stripe
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/__init__.py", line 47, in <module>
+    from stripe._http_client import (
+        new_default_http_client as new_default_http_client,
+    )
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/_http_client.py", line 10, in <module>
+    from http.client import HTTPResponse
+  File "/data/data/com.termux/files/usr/lib/python3.13/http/client.py", line 71, in <module>
+    import email.parser
+ModuleNotFoundError: No module named 'email.parser'
+nohup: ignoring input
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/Titanium_Empire/auto_global_revenue.py", line 2, in <module>
+    from global_revenue import revenue_launcher
+  File "/data/data/com.termux/files/home/Titanium_Empire/global_revenue/revenue_launcher.py", line 1, in <module>
+    from pro_services import pro_services_live
+  File "/data/data/com.termux/files/home/Titanium_Empire/pro_services/pro_services_live.py", line 1, in <module>
+    from finance import payment_processing_live as pay
+  File "/data/data/com.termux/files/home/Titanium_Empire/finance/payment_processing_live.py", line 2, in <module>
+    import stripe
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/__init__.py", line 47, in <module>
+    from stripe._http_client import (
+        new_default_http_client as new_default_http_client,
+    )
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/_http_client.py", line 10, in <module>
+    from http.client import HTTPResponse
+  File "/data/data/com.termux/files/usr/lib/python3.13/http/client.py", line 71, in <module>
+    import email.parser
+ModuleNotFoundError: No module named 'email.parser'
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/Titanium_Empire/auto_global_revenue.py", line 2, in <module>
+    from global_revenue import revenue_launcher
+  File "/data/data/com.termux/files/home/Titanium_Empire/global_revenue/revenue_launcher.py", line 1, in <module>
+    from pro_services import pro_services_live
+  File "/data/data/com.termux/files/home/Titanium_Empire/pro_services/pro_services_live.py", line 1, in <module>
+    from finance import payment_processing_live as pay
+  File "/data/data/com.termux/files/home/Titanium_Empire/finance/payment_processing_live.py", line 2, in <module>
+    import stripe
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/__init__.py", line 47, in <module>
+    from stripe._http_client import (
+        new_default_http_client as new_default_http_client,
+    )
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/_http_client.py", line 10, in <module>
+    from http.client import HTTPResponse
+  File "/data/data/com.termux/files/usr/lib/python3.13/http/client.py", line 71, in <module>
+    import email.parser
+ModuleNotFoundError: No module named 'email.parser'
+nohup: ignoring input
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/Titanium_Empire/auto_global_revenue.py", line 2, in <module>
+    from global_revenue import revenue_launcher
+  File "/data/data/com.termux/files/home/Titanium_Empire/global_revenue/revenue_launcher.py", line 1, in <module>
+    from pro_services import pro_services_live
+  File "/data/data/com.termux/files/home/Titanium_Empire/pro_services/pro_services_live.py", line 1, in <module>
+    from finance import payment_processing_live as pay
+  File "/data/data/com.termux/files/home/Titanium_Empire/finance/payment_processing_live.py", line 2, in <module>
+    import stripe
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/__init__.py", line 47, in <module>
+    from stripe._http_client import (
+        new_default_http_client as new_default_http_client,
+    )
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/_http_client.py", line 10, in <module>
+    from http.client import HTTPResponse
+  File "/data/data/com.termux/files/usr/lib/python3.13/http/client.py", line 71, in <module>
+    import email.parser
+ModuleNotFoundError: No module named 'email.parser'
+nohup: ignoring input
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/Titanium_Empire/auto_global_revenue.py", line 2, in <module>
+    from global_revenue import revenue_launcher
+  File "/data/data/com.termux/files/home/Titanium_Empire/global_revenue/revenue_launcher.py", line 1, in <module>
+    from pro_services import pro_services_live
+  File "/data/data/com.termux/files/home/Titanium_Empire/pro_services/pro_services_live.py", line 1, in <module>
+    from finance import payment_processing_live as pay
+  File "/data/data/com.termux/files/home/Titanium_Empire/finance/payment_processing_live.py", line 2, in <module>
+    import stripe
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/__init__.py", line 47, in <module>
+    from stripe._http_client import (
+        new_default_http_client as new_default_http_client,
+    )
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/_http_client.py", line 10, in <module>
+    from http.client import HTTPResponse
+  File "/data/data/com.termux/files/usr/lib/python3.13/http/client.py", line 71, in <module>
+    import email.parser
+ModuleNotFoundError: No module named 'email.parser'
+nohup: ignoring input
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/Titanium_Empire/auto_global_revenue.py", line 2, in <module>
+    from global_revenue import revenue_launcher
+  File "/data/data/com.termux/files/home/Titanium_Empire/global_revenue/revenue_launcher.py", line 1, in <module>
+    from pro_services import pro_services_live
+  File "/data/data/com.termux/files/home/Titanium_Empire/pro_services/pro_services_live.py", line 1, in <module>
+    from finance import payment_processing_live as pay
+  File "/data/data/com.termux/files/home/Titanium_Empire/finance/payment_processing_live.py", line 2, in <module>
+    import stripe
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/__init__.py", line 47, in <module>
+    from stripe._http_client import (
+        new_default_http_client as new_default_http_client,
+    )
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/_http_client.py", line 10, in <module>
+    from http.client import HTTPResponse
+  File "/data/data/com.termux/files/usr/lib/python3.13/http/client.py", line 71, in <module>
+    import email.parser
+ModuleNotFoundError: No module named 'email.parser'
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/Titanium_Empire/auto_global_revenue.py", line 2, in <module>
+    from global_revenue import revenue_launcher
+  File "/data/data/com.termux/files/home/Titanium_Empire/global_revenue/revenue_launcher.py", line 1, in <module>
+    from pro_services import pro_services_live
+  File "/data/data/com.termux/files/home/Titanium_Empire/pro_services/pro_services_live.py", line 1, in <module>
+    from finance import payment_processing_live as pay
+  File "/data/data/com.termux/files/home/Titanium_Empire/finance/payment_processing_live.py", line 2, in <module>
+    import stripe
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/__init__.py", line 47, in <module>
+    from stripe._http_client import (
+        new_default_http_client as new_default_http_client,
+    )
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/_http_client.py", line 10, in <module>
+    from http.client import HTTPResponse
+  File "/data/data/com.termux/files/usr/lib/python3.13/http/client.py", line 71, in <module>
+    import email.parser
+ModuleNotFoundError: No module named 'email.parser'
+nohup: ignoring input
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/Titanium_Empire/auto_global_revenue.py", line 2, in <module>
+    from global_revenue import revenue_launcher
+  File "/data/data/com.termux/files/home/Titanium_Empire/global_revenue/revenue_launcher.py", line 1, in <module>
+    from pro_services import pro_services_live
+  File "/data/data/com.termux/files/home/Titanium_Empire/pro_services/pro_services_live.py", line 1, in <module>
+    from finance import payment_processing_live as pay
+  File "/data/data/com.termux/files/home/Titanium_Empire/finance/payment_processing_live.py", line 2, in <module>
+    import stripe
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/__init__.py", line 47, in <module>
+    from stripe._http_client import (
+        new_default_http_client as new_default_http_client,
+    )
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/_http_client.py", line 10, in <module>
+    from http.client import HTTPResponse
+  File "/data/data/com.termux/files/usr/lib/python3.13/http/client.py", line 71, in <module>
+    import email.parser
+ModuleNotFoundError: No module named 'email.parser'
+nohup: ignoring input
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/Titanium_Empire/auto_global_revenue.py", line 2, in <module>
+    from global_revenue import revenue_launcher
+  File "/data/data/com.termux/files/home/Titanium_Empire/global_revenue/revenue_launcher.py", line 1, in <module>
+    from pro_services import pro_services_live
+  File "/data/data/com.termux/files/home/Titanium_Empire/pro_services/pro_services_live.py", line 1, in <module>
+    from finance import payment_processing_live as pay
+  File "/data/data/com.termux/files/home/Titanium_Empire/finance/payment_processing_live.py", line 2, in <module>
+    import stripe
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/__init__.py", line 47, in <module>
+    from stripe._http_client import (
+        new_default_http_client as new_default_http_client,
+    )
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/_http_client.py", line 10, in <module>
+    from http.client import HTTPResponse
+  File "/data/data/com.termux/files/usr/lib/python3.13/http/client.py", line 71, in <module>
+    import email.parser
+ModuleNotFoundError: No module named 'email.parser'
+nohup: ignoring input
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/Titanium_Empire/auto_global_revenue.py", line 2, in <module>
+    from global_revenue import revenue_launcher
+  File "/data/data/com.termux/files/home/Titanium_Empire/global_revenue/revenue_launcher.py", line 1, in <module>
+    from pro_services import pro_services_live
+  File "/data/data/com.termux/files/home/Titanium_Empire/pro_services/pro_services_live.py", line 1, in <module>
+    from finance import payment_processing_live as pay
+  File "/data/data/com.termux/files/home/Titanium_Empire/finance/payment_processing_live.py", line 2, in <module>
+    import stripe
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/__init__.py", line 47, in <module>
+    from stripe._http_client import (
+        new_default_http_client as new_default_http_client,
+    )
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/_http_client.py", line 10, in <module>
+    from http.client import HTTPResponse
+  File "/data/data/com.termux/files/usr/lib/python3.13/http/client.py", line 71, in <module>
+    import email.parser
+ModuleNotFoundError: No module named 'email.parser'
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/Titanium_Empire/auto_global_revenue.py", line 2, in <module>
+    from global_revenue import revenue_launcher
+  File "/data/data/com.termux/files/home/Titanium_Empire/global_revenue/revenue_launcher.py", line 1, in <module>
+    from pro_services import pro_services_live
+  File "/data/data/com.termux/files/home/Titanium_Empire/pro_services/pro_services_live.py", line 1, in <module>
+    from finance import payment_processing_live as pay
+  File "/data/data/com.termux/files/home/Titanium_Empire/finance/payment_processing_live.py", line 2, in <module>
+    import stripe
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/__init__.py", line 47, in <module>
+    from stripe._http_client import (
+        new_default_http_client as new_default_http_client,
+    )
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/_http_client.py", line 10, in <module>
+    from http.client import HTTPResponse
+  File "/data/data/com.termux/files/usr/lib/python3.13/http/client.py", line 71, in <module>
+    import email.parser
+ModuleNotFoundError: No module named 'email.parser'
+nohup: ignoring input
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/Titanium_Empire/auto_global_revenue.py", line 2, in <module>
+    from global_revenue import revenue_launcher
+  File "/data/data/com.termux/files/home/Titanium_Empire/global_revenue/revenue_launcher.py", line 1, in <module>
+    from pro_services import pro_services_live
+  File "/data/data/com.termux/files/home/Titanium_Empire/pro_services/pro_services_live.py", line 1, in <module>
+    from finance import payment_processing_live as pay
+  File "/data/data/com.termux/files/home/Titanium_Empire/finance/payment_processing_live.py", line 2, in <module>
+    import stripe
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/__init__.py", line 47, in <module>
+    from stripe._http_client import (
+        new_default_http_client as new_default_http_client,
+    )
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/_http_client.py", line 10, in <module>
+    from http.client import HTTPResponse
+  File "/data/data/com.termux/files/usr/lib/python3.13/http/client.py", line 71, in <module>
+    import email.parser
+ModuleNotFoundError: No module named 'email.parser'
+nohup: ignoring input
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/Titanium_Empire/auto_global_revenue.py", line 2, in <module>
+    from global_revenue import revenue_launcher
+  File "/data/data/com.termux/files/home/Titanium_Empire/global_revenue/revenue_launcher.py", line 1, in <module>
+    from pro_services import pro_services_live
+  File "/data/data/com.termux/files/home/Titanium_Empire/pro_services/pro_services_live.py", line 1, in <module>
+    from finance import payment_processing_live as pay
+  File "/data/data/com.termux/files/home/Titanium_Empire/finance/payment_processing_live.py", line 2, in <module>
+    import stripe
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/__init__.py", line 47, in <module>
+    from stripe._http_client import (
+        new_default_http_client as new_default_http_client,
+    )
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/_http_client.py", line 10, in <module>
+    from http.client import HTTPResponse
+  File "/data/data/com.termux/files/usr/lib/python3.13/http/client.py", line 71, in <module>
+    import email.parser
+ModuleNotFoundError: No module named 'email.parser'
+nohup: ignoring input
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/Titanium_Empire/auto_global_revenue.py", line 2, in <module>
+    from global_revenue import revenue_launcher
+  File "/data/data/com.termux/files/home/Titanium_Empire/global_revenue/revenue_launcher.py", line 1, in <module>
+    from pro_services import pro_services_live
+  File "/data/data/com.termux/files/home/Titanium_Empire/pro_services/pro_services_live.py", line 1, in <module>
+    from finance import payment_processing_live as pay
+  File "/data/data/com.termux/files/home/Titanium_Empire/finance/payment_processing_live.py", line 2, in <module>
+    import stripe
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/__init__.py", line 47, in <module>
+    from stripe._http_client import (
+        new_default_http_client as new_default_http_client,
+    )
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/_http_client.py", line 10, in <module>
+    from http.client import HTTPResponse
+  File "/data/data/com.termux/files/usr/lib/python3.13/http/client.py", line 71, in <module>
+    import email.parser
+ModuleNotFoundError: No module named 'email.parser'
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/Titanium_Empire/auto_global_revenue.py", line 2, in <module>
+    from global_revenue import revenue_launcher
+  File "/data/data/com.termux/files/home/Titanium_Empire/global_revenue/revenue_launcher.py", line 1, in <module>
+    from pro_services import pro_services_live
+  File "/data/data/com.termux/files/home/Titanium_Empire/pro_services/pro_services_live.py", line 1, in <module>
+    from finance import payment_processing_live as pay
+  File "/data/data/com.termux/files/home/Titanium_Empire/finance/payment_processing_live.py", line 2, in <module>
+    import stripe
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/__init__.py", line 47, in <module>
+    from stripe._http_client import (
+        new_default_http_client as new_default_http_client,
+    )
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/_http_client.py", line 10, in <module>
+    from http.client import HTTPResponse
+  File "/data/data/com.termux/files/usr/lib/python3.13/http/client.py", line 71, in <module>
+    import email.parser
+ModuleNotFoundError: No module named 'email.parser'
+nohup: ignoring input
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/Titanium_Empire/auto_global_revenue.py", line 2, in <module>
+    from global_revenue import revenue_launcher
+  File "/data/data/com.termux/files/home/Titanium_Empire/global_revenue/revenue_launcher.py", line 1, in <module>
+    from pro_services import pro_services_live
+  File "/data/data/com.termux/files/home/Titanium_Empire/pro_services/pro_services_live.py", line 1, in <module>
+    from finance import payment_processing_live as pay
+  File "/data/data/com.termux/files/home/Titanium_Empire/finance/payment_processing_live.py", line 2, in <module>
+    import stripe
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/__init__.py", line 47, in <module>
+    from stripe._http_client import (
+        new_default_http_client as new_default_http_client,
+    )
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/_http_client.py", line 10, in <module>
+    from http.client import HTTPResponse
+  File "/data/data/com.termux/files/usr/lib/python3.13/http/client.py", line 71, in <module>
+    import email.parser
+ModuleNotFoundError: No module named 'email.parser'
+nohup: ignoring input
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/Titanium_Empire/auto_global_revenue.py", line 2, in <module>
+    from global_revenue import revenue_launcher
+  File "/data/data/com.termux/files/home/Titanium_Empire/global_revenue/revenue_launcher.py", line 1, in <module>
+    from pro_services import pro_services_live
+  File "/data/data/com.termux/files/home/Titanium_Empire/pro_services/pro_services_live.py", line 1, in <module>
+    from finance import payment_processing_live as pay
+  File "/data/data/com.termux/files/home/Titanium_Empire/finance/payment_processing_live.py", line 2, in <module>
+    import stripe
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/__init__.py", line 47, in <module>
+    from stripe._http_client import (
+        new_default_http_client as new_default_http_client,
+    )
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/_http_client.py", line 10, in <module>
+    from http.client import HTTPResponse
+  File "/data/data/com.termux/files/usr/lib/python3.13/http/client.py", line 71, in <module>
+    import email.parser
+ModuleNotFoundError: No module named 'email.parser'
+nohup: ignoring input
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/Titanium_Empire/auto_global_revenue.py", line 2, in <module>
+    from global_revenue import revenue_launcher
+  File "/data/data/com.termux/files/home/Titanium_Empire/global_revenue/revenue_launcher.py", line 1, in <module>
+    from pro_services import pro_services_live
+  File "/data/data/com.termux/files/home/Titanium_Empire/pro_services/pro_services_live.py", line 1, in <module>
+    from finance import payment_processing_live as pay
+  File "/data/data/com.termux/files/home/Titanium_Empire/finance/payment_processing_live.py", line 2, in <module>
+    import stripe
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/__init__.py", line 47, in <module>
+    from stripe._http_client import (
+        new_default_http_client as new_default_http_client,
+    )
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/_http_client.py", line 10, in <module>
+    from http.client import HTTPResponse
+  File "/data/data/com.termux/files/usr/lib/python3.13/http/client.py", line 71, in <module>
+    import email.parser
+ModuleNotFoundError: No module named 'email.parser'
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/Titanium_Empire/auto_global_revenue.py", line 2, in <module>
+    from global_revenue import revenue_launcher
+  File "/data/data/com.termux/files/home/Titanium_Empire/global_revenue/revenue_launcher.py", line 1, in <module>
+    from pro_services import pro_services_live
+  File "/data/data/com.termux/files/home/Titanium_Empire/pro_services/pro_services_live.py", line 1, in <module>
+    from finance import payment_processing_live as pay
+  File "/data/data/com.termux/files/home/Titanium_Empire/finance/payment_processing_live.py", line 2, in <module>
+    import stripe
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/__init__.py", line 47, in <module>
+    from stripe._http_client import (
+        new_default_http_client as new_default_http_client,
+    )
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/_http_client.py", line 10, in <module>
+    from http.client import HTTPResponse
+  File "/data/data/com.termux/files/usr/lib/python3.13/http/client.py", line 71, in <module>
+    import email.parser
+ModuleNotFoundError: No module named 'email.parser'
+nohup: ignoring input
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/Titanium_Empire/auto_global_revenue.py", line 2, in <module>
+    from global_revenue import revenue_launcher
+  File "/data/data/com.termux/files/home/Titanium_Empire/global_revenue/revenue_launcher.py", line 1, in <module>
+    from pro_services import pro_services_live
+  File "/data/data/com.termux/files/home/Titanium_Empire/pro_services/pro_services_live.py", line 1, in <module>
+    from finance import payment_processing_live as pay
+  File "/data/data/com.termux/files/home/Titanium_Empire/finance/payment_processing_live.py", line 2, in <module>
+    import stripe
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/__init__.py", line 47, in <module>
+    from stripe._http_client import (
+        new_default_http_client as new_default_http_client,
+    )
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/_http_client.py", line 10, in <module>
+    from http.client import HTTPResponse
+  File "/data/data/com.termux/files/usr/lib/python3.13/http/client.py", line 71, in <module>
+    import email.parser
+ModuleNotFoundError: No module named 'email.parser'
+nohup: ignoring input
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/Titanium_Empire/auto_global_revenue.py", line 2, in <module>
+    from global_revenue import revenue_launcher
+  File "/data/data/com.termux/files/home/Titanium_Empire/global_revenue/revenue_launcher.py", line 1, in <module>
+    from pro_services import pro_services_live
+  File "/data/data/com.termux/files/home/Titanium_Empire/pro_services/pro_services_live.py", line 1, in <module>
+    from finance import payment_processing_live as pay
+  File "/data/data/com.termux/files/home/Titanium_Empire/finance/payment_processing_live.py", line 2, in <module>
+    import stripe
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/__init__.py", line 47, in <module>
+    from stripe._http_client import (
+        new_default_http_client as new_default_http_client,
+    )
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/_http_client.py", line 10, in <module>
+    from http.client import HTTPResponse
+  File "/data/data/com.termux/files/usr/lib/python3.13/http/client.py", line 71, in <module>
+    import email.parser
+ModuleNotFoundError: No module named 'email.parser'
+nohup: ignoring input
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/Titanium_Empire/auto_global_revenue.py", line 2, in <module>
+    from global_revenue import revenue_launcher
+  File "/data/data/com.termux/files/home/Titanium_Empire/global_revenue/revenue_launcher.py", line 1, in <module>
+    from pro_services import pro_services_live
+  File "/data/data/com.termux/files/home/Titanium_Empire/pro_services/pro_services_live.py", line 1, in <module>
+    from finance import payment_processing_live as pay
+  File "/data/data/com.termux/files/home/Titanium_Empire/finance/payment_processing_live.py", line 2, in <module>
+    import stripe
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/__init__.py", line 47, in <module>
+    from stripe._http_client import (
+        new_default_http_client as new_default_http_client,
+    )
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/_http_client.py", line 10, in <module>
+    from http.client import HTTPResponse
+  File "/data/data/com.termux/files/usr/lib/python3.13/http/client.py", line 71, in <module>
+    import email.parser
+ModuleNotFoundError: No module named 'email.parser'
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/Titanium_Empire/auto_global_revenue.py", line 2, in <module>
+    from global_revenue import revenue_launcher
+  File "/data/data/com.termux/files/home/Titanium_Empire/global_revenue/revenue_launcher.py", line 1, in <module>
+    from pro_services import pro_services_live
+  File "/data/data/com.termux/files/home/Titanium_Empire/pro_services/pro_services_live.py", line 1, in <module>
+    from finance import payment_processing_live as pay
+  File "/data/data/com.termux/files/home/Titanium_Empire/finance/payment_processing_live.py", line 2, in <module>
+    import stripe
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/__init__.py", line 47, in <module>
+    from stripe._http_client import (
+        new_default_http_client as new_default_http_client,
+    )
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/_http_client.py", line 10, in <module>
+    from http.client import HTTPResponse
+  File "/data/data/com.termux/files/usr/lib/python3.13/http/client.py", line 71, in <module>
+    import email.parser
+ModuleNotFoundError: No module named 'email.parser'
+nohup: ignoring input
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/Titanium_Empire/auto_global_revenue.py", line 2, in <module>
+    from global_revenue import revenue_launcher
+  File "/data/data/com.termux/files/home/Titanium_Empire/global_revenue/revenue_launcher.py", line 1, in <module>
+    from pro_services import pro_services_live
+  File "/data/data/com.termux/files/home/Titanium_Empire/pro_services/pro_services_live.py", line 1, in <module>
+    from finance import payment_processing_live as pay
+  File "/data/data/com.termux/files/home/Titanium_Empire/finance/payment_processing_live.py", line 2, in <module>
+    import stripe
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/__init__.py", line 47, in <module>
+    from stripe._http_client import (
+        new_default_http_client as new_default_http_client,
+    )
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/_http_client.py", line 10, in <module>
+    from http.client import HTTPResponse
+  File "/data/data/com.termux/files/usr/lib/python3.13/http/client.py", line 71, in <module>
+    import email.parser
+ModuleNotFoundError: No module named 'email.parser'
+nohup: ignoring input
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/Titanium_Empire/auto_global_revenue.py", line 2, in <module>
+    from global_revenue import revenue_launcher
+  File "/data/data/com.termux/files/home/Titanium_Empire/global_revenue/revenue_launcher.py", line 1, in <module>
+    from pro_services import pro_services_live
+  File "/data/data/com.termux/files/home/Titanium_Empire/pro_services/pro_services_live.py", line 1, in <module>
+    from finance import payment_processing_live as pay
+  File "/data/data/com.termux/files/home/Titanium_Empire/finance/payment_processing_live.py", line 2, in <module>
+    import stripe
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/__init__.py", line 47, in <module>
+    from stripe._http_client import (
+        new_default_http_client as new_default_http_client,
+    )
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/_http_client.py", line 10, in <module>
+    from http.client import HTTPResponse
+  File "/data/data/com.termux/files/usr/lib/python3.13/http/client.py", line 71, in <module>
+    import email.parser
+ModuleNotFoundError: No module named 'email.parser'
+nohup: ignoring input
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/Titanium_Empire/auto_global_revenue.py", line 2, in <module>
+    from global_revenue import revenue_launcher
+  File "/data/data/com.termux/files/home/Titanium_Empire/global_revenue/revenue_launcher.py", line 1, in <module>
+    from pro_services import pro_services_live
+  File "/data/data/com.termux/files/home/Titanium_Empire/pro_services/pro_services_live.py", line 1, in <module>
+    from finance import payment_processing_live as pay
+  File "/data/data/com.termux/files/home/Titanium_Empire/finance/payment_processing_live.py", line 2, in <module>
+    import stripe
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/__init__.py", line 47, in <module>
+    from stripe._http_client import (
+        new_default_http_client as new_default_http_client,
+    )
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/_http_client.py", line 10, in <module>
+    from http.client import HTTPResponse
+  File "/data/data/com.termux/files/usr/lib/python3.13/http/client.py", line 71, in <module>
+    import email.parser
+ModuleNotFoundError: No module named 'email.parser'
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/Titanium_Empire/auto_global_revenue.py", line 2, in <module>
+    from global_revenue import revenue_launcher
+  File "/data/data/com.termux/files/home/Titanium_Empire/global_revenue/revenue_launcher.py", line 1, in <module>
+    from pro_services import pro_services_live
+  File "/data/data/com.termux/files/home/Titanium_Empire/pro_services/pro_services_live.py", line 1, in <module>
+    from finance import payment_processing_live as pay
+  File "/data/data/com.termux/files/home/Titanium_Empire/finance/payment_processing_live.py", line 2, in <module>
+    import stripe
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/__init__.py", line 47, in <module>
+    from stripe._http_client import (
+        new_default_http_client as new_default_http_client,
+    )
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/_http_client.py", line 10, in <module>
+    from http.client import HTTPResponse
+  File "/data/data/com.termux/files/usr/lib/python3.13/http/client.py", line 71, in <module>
+    import email.parser
+ModuleNotFoundError: No module named 'email.parser'
+nohup: ignoring input
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/Titanium_Empire/auto_global_revenue.py", line 2, in <module>
+    from global_revenue import revenue_launcher
+  File "/data/data/com.termux/files/home/Titanium_Empire/global_revenue/revenue_launcher.py", line 1, in <module>
+    from pro_services import pro_services_live
+  File "/data/data/com.termux/files/home/Titanium_Empire/pro_services/pro_services_live.py", line 1, in <module>
+    from finance import payment_processing_live as pay
+  File "/data/data/com.termux/files/home/Titanium_Empire/finance/payment_processing_live.py", line 2, in <module>
+    import stripe
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/__init__.py", line 47, in <module>
+    from stripe._http_client import (
+        new_default_http_client as new_default_http_client,
+    )
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/_http_client.py", line 10, in <module>
+    from http.client import HTTPResponse
+  File "/data/data/com.termux/files/usr/lib/python3.13/http/client.py", line 71, in <module>
+    import email.parser
+ModuleNotFoundError: No module named 'email.parser'
+nohup: ignoring input
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/Titanium_Empire/auto_global_revenue.py", line 2, in <module>
+    from global_revenue import revenue_launcher
+  File "/data/data/com.termux/files/home/Titanium_Empire/global_revenue/revenue_launcher.py", line 1, in <module>
+    from pro_services import pro_services_live
+  File "/data/data/com.termux/files/home/Titanium_Empire/pro_services/pro_services_live.py", line 1, in <module>
+    from finance import payment_processing_live as pay
+  File "/data/data/com.termux/files/home/Titanium_Empire/finance/payment_processing_live.py", line 2, in <module>
+    import stripe
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/__init__.py", line 47, in <module>
+    from stripe._http_client import (
+        new_default_http_client as new_default_http_client,
+    )
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/_http_client.py", line 10, in <module>
+    from http.client import HTTPResponse
+  File "/data/data/com.termux/files/usr/lib/python3.13/http/client.py", line 71, in <module>
+    import email.parser
+ModuleNotFoundError: No module named 'email.parser'
+nohup: ignoring input
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/Titanium_Empire/auto_global_revenue.py", line 2, in <module>
+    from global_revenue import revenue_launcher
+  File "/data/data/com.termux/files/home/Titanium_Empire/global_revenue/revenue_launcher.py", line 1, in <module>
+    from pro_services import pro_services_live
+  File "/data/data/com.termux/files/home/Titanium_Empire/pro_services/pro_services_live.py", line 1, in <module>
+    from finance import payment_processing_live as pay
+  File "/data/data/com.termux/files/home/Titanium_Empire/finance/payment_processing_live.py", line 2, in <module>
+    import stripe
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/__init__.py", line 47, in <module>
+    from stripe._http_client import (
+        new_default_http_client as new_default_http_client,
+    )
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/_http_client.py", line 10, in <module>
+    from http.client import HTTPResponse
+  File "/data/data/com.termux/files/usr/lib/python3.13/http/client.py", line 71, in <module>
+    import email.parser
+ModuleNotFoundError: No module named 'email.parser'
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/Titanium_Empire/auto_global_revenue.py", line 2, in <module>
+    from global_revenue import revenue_launcher
+  File "/data/data/com.termux/files/home/Titanium_Empire/global_revenue/revenue_launcher.py", line 1, in <module>
+    from pro_services import pro_services_live
+  File "/data/data/com.termux/files/home/Titanium_Empire/pro_services/pro_services_live.py", line 1, in <module>
+    from finance import payment_processing_live as pay
+  File "/data/data/com.termux/files/home/Titanium_Empire/finance/payment_processing_live.py", line 2, in <module>
+    import stripe
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/__init__.py", line 47, in <module>
+    from stripe._http_client import (
+        new_default_http_client as new_default_http_client,
+    )
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/_http_client.py", line 10, in <module>
+    from http.client import HTTPResponse
+  File "/data/data/com.termux/files/usr/lib/python3.13/http/client.py", line 71, in <module>
+    import email.parser
+ModuleNotFoundError: No module named 'email.parser'
+nohup: ignoring input
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/Titanium_Empire/auto_global_revenue.py", line 2, in <module>
+    from global_revenue import revenue_launcher
+  File "/data/data/com.termux/files/home/Titanium_Empire/global_revenue/revenue_launcher.py", line 1, in <module>
+    from pro_services import pro_services_live
+  File "/data/data/com.termux/files/home/Titanium_Empire/pro_services/pro_services_live.py", line 1, in <module>
+    from finance import payment_processing_live as pay
+  File "/data/data/com.termux/files/home/Titanium_Empire/finance/payment_processing_live.py", line 2, in <module>
+    import stripe
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/__init__.py", line 47, in <module>
+    from stripe._http_client import (
+        new_default_http_client as new_default_http_client,
+    )
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/_http_client.py", line 10, in <module>
+    from http.client import HTTPResponse
+  File "/data/data/com.termux/files/usr/lib/python3.13/http/client.py", line 71, in <module>
+    import email.parser
+ModuleNotFoundError: No module named 'email.parser'
+nohup: ignoring input
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/Titanium_Empire/auto_global_revenue.py", line 2, in <module>
+    from global_revenue import revenue_launcher
+  File "/data/data/com.termux/files/home/Titanium_Empire/global_revenue/revenue_launcher.py", line 1, in <module>
+    from pro_services import pro_services_live
+  File "/data/data/com.termux/files/home/Titanium_Empire/pro_services/pro_services_live.py", line 1, in <module>
+    from finance import payment_processing_live as pay
+  File "/data/data/com.termux/files/home/Titanium_Empire/finance/payment_processing_live.py", line 2, in <module>
+    import stripe
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/__init__.py", line 47, in <module>
+    from stripe._http_client import (
+        new_default_http_client as new_default_http_client,
+    )
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/_http_client.py", line 10, in <module>
+    from http.client import HTTPResponse
+  File "/data/data/com.termux/files/usr/lib/python3.13/http/client.py", line 71, in <module>
+    import email.parser
+ModuleNotFoundError: No module named 'email.parser'
+nohup: ignoring input
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/Titanium_Empire/auto_global_revenue.py", line 2, in <module>
+    from global_revenue import revenue_launcher
+  File "/data/data/com.termux/files/home/Titanium_Empire/global_revenue/revenue_launcher.py", line 1, in <module>
+    from pro_services import pro_services_live
+  File "/data/data/com.termux/files/home/Titanium_Empire/pro_services/pro_services_live.py", line 1, in <module>
+    from finance import payment_processing_live as pay
+  File "/data/data/com.termux/files/home/Titanium_Empire/finance/payment_processing_live.py", line 2, in <module>
+    import stripe
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/__init__.py", line 47, in <module>
+    from stripe._http_client import (
+        new_default_http_client as new_default_http_client,
+    )
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/_http_client.py", line 10, in <module>
+    from http.client import HTTPResponse
+  File "/data/data/com.termux/files/usr/lib/python3.13/http/client.py", line 71, in <module>
+    import email.parser
+ModuleNotFoundError: No module named 'email.parser'
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/Titanium_Empire/auto_global_revenue.py", line 2, in <module>
+    from global_revenue import revenue_launcher
+  File "/data/data/com.termux/files/home/Titanium_Empire/global_revenue/revenue_launcher.py", line 1, in <module>
+    from pro_services import pro_services_live
+  File "/data/data/com.termux/files/home/Titanium_Empire/pro_services/pro_services_live.py", line 1, in <module>
+    from finance import payment_processing_live as pay
+  File "/data/data/com.termux/files/home/Titanium_Empire/finance/payment_processing_live.py", line 2, in <module>
+    import stripe
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/__init__.py", line 47, in <module>
+    from stripe._http_client import (
+        new_default_http_client as new_default_http_client,
+    )
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/_http_client.py", line 10, in <module>
+    from http.client import HTTPResponse
+  File "/data/data/com.termux/files/usr/lib/python3.13/http/client.py", line 71, in <module>
+    import email.parser
+ModuleNotFoundError: No module named 'email.parser'
+nohup: ignoring input
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/Titanium_Empire/auto_global_revenue.py", line 2, in <module>
+    from global_revenue import revenue_launcher
+  File "/data/data/com.termux/files/home/Titanium_Empire/global_revenue/revenue_launcher.py", line 1, in <module>
+    from pro_services import pro_services_live
+  File "/data/data/com.termux/files/home/Titanium_Empire/pro_services/pro_services_live.py", line 1, in <module>
+    from finance import payment_processing_live as pay
+  File "/data/data/com.termux/files/home/Titanium_Empire/finance/payment_processing_live.py", line 2, in <module>
+    import stripe
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/__init__.py", line 47, in <module>
+    from stripe._http_client import (
+        new_default_http_client as new_default_http_client,
+    )
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/_http_client.py", line 10, in <module>
+    from http.client import HTTPResponse
+  File "/data/data/com.termux/files/usr/lib/python3.13/http/client.py", line 71, in <module>
+    import email.parser
+ModuleNotFoundError: No module named 'email.parser'
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/Titanium_Empire/auto_global_revenue.py", line 2, in <module>
+    from global_revenue import revenue_launcher
+  File "/data/data/com.termux/files/home/Titanium_Empire/global_revenue/revenue_launcher.py", line 1, in <module>
+    from pro_services import pro_services_live
+  File "/data/data/com.termux/files/home/Titanium_Empire/pro_services/pro_services_live.py", line 1, in <module>
+    from finance import payment_processing_live as pay
+  File "/data/data/com.termux/files/home/Titanium_Empire/finance/payment_processing_live.py", line 2, in <module>
+    import stripe
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/__init__.py", line 47, in <module>
+    from stripe._http_client import (
+        new_default_http_client as new_default_http_client,
+    )
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/_http_client.py", line 10, in <module>
+    from http.client import HTTPResponse
+  File "/data/data/com.termux/files/usr/lib/python3.13/http/client.py", line 71, in <module>
+    import email.parser
+ModuleNotFoundError: No module named 'email.parser'
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/Titanium_Empire/auto_global_revenue.py", line 2, in <module>
+    from global_revenue import revenue_launcher
+  File "/data/data/com.termux/files/home/Titanium_Empire/global_revenue/revenue_launcher.py", line 1, in <module>
+    from pro_services import pro_services_live
+  File "/data/data/com.termux/files/home/Titanium_Empire/pro_services/pro_services_live.py", line 1, in <module>
+    from finance import payment_processing_live as pay
+  File "/data/data/com.termux/files/home/Titanium_Empire/finance/payment_processing_live.py", line 2, in <module>
+    import stripe
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/__init__.py", line 47, in <module>
+    from stripe._http_client import (
+        new_default_http_client as new_default_http_client,
+    )
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/_http_client.py", line 10, in <module>
+    from http.client import HTTPResponse
+  File "/data/data/com.termux/files/usr/lib/python3.13/http/client.py", line 71, in <module>
+    import email.parser
+ModuleNotFoundError: No module named 'email.parser'
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/Titanium_Empire/auto_global_revenue.py", line 2, in <module>
+    from global_revenue import revenue_launcher
+  File "/data/data/com.termux/files/home/Titanium_Empire/global_revenue/revenue_launcher.py", line 1, in <module>
+    from pro_services import pro_services_live
+  File "/data/data/com.termux/files/home/Titanium_Empire/pro_services/pro_services_live.py", line 1, in <module>
+    from finance import payment_processing_live as pay
+  File "/data/data/com.termux/files/home/Titanium_Empire/finance/payment_processing_live.py", line 2, in <module>
+    import stripe
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/__init__.py", line 47, in <module>
+    from stripe._http_client import (
+        new_default_http_client as new_default_http_client,
+    )
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/_http_client.py", line 10, in <module>
+    from http.client import HTTPResponse
+  File "/data/data/com.termux/files/usr/lib/python3.13/http/client.py", line 71, in <module>
+    import email.parser
+ModuleNotFoundError: No module named 'email.parser'
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/Titanium_Empire/auto_global_revenue.py", line 2, in <module>
+    from global_revenue import revenue_launcher
+  File "/data/data/com.termux/files/home/Titanium_Empire/global_revenue/revenue_launcher.py", line 1, in <module>
+    from pro_services import pro_services_live
+  File "/data/data/com.termux/files/home/Titanium_Empire/pro_services/pro_services_live.py", line 1, in <module>
+    from finance import payment_processing_live as pay
+  File "/data/data/com.termux/files/home/Titanium_Empire/finance/payment_processing_live.py", line 2, in <module>
+    import stripe
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/__init__.py", line 47, in <module>
+    from stripe._http_client import (
+        new_default_http_client as new_default_http_client,
+    )
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/_http_client.py", line 10, in <module>
+    from http.client import HTTPResponse
+  File "/data/data/com.termux/files/usr/lib/python3.13/http/client.py", line 71, in <module>
+    import email.parser
+ModuleNotFoundError: No module named 'email.parser'
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/Titanium_Empire/auto_global_revenue.py", line 2, in <module>
+    from global_revenue import revenue_launcher
+  File "/data/data/com.termux/files/home/Titanium_Empire/global_revenue/revenue_launcher.py", line 1, in <module>
+    from pro_services import pro_services_live
+  File "/data/data/com.termux/files/home/Titanium_Empire/pro_services/pro_services_live.py", line 1, in <module>
+    from finance import payment_processing_live as pay
+  File "/data/data/com.termux/files/home/Titanium_Empire/finance/payment_processing_live.py", line 2, in <module>
+    import stripe
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/__init__.py", line 47, in <module>
+    from stripe._http_client import (
+        new_default_http_client as new_default_http_client,
+    )
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/_http_client.py", line 10, in <module>
+    from http.client import HTTPResponse
+  File "/data/data/com.termux/files/usr/lib/python3.13/http/client.py", line 71, in <module>
+    import email.parser
+ModuleNotFoundError: No module named 'email.parser'
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/Titanium_Empire/auto_global_revenue.py", line 2, in <module>
+    from global_revenue import revenue_launcher
+  File "/data/data/com.termux/files/home/Titanium_Empire/global_revenue/revenue_launcher.py", line 1, in <module>
+    from pro_services import pro_services_live
+  File "/data/data/com.termux/files/home/Titanium_Empire/pro_services/pro_services_live.py", line 1, in <module>
+    from finance import payment_processing_live as pay
+  File "/data/data/com.termux/files/home/Titanium_Empire/finance/payment_processing_live.py", line 2, in <module>
+    import stripe
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/__init__.py", line 47, in <module>
+    from stripe._http_client import (
+        new_default_http_client as new_default_http_client,
+    )
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/_http_client.py", line 10, in <module>
+    from http.client import HTTPResponse
+  File "/data/data/com.termux/files/usr/lib/python3.13/http/client.py", line 71, in <module>
+    import email.parser
+ModuleNotFoundError: No module named 'email.parser'
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/Titanium_Empire/auto_global_revenue.py", line 2, in <module>
+    from global_revenue import revenue_launcher
+  File "/data/data/com.termux/files/home/Titanium_Empire/global_revenue/revenue_launcher.py", line 1, in <module>
+    from pro_services import pro_services_live
+  File "/data/data/com.termux/files/home/Titanium_Empire/pro_services/pro_services_live.py", line 1, in <module>
+    from finance import payment_processing_live as pay
+  File "/data/data/com.termux/files/home/Titanium_Empire/finance/payment_processing_live.py", line 2, in <module>
+    import stripe
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/__init__.py", line 47, in <module>
+    from stripe._http_client import (
+        new_default_http_client as new_default_http_client,
+    )
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/_http_client.py", line 10, in <module>
+    from http.client import HTTPResponse
+  File "/data/data/com.termux/files/usr/lib/python3.13/http/client.py", line 71, in <module>
+    import email.parser
+ModuleNotFoundError: No module named 'email.parser'
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/Titanium_Empire/auto_global_revenue.py", line 2, in <module>
+    from global_revenue import revenue_launcher
+  File "/data/data/com.termux/files/home/Titanium_Empire/global_revenue/revenue_launcher.py", line 1, in <module>
+    from pro_services import pro_services_live
+  File "/data/data/com.termux/files/home/Titanium_Empire/pro_services/pro_services_live.py", line 1, in <module>
+    from finance import payment_processing_live as pay
+  File "/data/data/com.termux/files/home/Titanium_Empire/finance/payment_processing_live.py", line 2, in <module>
+    import stripe
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/__init__.py", line 47, in <module>
+    from stripe._http_client import (
+        new_default_http_client as new_default_http_client,
+    )
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/_http_client.py", line 10, in <module>
+    from http.client import HTTPResponse
+  File "/data/data/com.termux/files/usr/lib/python3.13/http/client.py", line 71, in <module>
+    import email.parser
+ModuleNotFoundError: No module named 'email.parser'
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/Titanium_Empire/auto_global_revenue.py", line 2, in <module>
+    from global_revenue import revenue_launcher
+  File "/data/data/com.termux/files/home/Titanium_Empire/global_revenue/revenue_launcher.py", line 1, in <module>
+    from pro_services import pro_services_live
+  File "/data/data/com.termux/files/home/Titanium_Empire/pro_services/pro_services_live.py", line 1, in <module>
+    from finance import payment_processing_live as pay
+  File "/data/data/com.termux/files/home/Titanium_Empire/finance/payment_processing_live.py", line 2, in <module>
+    import stripe
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/__init__.py", line 47, in <module>
+    from stripe._http_client import (
+        new_default_http_client as new_default_http_client,
+    )
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/_http_client.py", line 10, in <module>
+    from http.client import HTTPResponse
+  File "/data/data/com.termux/files/usr/lib/python3.13/http/client.py", line 71, in <module>
+    import email.parser
+ModuleNotFoundError: No module named 'email.parser'
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/Titanium_Empire/auto_global_revenue.py", line 2, in <module>
+    from global_revenue import revenue_launcher
+  File "/data/data/com.termux/files/home/Titanium_Empire/global_revenue/revenue_launcher.py", line 1, in <module>
+    from pro_services import pro_services_live
+  File "/data/data/com.termux/files/home/Titanium_Empire/pro_services/pro_services_live.py", line 1, in <module>
+    from finance import payment_processing_live as pay
+  File "/data/data/com.termux/files/home/Titanium_Empire/finance/payment_processing_live.py", line 2, in <module>
+    import stripe
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/__init__.py", line 47, in <module>
+    from stripe._http_client import (
+        new_default_http_client as new_default_http_client,
+    )
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/_http_client.py", line 10, in <module>
+    from http.client import HTTPResponse
+  File "/data/data/com.termux/files/usr/lib/python3.13/http/client.py", line 71, in <module>
+    import email.parser
+ModuleNotFoundError: No module named 'email.parser'
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/Titanium_Empire/auto_global_revenue.py", line 2, in <module>
+    from global_revenue import revenue_launcher
+  File "/data/data/com.termux/files/home/Titanium_Empire/global_revenue/revenue_launcher.py", line 1, in <module>
+    from pro_services import pro_services_live
+  File "/data/data/com.termux/files/home/Titanium_Empire/pro_services/pro_services_live.py", line 1, in <module>
+    from finance import payment_processing_live as pay
+  File "/data/data/com.termux/files/home/Titanium_Empire/finance/payment_processing_live.py", line 2, in <module>
+    import stripe
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/__init__.py", line 47, in <module>
+    from stripe._http_client import (
+        new_default_http_client as new_default_http_client,
+    )
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/_http_client.py", line 10, in <module>
+    from http.client import HTTPResponse
+  File "/data/data/com.termux/files/usr/lib/python3.13/http/client.py", line 71, in <module>
+    import email.parser
+ModuleNotFoundError: No module named 'email.parser'
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/Titanium_Empire/auto_global_revenue.py", line 2, in <module>
+    from global_revenue import revenue_launcher
+  File "/data/data/com.termux/files/home/Titanium_Empire/global_revenue/revenue_launcher.py", line 1, in <module>
+    from pro_services import pro_services_live
+  File "/data/data/com.termux/files/home/Titanium_Empire/pro_services/pro_services_live.py", line 1, in <module>
+    from finance import payment_processing_live as pay
+  File "/data/data/com.termux/files/home/Titanium_Empire/finance/payment_processing_live.py", line 2, in <module>
+    import stripe
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/__init__.py", line 47, in <module>
+    from stripe._http_client import (
+        new_default_http_client as new_default_http_client,
+    )
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/_http_client.py", line 10, in <module>
+    from http.client import HTTPResponse
+  File "/data/data/com.termux/files/usr/lib/python3.13/http/client.py", line 71, in <module>
+    import email.parser
+ModuleNotFoundError: No module named 'email.parser'
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/Titanium_Empire/auto_global_revenue.py", line 2, in <module>
+    from global_revenue import revenue_launcher
+  File "/data/data/com.termux/files/home/Titanium_Empire/global_revenue/revenue_launcher.py", line 1, in <module>
+    from pro_services import pro_services_live
+  File "/data/data/com.termux/files/home/Titanium_Empire/pro_services/pro_services_live.py", line 1, in <module>
+    from finance import payment_processing_live as pay
+  File "/data/data/com.termux/files/home/Titanium_Empire/finance/payment_processing_live.py", line 2, in <module>
+    import stripe
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/__init__.py", line 47, in <module>
+    from stripe._http_client import (
+        new_default_http_client as new_default_http_client,
+    )
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/_http_client.py", line 10, in <module>
+    from http.client import HTTPResponse
+  File "/data/data/com.termux/files/usr/lib/python3.13/http/client.py", line 71, in <module>
+    import email.parser
+ModuleNotFoundError: No module named 'email.parser'
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/Titanium_Empire/auto_global_revenue.py", line 2, in <module>
+    from global_revenue import revenue_launcher
+  File "/data/data/com.termux/files/home/Titanium_Empire/global_revenue/revenue_launcher.py", line 1, in <module>
+    from pro_services import pro_services_live
+  File "/data/data/com.termux/files/home/Titanium_Empire/pro_services/pro_services_live.py", line 1, in <module>
+    from finance import payment_processing_live as pay
+  File "/data/data/com.termux/files/home/Titanium_Empire/finance/payment_processing_live.py", line 2, in <module>
+    import stripe
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/__init__.py", line 47, in <module>
+    from stripe._http_client import (
+        new_default_http_client as new_default_http_client,
+    )
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/_http_client.py", line 10, in <module>
+    from http.client import HTTPResponse
+  File "/data/data/com.termux/files/usr/lib/python3.13/http/client.py", line 71, in <module>
+    import email.parser
+ModuleNotFoundError: No module named 'email.parser'
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/Titanium_Empire/auto_global_revenue.py", line 2, in <module>
+    from global_revenue import revenue_launcher
+  File "/data/data/com.termux/files/home/Titanium_Empire/global_revenue/revenue_launcher.py", line 1, in <module>
+    from pro_services import pro_services_live
+  File "/data/data/com.termux/files/home/Titanium_Empire/pro_services/pro_services_live.py", line 1, in <module>
+    from finance import payment_processing_live as pay
+  File "/data/data/com.termux/files/home/Titanium_Empire/finance/payment_processing_live.py", line 2, in <module>
+    import stripe
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/__init__.py", line 47, in <module>
+    from stripe._http_client import (
+        new_default_http_client as new_default_http_client,
+    )
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/_http_client.py", line 10, in <module>
+    from http.client import HTTPResponse
+  File "/data/data/com.termux/files/usr/lib/python3.13/http/client.py", line 71, in <module>
+    import email.parser
+ModuleNotFoundError: No module named 'email.parser'
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/Titanium_Empire/auto_global_revenue.py", line 2, in <module>
+    from global_revenue import revenue_launcher
+  File "/data/data/com.termux/files/home/Titanium_Empire/global_revenue/revenue_launcher.py", line 1, in <module>
+    from pro_services import pro_services_live
+  File "/data/data/com.termux/files/home/Titanium_Empire/pro_services/pro_services_live.py", line 1, in <module>
+    from finance import payment_processing_live as pay
+  File "/data/data/com.termux/files/home/Titanium_Empire/finance/payment_processing_live.py", line 2, in <module>
+    import stripe
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/__init__.py", line 47, in <module>
+    from stripe._http_client import (
+        new_default_http_client as new_default_http_client,
+    )
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/_http_client.py", line 10, in <module>
+    from http.client import HTTPResponse
+  File "/data/data/com.termux/files/usr/lib/python3.13/http/client.py", line 71, in <module>
+    import email.parser
+ModuleNotFoundError: No module named 'email.parser'
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/Titanium_Empire/auto_global_revenue.py", line 2, in <module>
+    from global_revenue import revenue_launcher
+  File "/data/data/com.termux/files/home/Titanium_Empire/global_revenue/revenue_launcher.py", line 1, in <module>
+    from pro_services import pro_services_live
+  File "/data/data/com.termux/files/home/Titanium_Empire/pro_services/pro_services_live.py", line 1, in <module>
+    from finance import payment_processing_live as pay
+  File "/data/data/com.termux/files/home/Titanium_Empire/finance/payment_processing_live.py", line 2, in <module>
+    import stripe
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/__init__.py", line 47, in <module>
+    from stripe._http_client import (
+        new_default_http_client as new_default_http_client,
+    )
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/_http_client.py", line 10, in <module>
+    from http.client import HTTPResponse
+  File "/data/data/com.termux/files/usr/lib/python3.13/http/client.py", line 71, in <module>
+    import email.parser
+ModuleNotFoundError: No module named 'email.parser'
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/Titanium_Empire/auto_global_revenue.py", line 2, in <module>
+    from global_revenue import revenue_launcher
+  File "/data/data/com.termux/files/home/Titanium_Empire/global_revenue/revenue_launcher.py", line 1, in <module>
+    from pro_services import pro_services_live
+  File "/data/data/com.termux/files/home/Titanium_Empire/pro_services/pro_services_live.py", line 1, in <module>
+    from finance import payment_processing_live as pay
+  File "/data/data/com.termux/files/home/Titanium_Empire/finance/payment_processing_live.py", line 2, in <module>
+    import stripe
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/__init__.py", line 47, in <module>
+    from stripe._http_client import (
+        new_default_http_client as new_default_http_client,
+    )
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/_http_client.py", line 10, in <module>
+    from http.client import HTTPResponse
+  File "/data/data/com.termux/files/usr/lib/python3.13/http/client.py", line 71, in <module>
+    import email.parser
+ModuleNotFoundError: No module named 'email.parser'
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/Titanium_Empire/auto_global_revenue.py", line 2, in <module>
+    from global_revenue import revenue_launcher
+  File "/data/data/com.termux/files/home/Titanium_Empire/global_revenue/revenue_launcher.py", line 1, in <module>
+    from pro_services import pro_services_live
+  File "/data/data/com.termux/files/home/Titanium_Empire/pro_services/pro_services_live.py", line 1, in <module>
+    from finance import payment_processing_live as pay
+  File "/data/data/com.termux/files/home/Titanium_Empire/finance/payment_processing_live.py", line 2, in <module>
+    import stripe
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/__init__.py", line 47, in <module>
+    from stripe._http_client import (
+        new_default_http_client as new_default_http_client,
+    )
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/_http_client.py", line 10, in <module>
+    from http.client import HTTPResponse
+  File "/data/data/com.termux/files/usr/lib/python3.13/http/client.py", line 71, in <module>
+    import email.parser
+ModuleNotFoundError: No module named 'email.parser'
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/Titanium_Empire/auto_global_revenue.py", line 2, in <module>
+    from global_revenue import revenue_launcher
+  File "/data/data/com.termux/files/home/Titanium_Empire/global_revenue/revenue_launcher.py", line 1, in <module>
+    from pro_services import pro_services_live
+  File "/data/data/com.termux/files/home/Titanium_Empire/pro_services/pro_services_live.py", line 1, in <module>
+    from finance import payment_processing_live as pay
+  File "/data/data/com.termux/files/home/Titanium_Empire/finance/payment_processing_live.py", line 2, in <module>
+    import stripe
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/__init__.py", line 47, in <module>
+    from stripe._http_client import (
+        new_default_http_client as new_default_http_client,
+    )
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/_http_client.py", line 10, in <module>
+    from http.client import HTTPResponse
+  File "/data/data/com.termux/files/usr/lib/python3.13/http/client.py", line 71, in <module>
+    import email.parser
+ModuleNotFoundError: No module named 'email.parser'
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/Titanium_Empire/auto_global_revenue.py", line 2, in <module>
+    from global_revenue import revenue_launcher
+  File "/data/data/com.termux/files/home/Titanium_Empire/global_revenue/revenue_launcher.py", line 1, in <module>
+    from pro_services import pro_services_live
+  File "/data/data/com.termux/files/home/Titanium_Empire/pro_services/pro_services_live.py", line 1, in <module>
+    from finance import payment_processing_live as pay
+  File "/data/data/com.termux/files/home/Titanium_Empire/finance/payment_processing_live.py", line 2, in <module>
+    import stripe
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/__init__.py", line 47, in <module>
+    from stripe._http_client import (
+        new_default_http_client as new_default_http_client,
+    )
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/_http_client.py", line 10, in <module>
+    from http.client import HTTPResponse
+  File "/data/data/com.termux/files/usr/lib/python3.13/http/client.py", line 71, in <module>
+    import email.parser
+ModuleNotFoundError: No module named 'email.parser'
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/Titanium_Empire/auto_global_revenue.py", line 2, in <module>
+    from global_revenue import revenue_launcher
+  File "/data/data/com.termux/files/home/Titanium_Empire/global_revenue/revenue_launcher.py", line 1, in <module>
+    from pro_services import pro_services_live
+  File "/data/data/com.termux/files/home/Titanium_Empire/pro_services/pro_services_live.py", line 1, in <module>
+    from finance import payment_processing_live as pay
+  File "/data/data/com.termux/files/home/Titanium_Empire/finance/payment_processing_live.py", line 2, in <module>
+    import stripe
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/__init__.py", line 47, in <module>
+    from stripe._http_client import (
+        new_default_http_client as new_default_http_client,
+    )
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/_http_client.py", line 10, in <module>
+    from http.client import HTTPResponse
+  File "/data/data/com.termux/files/usr/lib/python3.13/http/client.py", line 71, in <module>
+    import email.parser
+ModuleNotFoundError: No module named 'email.parser'
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/Titanium_Empire/auto_global_revenue.py", line 2, in <module>
+    from global_revenue import revenue_launcher
+  File "/data/data/com.termux/files/home/Titanium_Empire/global_revenue/revenue_launcher.py", line 1, in <module>
+    from pro_services import pro_services_live
+  File "/data/data/com.termux/files/home/Titanium_Empire/pro_services/pro_services_live.py", line 1, in <module>
+    from finance import payment_processing_live as pay
+  File "/data/data/com.termux/files/home/Titanium_Empire/finance/payment_processing_live.py", line 2, in <module>
+    import stripe
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/__init__.py", line 47, in <module>
+    from stripe._http_client import (
+        new_default_http_client as new_default_http_client,
+    )
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/_http_client.py", line 10, in <module>
+    from http.client import HTTPResponse
+  File "/data/data/com.termux/files/usr/lib/python3.13/http/client.py", line 71, in <module>
+    import email.parser
+ModuleNotFoundError: No module named 'email.parser'
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/Titanium_Empire/auto_global_revenue.py", line 2, in <module>
+    from global_revenue import revenue_launcher
+  File "/data/data/com.termux/files/home/Titanium_Empire/global_revenue/revenue_launcher.py", line 1, in <module>
+    from pro_services import pro_services_live
+  File "/data/data/com.termux/files/home/Titanium_Empire/pro_services/pro_services_live.py", line 1, in <module>
+    from finance import payment_processing_live as pay
+  File "/data/data/com.termux/files/home/Titanium_Empire/finance/payment_processing_live.py", line 2, in <module>
+    import stripe
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/__init__.py", line 47, in <module>
+    from stripe._http_client import (
+        new_default_http_client as new_default_http_client,
+    )
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/_http_client.py", line 10, in <module>
+    from http.client import HTTPResponse
+  File "/data/data/com.termux/files/usr/lib/python3.13/http/client.py", line 71, in <module>
+    import email.parser
+ModuleNotFoundError: No module named 'email.parser'
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/Titanium_Empire/auto_global_revenue.py", line 2, in <module>
+    from global_revenue import revenue_launcher
+  File "/data/data/com.termux/files/home/Titanium_Empire/global_revenue/revenue_launcher.py", line 1, in <module>
+    from pro_services import pro_services_live
+  File "/data/data/com.termux/files/home/Titanium_Empire/pro_services/pro_services_live.py", line 1, in <module>
+    from finance import payment_processing_live as pay
+  File "/data/data/com.termux/files/home/Titanium_Empire/finance/payment_processing_live.py", line 2, in <module>
+    import stripe
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/__init__.py", line 47, in <module>
+    from stripe._http_client import (
+        new_default_http_client as new_default_http_client,
+    )
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/_http_client.py", line 10, in <module>
+    from http.client import HTTPResponse
+  File "/data/data/com.termux/files/usr/lib/python3.13/http/client.py", line 71, in <module>
+    import email.parser
+ModuleNotFoundError: No module named 'email.parser'
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/Titanium_Empire/auto_global_revenue.py", line 2, in <module>
+    from global_revenue import revenue_launcher
+  File "/data/data/com.termux/files/home/Titanium_Empire/global_revenue/revenue_launcher.py", line 1, in <module>
+    from pro_services import pro_services_live
+  File "/data/data/com.termux/files/home/Titanium_Empire/pro_services/pro_services_live.py", line 1, in <module>
+    from finance import payment_processing_live as pay
+  File "/data/data/com.termux/files/home/Titanium_Empire/finance/payment_processing_live.py", line 2, in <module>
+    import stripe
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/__init__.py", line 47, in <module>
+    from stripe._http_client import (
+        new_default_http_client as new_default_http_client,
+    )
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/_http_client.py", line 10, in <module>
+    from http.client import HTTPResponse
+  File "/data/data/com.termux/files/usr/lib/python3.13/http/client.py", line 71, in <module>
+    import email.parser
+ModuleNotFoundError: No module named 'email.parser'
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/Titanium_Empire/auto_global_revenue.py", line 2, in <module>
+    from global_revenue import revenue_launcher
+  File "/data/data/com.termux/files/home/Titanium_Empire/global_revenue/revenue_launcher.py", line 1, in <module>
+    from pro_services import pro_services_live
+  File "/data/data/com.termux/files/home/Titanium_Empire/pro_services/pro_services_live.py", line 1, in <module>
+    from finance import payment_processing_live as pay
+  File "/data/data/com.termux/files/home/Titanium_Empire/finance/payment_processing_live.py", line 2, in <module>
+    import stripe
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/__init__.py", line 47, in <module>
+    from stripe._http_client import (
+        new_default_http_client as new_default_http_client,
+    )
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/_http_client.py", line 10, in <module>
+    from http.client import HTTPResponse
+  File "/data/data/com.termux/files/usr/lib/python3.13/http/client.py", line 71, in <module>
+    import email.parser
+ModuleNotFoundError: No module named 'email.parser'
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/Titanium_Empire/auto_global_revenue.py", line 2, in <module>
+    from global_revenue import revenue_launcher
+  File "/data/data/com.termux/files/home/Titanium_Empire/global_revenue/revenue_launcher.py", line 1, in <module>
+    from pro_services import pro_services_live
+  File "/data/data/com.termux/files/home/Titanium_Empire/pro_services/pro_services_live.py", line 1, in <module>
+    from finance import payment_processing_live as pay
+  File "/data/data/com.termux/files/home/Titanium_Empire/finance/payment_processing_live.py", line 2, in <module>
+    import stripe
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/__init__.py", line 47, in <module>
+    from stripe._http_client import (
+        new_default_http_client as new_default_http_client,
+    )
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/_http_client.py", line 10, in <module>
+    from http.client import HTTPResponse
+  File "/data/data/com.termux/files/usr/lib/python3.13/http/client.py", line 71, in <module>
+    import email.parser
+ModuleNotFoundError: No module named 'email.parser'
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/Titanium_Empire/auto_global_revenue.py", line 2, in <module>
+    from global_revenue import revenue_launcher
+  File "/data/data/com.termux/files/home/Titanium_Empire/global_revenue/revenue_launcher.py", line 1, in <module>
+    from pro_services import pro_services_live
+  File "/data/data/com.termux/files/home/Titanium_Empire/pro_services/pro_services_live.py", line 1, in <module>
+    from finance import payment_processing_live as pay
+  File "/data/data/com.termux/files/home/Titanium_Empire/finance/payment_processing_live.py", line 2, in <module>
+    import stripe
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/__init__.py", line 47, in <module>
+    from stripe._http_client import (
+        new_default_http_client as new_default_http_client,
+    )
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/_http_client.py", line 10, in <module>
+    from http.client import HTTPResponse
+  File "/data/data/com.termux/files/usr/lib/python3.13/http/client.py", line 71, in <module>
+    import email.parser
+ModuleNotFoundError: No module named 'email.parser'
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/Titanium_Empire/auto_global_revenue.py", line 2, in <module>
+    from global_revenue import revenue_launcher
+  File "/data/data/com.termux/files/home/Titanium_Empire/global_revenue/revenue_launcher.py", line 1, in <module>
+    from pro_services import pro_services_live
+  File "/data/data/com.termux/files/home/Titanium_Empire/pro_services/pro_services_live.py", line 1, in <module>
+    from finance import payment_processing_live as pay
+  File "/data/data/com.termux/files/home/Titanium_Empire/finance/payment_processing_live.py", line 2, in <module>
+    import stripe
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/__init__.py", line 47, in <module>
+    from stripe._http_client import (
+        new_default_http_client as new_default_http_client,
+    )
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/_http_client.py", line 10, in <module>
+    from http.client import HTTPResponse
+  File "/data/data/com.termux/files/usr/lib/python3.13/http/client.py", line 71, in <module>
+    import email.parser
+ModuleNotFoundError: No module named 'email.parser'
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/Titanium_Empire/auto_global_revenue.py", line 2, in <module>
+    from global_revenue import revenue_launcher
+  File "/data/data/com.termux/files/home/Titanium_Empire/global_revenue/revenue_launcher.py", line 1, in <module>
+    from pro_services import pro_services_live
+  File "/data/data/com.termux/files/home/Titanium_Empire/pro_services/pro_services_live.py", line 1, in <module>
+    from finance import payment_processing_live as pay
+  File "/data/data/com.termux/files/home/Titanium_Empire/finance/payment_processing_live.py", line 2, in <module>
+    import stripe
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/__init__.py", line 47, in <module>
+    from stripe._http_client import (
+        new_default_http_client as new_default_http_client,
+    )
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/_http_client.py", line 10, in <module>
+    from http.client import HTTPResponse
+  File "/data/data/com.termux/files/usr/lib/python3.13/http/client.py", line 71, in <module>
+    import email.parser
+ModuleNotFoundError: No module named 'email.parser'
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/Titanium_Empire/auto_global_revenue.py", line 2, in <module>
+    from global_revenue import revenue_launcher
+  File "/data/data/com.termux/files/home/Titanium_Empire/global_revenue/revenue_launcher.py", line 1, in <module>
+    from pro_services import pro_services_live
+  File "/data/data/com.termux/files/home/Titanium_Empire/pro_services/pro_services_live.py", line 1, in <module>
+    from finance import payment_processing_live as pay
+  File "/data/data/com.termux/files/home/Titanium_Empire/finance/payment_processing_live.py", line 2, in <module>
+    import stripe
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/__init__.py", line 47, in <module>
+    from stripe._http_client import (
+        new_default_http_client as new_default_http_client,
+    )
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/_http_client.py", line 10, in <module>
+    from http.client import HTTPResponse
+  File "/data/data/com.termux/files/usr/lib/python3.13/http/client.py", line 71, in <module>
+    import email.parser
+ModuleNotFoundError: No module named 'email.parser'
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/Titanium_Empire/auto_global_revenue.py", line 2, in <module>
+    from global_revenue import revenue_launcher
+  File "/data/data/com.termux/files/home/Titanium_Empire/global_revenue/revenue_launcher.py", line 1, in <module>
+    from pro_services import pro_services_live
+  File "/data/data/com.termux/files/home/Titanium_Empire/pro_services/pro_services_live.py", line 1, in <module>
+    from finance import payment_processing_live as pay
+  File "/data/data/com.termux/files/home/Titanium_Empire/finance/payment_processing_live.py", line 2, in <module>
+    import stripe
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/__init__.py", line 47, in <module>
+    from stripe._http_client import (
+        new_default_http_client as new_default_http_client,
+    )
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/_http_client.py", line 10, in <module>
+    from http.client import HTTPResponse
+  File "/data/data/com.termux/files/usr/lib/python3.13/http/client.py", line 71, in <module>
+    import email.parser
+ModuleNotFoundError: No module named 'email.parser'
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/Titanium_Empire/auto_global_revenue.py", line 2, in <module>
+    from global_revenue import revenue_launcher
+  File "/data/data/com.termux/files/home/Titanium_Empire/global_revenue/revenue_launcher.py", line 1, in <module>
+    from pro_services import pro_services_live
+  File "/data/data/com.termux/files/home/Titanium_Empire/pro_services/pro_services_live.py", line 1, in <module>
+    from finance import payment_processing_live as pay
+  File "/data/data/com.termux/files/home/Titanium_Empire/finance/payment_processing_live.py", line 2, in <module>
+    import stripe
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/__init__.py", line 47, in <module>
+    from stripe._http_client import (
+        new_default_http_client as new_default_http_client,
+    )
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/_http_client.py", line 10, in <module>
+    from http.client import HTTPResponse
+  File "/data/data/com.termux/files/usr/lib/python3.13/http/client.py", line 71, in <module>
+    import email.parser
+ModuleNotFoundError: No module named 'email.parser'
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/Titanium_Empire/auto_global_revenue.py", line 2, in <module>
+    from global_revenue import revenue_launcher
+  File "/data/data/com.termux/files/home/Titanium_Empire/global_revenue/revenue_launcher.py", line 1, in <module>
+    from pro_services import pro_services_live
+  File "/data/data/com.termux/files/home/Titanium_Empire/pro_services/pro_services_live.py", line 1, in <module>
+    from finance import payment_processing_live as pay
+  File "/data/data/com.termux/files/home/Titanium_Empire/finance/payment_processing_live.py", line 2, in <module>
+    import stripe
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/__init__.py", line 47, in <module>
+    from stripe._http_client import (
+        new_default_http_client as new_default_http_client,
+    )
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/_http_client.py", line 10, in <module>
+    from http.client import HTTPResponse
+  File "/data/data/com.termux/files/usr/lib/python3.13/http/client.py", line 71, in <module>
+    import email.parser
+ModuleNotFoundError: No module named 'email.parser'
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/Titanium_Empire/auto_global_revenue.py", line 2, in <module>
+    from global_revenue import revenue_launcher
+  File "/data/data/com.termux/files/home/Titanium_Empire/global_revenue/revenue_launcher.py", line 1, in <module>
+    from pro_services import pro_services_live
+  File "/data/data/com.termux/files/home/Titanium_Empire/pro_services/pro_services_live.py", line 1, in <module>
+    from finance import payment_processing_live as pay
+  File "/data/data/com.termux/files/home/Titanium_Empire/finance/payment_processing_live.py", line 2, in <module>
+    import stripe
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/__init__.py", line 47, in <module>
+    from stripe._http_client import (
+        new_default_http_client as new_default_http_client,
+    )
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/_http_client.py", line 10, in <module>
+    from http.client import HTTPResponse
+  File "/data/data/com.termux/files/usr/lib/python3.13/http/client.py", line 71, in <module>
+    import email.parser
+ModuleNotFoundError: No module named 'email.parser'
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/Titanium_Empire/auto_global_revenue.py", line 2, in <module>
+    from global_revenue import revenue_launcher
+  File "/data/data/com.termux/files/home/Titanium_Empire/global_revenue/revenue_launcher.py", line 1, in <module>
+    from pro_services import pro_services_live
+  File "/data/data/com.termux/files/home/Titanium_Empire/pro_services/pro_services_live.py", line 1, in <module>
+    from finance import payment_processing_live as pay
+  File "/data/data/com.termux/files/home/Titanium_Empire/finance/payment_processing_live.py", line 2, in <module>
+    import stripe
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/__init__.py", line 47, in <module>
+    from stripe._http_client import (
+        new_default_http_client as new_default_http_client,
+    )
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/_http_client.py", line 10, in <module>
+    from http.client import HTTPResponse
+  File "/data/data/com.termux/files/usr/lib/python3.13/http/client.py", line 71, in <module>
+    import email.parser
+ModuleNotFoundError: No module named 'email.parser'
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/Titanium_Empire/auto_global_revenue.py", line 2, in <module>
+    from global_revenue import revenue_launcher
+  File "/data/data/com.termux/files/home/Titanium_Empire/global_revenue/revenue_launcher.py", line 1, in <module>
+    from pro_services import pro_services_live
+  File "/data/data/com.termux/files/home/Titanium_Empire/pro_services/pro_services_live.py", line 1, in <module>
+    from finance import payment_processing_live as pay
+  File "/data/data/com.termux/files/home/Titanium_Empire/finance/payment_processing_live.py", line 2, in <module>
+    import stripe
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/__init__.py", line 47, in <module>
+    from stripe._http_client import (
+        new_default_http_client as new_default_http_client,
+    )
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/_http_client.py", line 10, in <module>
+    from http.client import HTTPResponse
+  File "/data/data/com.termux/files/usr/lib/python3.13/http/client.py", line 71, in <module>
+    import email.parser
+ModuleNotFoundError: No module named 'email.parser'
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/Titanium_Empire/auto_global_revenue.py", line 2, in <module>
+    from global_revenue import revenue_launcher
+  File "/data/data/com.termux/files/home/Titanium_Empire/global_revenue/revenue_launcher.py", line 1, in <module>
+    from pro_services import pro_services_live
+  File "/data/data/com.termux/files/home/Titanium_Empire/pro_services/pro_services_live.py", line 1, in <module>
+    from finance import payment_processing_live as pay
+  File "/data/data/com.termux/files/home/Titanium_Empire/finance/payment_processing_live.py", line 2, in <module>
+    import stripe
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/__init__.py", line 47, in <module>
+    from stripe._http_client import (
+        new_default_http_client as new_default_http_client,
+    )
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/_http_client.py", line 10, in <module>
+    from http.client import HTTPResponse
+  File "/data/data/com.termux/files/usr/lib/python3.13/http/client.py", line 71, in <module>
+    import email.parser
+ModuleNotFoundError: No module named 'email.parser'
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/Titanium_Empire/auto_global_revenue.py", line 2, in <module>
+    from global_revenue import revenue_launcher
+  File "/data/data/com.termux/files/home/Titanium_Empire/global_revenue/revenue_launcher.py", line 1, in <module>
+    from pro_services import pro_services_live
+  File "/data/data/com.termux/files/home/Titanium_Empire/pro_services/pro_services_live.py", line 1, in <module>
+    from finance import payment_processing_live as pay
+  File "/data/data/com.termux/files/home/Titanium_Empire/finance/payment_processing_live.py", line 2, in <module>
+    import stripe
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/__init__.py", line 47, in <module>
+    from stripe._http_client import (
+        new_default_http_client as new_default_http_client,
+    )
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/_http_client.py", line 10, in <module>
+    from http.client import HTTPResponse
+  File "/data/data/com.termux/files/usr/lib/python3.13/http/client.py", line 71, in <module>
+    import email.parser
+ModuleNotFoundError: No module named 'email.parser'
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/Titanium_Empire/auto_global_revenue.py", line 2, in <module>
+    from global_revenue import revenue_launcher
+  File "/data/data/com.termux/files/home/Titanium_Empire/global_revenue/revenue_launcher.py", line 1, in <module>
+    from pro_services import pro_services_live
+  File "/data/data/com.termux/files/home/Titanium_Empire/pro_services/pro_services_live.py", line 1, in <module>
+    from finance import payment_processing_live as pay
+  File "/data/data/com.termux/files/home/Titanium_Empire/finance/payment_processing_live.py", line 2, in <module>
+    import stripe
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/__init__.py", line 47, in <module>
+    from stripe._http_client import (
+        new_default_http_client as new_default_http_client,
+    )
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/_http_client.py", line 10, in <module>
+    from http.client import HTTPResponse
+  File "/data/data/com.termux/files/usr/lib/python3.13/http/client.py", line 71, in <module>
+    import email.parser
+ModuleNotFoundError: No module named 'email.parser'
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/Titanium_Empire/auto_global_revenue.py", line 2, in <module>
+    from global_revenue import revenue_launcher
+  File "/data/data/com.termux/files/home/Titanium_Empire/global_revenue/revenue_launcher.py", line 1, in <module>
+    from pro_services import pro_services_live
+  File "/data/data/com.termux/files/home/Titanium_Empire/pro_services/pro_services_live.py", line 1, in <module>
+    from finance import payment_processing_live as pay
+  File "/data/data/com.termux/files/home/Titanium_Empire/finance/payment_processing_live.py", line 2, in <module>
+    import stripe
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/__init__.py", line 47, in <module>
+    from stripe._http_client import (
+        new_default_http_client as new_default_http_client,
+    )
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/_http_client.py", line 10, in <module>
+    from http.client import HTTPResponse
+  File "/data/data/com.termux/files/usr/lib/python3.13/http/client.py", line 71, in <module>
+    import email.parser
+ModuleNotFoundError: No module named 'email.parser'
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/Titanium_Empire/auto_global_revenue.py", line 2, in <module>
+    from global_revenue import revenue_launcher
+  File "/data/data/com.termux/files/home/Titanium_Empire/global_revenue/revenue_launcher.py", line 1, in <module>
+    from pro_services import pro_services_live
+  File "/data/data/com.termux/files/home/Titanium_Empire/pro_services/pro_services_live.py", line 1, in <module>
+    from finance import payment_processing_live as pay
+  File "/data/data/com.termux/files/home/Titanium_Empire/finance/payment_processing_live.py", line 2, in <module>
+    import stripe
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/__init__.py", line 47, in <module>
+    from stripe._http_client import (
+        new_default_http_client as new_default_http_client,
+    )
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/_http_client.py", line 10, in <module>
+    from http.client import HTTPResponse
+  File "/data/data/com.termux/files/usr/lib/python3.13/http/client.py", line 71, in <module>
+    import email.parser
+ModuleNotFoundError: No module named 'email.parser'
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/Titanium_Empire/auto_global_revenue.py", line 2, in <module>
+    from global_revenue import revenue_launcher
+  File "/data/data/com.termux/files/home/Titanium_Empire/global_revenue/revenue_launcher.py", line 1, in <module>
+    from pro_services import pro_services_live
+  File "/data/data/com.termux/files/home/Titanium_Empire/pro_services/pro_services_live.py", line 1, in <module>
+    from finance import payment_processing_live as pay
+  File "/data/data/com.termux/files/home/Titanium_Empire/finance/payment_processing_live.py", line 2, in <module>
+    import stripe
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/__init__.py", line 47, in <module>
+    from stripe._http_client import (
+        new_default_http_client as new_default_http_client,
+    )
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/_http_client.py", line 10, in <module>
+    from http.client import HTTPResponse
+  File "/data/data/com.termux/files/usr/lib/python3.13/http/client.py", line 71, in <module>
+    import email.parser
+ModuleNotFoundError: No module named 'email.parser'
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/Titanium_Empire/auto_global_revenue.py", line 2, in <module>
+    from global_revenue import revenue_launcher
+  File "/data/data/com.termux/files/home/Titanium_Empire/global_revenue/revenue_launcher.py", line 1, in <module>
+    from pro_services import pro_services_live
+  File "/data/data/com.termux/files/home/Titanium_Empire/pro_services/pro_services_live.py", line 1, in <module>
+    from finance import payment_processing_live as pay
+  File "/data/data/com.termux/files/home/Titanium_Empire/finance/payment_processing_live.py", line 2, in <module>
+    import stripe
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/__init__.py", line 47, in <module>
+    from stripe._http_client import (
+        new_default_http_client as new_default_http_client,
+    )
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/_http_client.py", line 10, in <module>
+    from http.client import HTTPResponse
+  File "/data/data/com.termux/files/usr/lib/python3.13/http/client.py", line 71, in <module>
+    import email.parser
+ModuleNotFoundError: No module named 'email.parser'
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/Titanium_Empire/auto_global_revenue.py", line 2, in <module>
+    from global_revenue import revenue_launcher
+  File "/data/data/com.termux/files/home/Titanium_Empire/global_revenue/revenue_launcher.py", line 1, in <module>
+    from pro_services import pro_services_live
+  File "/data/data/com.termux/files/home/Titanium_Empire/pro_services/pro_services_live.py", line 1, in <module>
+    from finance import payment_processing_live as pay
+  File "/data/data/com.termux/files/home/Titanium_Empire/finance/payment_processing_live.py", line 2, in <module>
+    import stripe
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/__init__.py", line 47, in <module>
+    from stripe._http_client import (
+        new_default_http_client as new_default_http_client,
+    )
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/_http_client.py", line 10, in <module>
+    from http.client import HTTPResponse
+  File "/data/data/com.termux/files/usr/lib/python3.13/http/client.py", line 71, in <module>
+    import email.parser
+ModuleNotFoundError: No module named 'email.parser'
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/Titanium_Empire/auto_global_revenue.py", line 2, in <module>
+    from global_revenue import revenue_launcher
+  File "/data/data/com.termux/files/home/Titanium_Empire/global_revenue/revenue_launcher.py", line 1, in <module>
+    from pro_services import pro_services_live
+  File "/data/data/com.termux/files/home/Titanium_Empire/pro_services/pro_services_live.py", line 1, in <module>
+    from finance import payment_processing_live as pay
+  File "/data/data/com.termux/files/home/Titanium_Empire/finance/payment_processing_live.py", line 2, in <module>
+    import stripe
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/__init__.py", line 47, in <module>
+    from stripe._http_client import (
+        new_default_http_client as new_default_http_client,
+    )
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/_http_client.py", line 10, in <module>
+    from http.client import HTTPResponse
+  File "/data/data/com.termux/files/usr/lib/python3.13/http/client.py", line 71, in <module>
+    import email.parser
+ModuleNotFoundError: No module named 'email.parser'
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/Titanium_Empire/auto_global_revenue.py", line 2, in <module>
+    from global_revenue import revenue_launcher
+  File "/data/data/com.termux/files/home/Titanium_Empire/global_revenue/revenue_launcher.py", line 1, in <module>
+    from pro_services import pro_services_live
+  File "/data/data/com.termux/files/home/Titanium_Empire/pro_services/pro_services_live.py", line 1, in <module>
+    from finance import payment_processing_live as pay
+  File "/data/data/com.termux/files/home/Titanium_Empire/finance/payment_processing_live.py", line 2, in <module>
+    import stripe
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/__init__.py", line 47, in <module>
+    from stripe._http_client import (
+        new_default_http_client as new_default_http_client,
+    )
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/_http_client.py", line 10, in <module>
+    from http.client import HTTPResponse
+  File "/data/data/com.termux/files/usr/lib/python3.13/http/client.py", line 71, in <module>
+    import email.parser
+ModuleNotFoundError: No module named 'email.parser'
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/Titanium_Empire/auto_global_revenue.py", line 2, in <module>
+    from global_revenue import revenue_launcher
+  File "/data/data/com.termux/files/home/Titanium_Empire/global_revenue/revenue_launcher.py", line 1, in <module>
+    from pro_services import pro_services_live
+  File "/data/data/com.termux/files/home/Titanium_Empire/pro_services/pro_services_live.py", line 1, in <module>
+    from finance import payment_processing_live as pay
+  File "/data/data/com.termux/files/home/Titanium_Empire/finance/payment_processing_live.py", line 2, in <module>
+    import stripe
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/__init__.py", line 47, in <module>
+    from stripe._http_client import (
+        new_default_http_client as new_default_http_client,
+    )
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/_http_client.py", line 10, in <module>
+    from http.client import HTTPResponse
+  File "/data/data/com.termux/files/usr/lib/python3.13/http/client.py", line 71, in <module>
+    import email.parser
+ModuleNotFoundError: No module named 'email.parser'
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/Titanium_Empire/auto_global_revenue.py", line 2, in <module>
+    from global_revenue import revenue_launcher
+  File "/data/data/com.termux/files/home/Titanium_Empire/global_revenue/revenue_launcher.py", line 1, in <module>
+    from pro_services import pro_services_live
+  File "/data/data/com.termux/files/home/Titanium_Empire/pro_services/pro_services_live.py", line 1, in <module>
+    from finance import payment_processing_live as pay
+  File "/data/data/com.termux/files/home/Titanium_Empire/finance/payment_processing_live.py", line 2, in <module>
+    import stripe
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/__init__.py", line 47, in <module>
+    from stripe._http_client import (
+        new_default_http_client as new_default_http_client,
+    )
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/_http_client.py", line 10, in <module>
+    from http.client import HTTPResponse
+  File "/data/data/com.termux/files/usr/lib/python3.13/http/client.py", line 71, in <module>
+    import email.parser
+ModuleNotFoundError: No module named 'email.parser'
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/Titanium_Empire/auto_global_revenue.py", line 2, in <module>
+    from global_revenue import revenue_launcher
+  File "/data/data/com.termux/files/home/Titanium_Empire/global_revenue/revenue_launcher.py", line 1, in <module>
+    from pro_services import pro_services_live
+  File "/data/data/com.termux/files/home/Titanium_Empire/pro_services/pro_services_live.py", line 1, in <module>
+    from finance import payment_processing_live as pay
+  File "/data/data/com.termux/files/home/Titanium_Empire/finance/payment_processing_live.py", line 2, in <module>
+    import stripe
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/__init__.py", line 47, in <module>
+    from stripe._http_client import (
+        new_default_http_client as new_default_http_client,
+    )
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/_http_client.py", line 10, in <module>
+    from http.client import HTTPResponse
+  File "/data/data/com.termux/files/usr/lib/python3.13/http/client.py", line 71, in <module>
+    import email.parser
+ModuleNotFoundError: No module named 'email.parser'
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/Titanium_Empire/auto_global_revenue.py", line 2, in <module>
+    from global_revenue import revenue_launcher
+  File "/data/data/com.termux/files/home/Titanium_Empire/global_revenue/revenue_launcher.py", line 1, in <module>
+    from pro_services import pro_services_live
+  File "/data/data/com.termux/files/home/Titanium_Empire/pro_services/pro_services_live.py", line 1, in <module>
+    from finance import payment_processing_live as pay
+  File "/data/data/com.termux/files/home/Titanium_Empire/finance/payment_processing_live.py", line 2, in <module>
+    import stripe
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/__init__.py", line 47, in <module>
+    from stripe._http_client import (
+        new_default_http_client as new_default_http_client,
+    )
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/_http_client.py", line 10, in <module>
+    from http.client import HTTPResponse
+  File "/data/data/com.termux/files/usr/lib/python3.13/http/client.py", line 71, in <module>
+    import email.parser
+ModuleNotFoundError: No module named 'email.parser'
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/Titanium_Empire/auto_global_revenue.py", line 2, in <module>
+    from global_revenue import revenue_launcher
+  File "/data/data/com.termux/files/home/Titanium_Empire/global_revenue/revenue_launcher.py", line 1, in <module>
+    from pro_services import pro_services_live
+  File "/data/data/com.termux/files/home/Titanium_Empire/pro_services/pro_services_live.py", line 1, in <module>
+    from finance import payment_processing_live as pay
+  File "/data/data/com.termux/files/home/Titanium_Empire/finance/payment_processing_live.py", line 2, in <module>
+    import stripe
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/__init__.py", line 47, in <module>
+    from stripe._http_client import (
+        new_default_http_client as new_default_http_client,
+    )
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/_http_client.py", line 10, in <module>
+    from http.client import HTTPResponse
+  File "/data/data/com.termux/files/usr/lib/python3.13/http/client.py", line 71, in <module>
+    import email.parser
+ModuleNotFoundError: No module named 'email.parser'
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/Titanium_Empire/auto_global_revenue.py", line 2, in <module>
+    from global_revenue import revenue_launcher
+  File "/data/data/com.termux/files/home/Titanium_Empire/global_revenue/revenue_launcher.py", line 1, in <module>
+    from pro_services import pro_services_live
+  File "/data/data/com.termux/files/home/Titanium_Empire/pro_services/pro_services_live.py", line 1, in <module>
+    from finance import payment_processing_live as pay
+  File "/data/data/com.termux/files/home/Titanium_Empire/finance/payment_processing_live.py", line 2, in <module>
+    import stripe
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/__init__.py", line 47, in <module>
+    from stripe._http_client import (
+        new_default_http_client as new_default_http_client,
+    )
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/_http_client.py", line 10, in <module>
+    from http.client import HTTPResponse
+  File "/data/data/com.termux/files/usr/lib/python3.13/http/client.py", line 71, in <module>
+    import email.parser
+ModuleNotFoundError: No module named 'email.parser'
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/Titanium_Empire/auto_global_revenue.py", line 2, in <module>
+    from global_revenue import revenue_launcher
+  File "/data/data/com.termux/files/home/Titanium_Empire/global_revenue/revenue_launcher.py", line 1, in <module>
+    from pro_services import pro_services_live
+  File "/data/data/com.termux/files/home/Titanium_Empire/pro_services/pro_services_live.py", line 1, in <module>
+    from finance import payment_processing_live as pay
+  File "/data/data/com.termux/files/home/Titanium_Empire/finance/payment_processing_live.py", line 2, in <module>
+    import stripe
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/__init__.py", line 47, in <module>
+    from stripe._http_client import (
+        new_default_http_client as new_default_http_client,
+    )
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/_http_client.py", line 10, in <module>
+    from http.client import HTTPResponse
+  File "/data/data/com.termux/files/usr/lib/python3.13/http/client.py", line 71, in <module>
+    import email.parser
+ModuleNotFoundError: No module named 'email.parser'
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/Titanium_Empire/auto_global_revenue.py", line 2, in <module>
+    from global_revenue import revenue_launcher
+  File "/data/data/com.termux/files/home/Titanium_Empire/global_revenue/revenue_launcher.py", line 1, in <module>
+    from pro_services import pro_services_live
+  File "/data/data/com.termux/files/home/Titanium_Empire/pro_services/pro_services_live.py", line 1, in <module>
+    from finance import payment_processing_live as pay
+  File "/data/data/com.termux/files/home/Titanium_Empire/finance/payment_processing_live.py", line 2, in <module>
+    import stripe
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/__init__.py", line 47, in <module>
+    from stripe._http_client import (
+        new_default_http_client as new_default_http_client,
+    )
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/_http_client.py", line 10, in <module>
+    from http.client import HTTPResponse
+  File "/data/data/com.termux/files/usr/lib/python3.13/http/client.py", line 71, in <module>
+    import email.parser
+ModuleNotFoundError: No module named 'email.parser'
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/Titanium_Empire/auto_global_revenue.py", line 2, in <module>
+    from global_revenue import revenue_launcher
+  File "/data/data/com.termux/files/home/Titanium_Empire/global_revenue/revenue_launcher.py", line 1, in <module>
+    from pro_services import pro_services_live
+  File "/data/data/com.termux/files/home/Titanium_Empire/pro_services/pro_services_live.py", line 1, in <module>
+    from finance import payment_processing_live as pay
+  File "/data/data/com.termux/files/home/Titanium_Empire/finance/payment_processing_live.py", line 2, in <module>
+    import stripe
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/__init__.py", line 47, in <module>
+    from stripe._http_client import (
+        new_default_http_client as new_default_http_client,
+    )
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/stripe/_http_client.py", line 10, in <module>
+    from http.client import HTTPResponse
+  File "/data/data/com.termux/files/usr/lib/python3.13/http/client.py", line 71, in <module>
+    import email.parser
+ModuleNotFoundError: No module named 'email.parser'

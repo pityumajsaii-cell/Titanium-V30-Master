@@ -1,0 +1,8 @@
+{
+  "STRIPE_API_KEY": "sk_test_...",
+  "PAYPAL_CLIENT_ID": "your_paypal_client_id",
+  "PAYPAL_SECRET": "your_paypal_secret",
+  "REVOLUT_API_KEY": "your_revolut_api_key",
+  "CRYPTO_API_KEY": "your_crypto_api_key",
+  "MARKETS": ["US","EU","APAC","LATAM"]
+}

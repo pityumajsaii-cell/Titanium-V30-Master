@@ -1,0 +1,38 @@
+# --- PAYOUT & REVOLUT ---
+export REVOLUT_IBAN="LT813250075750263901"
+export REVOLUT_PAYOUT_THRESHOLD=50
+export PAYOUT_METHOD="Revolut"
+export REVOLUT_LINK="https://revolut.me/imajsai70"
+
+# --- NOTIFICATIONS (TELEGRAM) ---
+export TELEGRAM_BOT_TOKEN="8425805311:AAFG_Y4vLl2r6SlJeuBsRFTa_bHDXTI54r4"
+export TELEGRAM_CHAT_ID="8450519491"
+
+# --- AI & CONTENT GENERATION (GEMINI / OPENAI / GROQ) ---
+export OPENAI_API_KEY="sk-proj-cJ70JWYLWn-EkNz1dv1sPD0AG-ZzFl-dum4Q2IDCp3A3gsAnfxrraJkRQxhk15x0riSgqB_xmw"
+export GEMINI_API_KEY="sk-proj-cJ70JWYLWn-EkNz1dv1sPD0AG-ZzFl-dum4Q2IDCp3A3gsAnfxrraJkRQxhk15x0riSgqB_xmw"
+export GROQ_API_KEY="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"
+
+# --- INFRASTRUCTURE (CLOUDFLARE & DOMAIN) ---
+export CF_ZONE_ID="9a81def0d709bcd3d22a8395f446d546"
+export CF_ACCOUNT_ID="fbeae6db57f32a6a77aeb437c18a7b58"
+export CF_API_TOKEN="Nb-tlIK9SsFQ8dMCBdG55iXoHwMOkxYFKWFE63x0"
+export SERVER_IPV6="2a01:5d0:8279:1c00:5916:609:c48c:a8e9"
+export BASE_URL="https://api.titaniumempire.hu"
+
+# --- MEDIA & VIDEO API ---
+export SHOTSTACK_API_KEY="4jgt6pmundW2vGFsfG1WTBEp5rK7pfcyKN6zFcNbL3e1SfEVdM"
+export SHOTSTACK_SANDBOX_KEY="q7kzpw3llvZwIsobo0nHhu5vPtYvZnx2851JghsA48gCimCPZ9"
+export CLOUDINARY_URL="cloudinary://681955246719799:l-5XCrYlHg4UE2nZGl0KV3rUcEw@dnj634roj"
+
+# --- EMAIL ACCOUNT ---
+export EMAIL_USER="istvanmajsai70@gmail.com"
+export EMAIL_PASS="qnhm zjui zzkw nbgc"
+
+# --- NGROK / RENDER / GIT ---
+export NGROK_API_KEY="3AOe5EclFMhWcMnQ9GHwd1kKDGE_2s7PN4DQAreGdgkbzSipR"
+export RENDER_API_KEY_1="rnd_V4lkViPnV8U8yz30eaEQ7KWItriZ"
+export RENDER_API_KEY_2="rnd_HlLR1lp0taXJCoPWqQnn0lttxzmb"
+export GIT_TOKEN="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"
+export GEMINI_API_KEY="sk-proj-cJ70JWYLWn-EkNz1dv1sPD0AG-ZzFl-0"
+

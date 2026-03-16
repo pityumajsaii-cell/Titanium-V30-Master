@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Titanium v21 Autonomous AI Company</title>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/socket.io/4.7.2/socket.io.min.js"></script>
+</head>
+<body>
+<h1>Titanium v21 Real-Time Autonomous Dashboard</h1>
+<div id="data"></div>
+<script>
+var socket=io();
+socket.on('update',function(data){
+    document.getElementById('data').innerHTML=
+    "Marketing ROI: "+data.Marketing_ROI+"%<br>"+
+    "Active leads: "+data.Active_leads+"<br>"+
+    "Revenue prediction: "+data.Revenue_prediction+"<br>"+
+    "AI update score: "+data.AI_update_score;
+});
+</script>
+</body>
+</html>

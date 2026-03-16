@@ -1,0 +1,604 @@
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/tanium_v30/modules/lead_management/main.py", line 19, in <module>
+    main()
+    ~~~~^^
+  File "/data/data/com.termux/files/home/tanium_v30/modules/lead_management/main.py", line 13, in main
+    msg = f"[{MOD}] Revenue: ${revenue} | Leads: {leads} | AI Recommendation: {ai_recommendation}"
+              ^^^
+NameError: name 'MOD' is not defined
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/tanium_v30/modules/lead_management/main.py", line 19, in <module>
+    main()
+    ~~~~^^
+  File "/data/data/com.termux/files/home/tanium_v30/modules/lead_management/main.py", line 13, in main
+    msg = f"[{MOD}] Revenue: ${revenue} | Leads: {leads} | AI Recommendation: {ai_recommendation}"
+              ^^^
+NameError: name 'MOD' is not defined
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/tanium_v30/modules/lead_management/main.py", line 19, in <module>
+    main()
+    ~~~~^^
+  File "/data/data/com.termux/files/home/tanium_v30/modules/lead_management/main.py", line 13, in main
+    msg = f"[{MOD}] Revenue: ${revenue} | Leads: {leads} | AI Recommendation: {ai_recommendation}"
+              ^^^
+NameError: name 'MOD' is not defined
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/tanium_v30/modules/lead_management/main.py", line 19, in <module>
+    main()
+    ~~~~^^
+  File "/data/data/com.termux/files/home/tanium_v30/modules/lead_management/main.py", line 13, in main
+    msg = f"[{MOD}] Revenue: ${revenue} | Leads: {leads} | AI Recommendation: {ai_recommendation}"
+              ^^^
+NameError: name 'MOD' is not defined
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/tanium_v30/modules/lead_management/main.py", line 19, in <module>
+    main()
+    ~~~~^^
+  File "/data/data/com.termux/files/home/tanium_v30/modules/lead_management/main.py", line 13, in main
+    msg = f"[{MOD}] Revenue: ${revenue} | Leads: {leads} | AI Recommendation: {ai_recommendation}"
+              ^^^
+NameError: name 'MOD' is not defined
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/tanium_v30/modules/lead_management/main.py", line 19, in <module>
+    main()
+    ~~~~^^
+  File "/data/data/com.termux/files/home/tanium_v30/modules/lead_management/main.py", line 13, in main
+    msg = f"[{MOD}] Revenue: ${revenue} | Leads: {leads} | AI Recommendation: {ai_recommendation}"
+              ^^^
+NameError: name 'MOD' is not defined
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/tanium_v30/modules/lead_management/main.py", line 19, in <module>
+    main()
+    ~~~~^^
+  File "/data/data/com.termux/files/home/tanium_v30/modules/lead_management/main.py", line 13, in main
+    msg = f"[{MOD}] Revenue: ${revenue} | Leads: {leads} | AI Recommendation: {ai_recommendation}"
+              ^^^
+NameError: name 'MOD' is not defined
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/tanium_v30/modules/lead_management/main.py", line 19, in <module>
+    main()
+    ~~~~^^
+  File "/data/data/com.termux/files/home/tanium_v30/modules/lead_management/main.py", line 13, in main
+    msg = f"[{MOD}] Revenue: ${revenue} | Leads: {leads} | AI Recommendation: {ai_recommendation}"
+              ^^^
+NameError: name 'MOD' is not defined
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/tanium_v30/modules/lead_management/main.py", line 19, in <module>
+    main()
+    ~~~~^^
+  File "/data/data/com.termux/files/home/tanium_v30/modules/lead_management/main.py", line 13, in main
+    msg = f"[{MOD}] Revenue: ${revenue} | Leads: {leads} | AI Recommendation: {ai_recommendation}"
+              ^^^
+NameError: name 'MOD' is not defined
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/tanium_v30/modules/lead_management/main.py", line 19, in <module>
+    main()
+    ~~~~^^
+  File "/data/data/com.termux/files/home/tanium_v30/modules/lead_management/main.py", line 13, in main
+    msg = f"[{MOD}] Revenue: ${revenue} | Leads: {leads} | AI Recommendation: {ai_recommendation}"
+              ^^^
+NameError: name 'MOD' is not defined
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/tanium_v30/modules/lead_management/main.py", line 19, in <module>
+    main()
+    ~~~~^^
+  File "/data/data/com.termux/files/home/tanium_v30/modules/lead_management/main.py", line 13, in main
+    msg = f"[{MOD}] Revenue: ${revenue} | Leads: {leads} | AI Recommendation: {ai_recommendation}"
+              ^^^
+NameError: name 'MOD' is not defined
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/tanium_v30/modules/lead_management/main.py", line 19, in <module>
+    main()
+    ~~~~^^
+  File "/data/data/com.termux/files/home/tanium_v30/modules/lead_management/main.py", line 13, in main
+    msg = f"[{MOD}] Revenue: ${revenue} | Leads: {leads} | AI Recommendation: {ai_recommendation}"
+              ^^^
+NameError: name 'MOD' is not defined
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/tanium_v30/modules/lead_management/main.py", line 19, in <module>
+    main()
+    ~~~~^^
+  File "/data/data/com.termux/files/home/tanium_v30/modules/lead_management/main.py", line 13, in main
+    msg = f"[{MOD}] Revenue: ${revenue} | Leads: {leads} | AI Recommendation: {ai_recommendation}"
+              ^^^
+NameError: name 'MOD' is not defined
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/tanium_v30/modules/lead_management/main.py", line 19, in <module>
+    main()
+    ~~~~^^
+  File "/data/data/com.termux/files/home/tanium_v30/modules/lead_management/main.py", line 13, in main
+    msg = f"[{MOD}] Revenue: ${revenue} | Leads: {leads} | AI Recommendation: {ai_recommendation}"
+              ^^^
+NameError: name 'MOD' is not defined
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/tanium_v30/modules/lead_management/main.py", line 19, in <module>
+    main()
+    ~~~~^^
+  File "/data/data/com.termux/files/home/tanium_v30/modules/lead_management/main.py", line 13, in main
+    msg = f"[{MOD}] Revenue: ${revenue} | Leads: {leads} | AI Recommendation: {ai_recommendation}"
+              ^^^
+NameError: name 'MOD' is not defined
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/tanium_v30/modules/lead_management/main.py", line 19, in <module>
+    main()
+    ~~~~^^
+  File "/data/data/com.termux/files/home/tanium_v30/modules/lead_management/main.py", line 13, in main
+    msg = f"[{MOD}] Revenue: ${revenue} | Leads: {leads} | AI Recommendation: {ai_recommendation}"
+              ^^^
+NameError: name 'MOD' is not defined
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/tanium_v30/modules/lead_management/main.py", line 19, in <module>
+    main()
+    ~~~~^^
+  File "/data/data/com.termux/files/home/tanium_v30/modules/lead_management/main.py", line 13, in main
+    msg = f"[{MOD}] Revenue: ${revenue} | Leads: {leads} | AI Recommendation: {ai_recommendation}"
+              ^^^
+NameError: name 'MOD' is not defined
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/tanium_v30/modules/lead_management/main.py", line 19, in <module>
+    main()
+    ~~~~^^
+  File "/data/data/com.termux/files/home/tanium_v30/modules/lead_management/main.py", line 13, in main
+    msg = f"[{MOD}] Revenue: ${revenue} | Leads: {leads} | AI Recommendation: {ai_recommendation}"
+              ^^^
+NameError: name 'MOD' is not defined
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/tanium_v30/modules/lead_management/main.py", line 19, in <module>
+    main()
+    ~~~~^^
+  File "/data/data/com.termux/files/home/tanium_v30/modules/lead_management/main.py", line 13, in main
+    msg = f"[{MOD}] Revenue: ${revenue} | Leads: {leads} | AI Recommendation: {ai_recommendation}"
+              ^^^
+NameError: name 'MOD' is not defined
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/tanium_v30/modules/lead_management/main.py", line 19, in <module>
+    main()
+    ~~~~^^
+  File "/data/data/com.termux/files/home/tanium_v30/modules/lead_management/main.py", line 13, in main
+    msg = f"[{MOD}] Revenue: ${revenue} | Leads: {leads} | AI Recommendation: {ai_recommendation}"
+              ^^^
+NameError: name 'MOD' is not defined
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/tanium_v30/modules/lead_management/main.py", line 19, in <module>
+    main()
+    ~~~~^^
+  File "/data/data/com.termux/files/home/tanium_v30/modules/lead_management/main.py", line 13, in main
+    msg = f"[{MOD}] Revenue: ${revenue} | Leads: {leads} | AI Recommendation: {ai_recommendation}"
+              ^^^
+NameError: name 'MOD' is not defined
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/tanium_v30/modules/lead_management/main.py", line 19, in <module>
+    main()
+    ~~~~^^
+  File "/data/data/com.termux/files/home/tanium_v30/modules/lead_management/main.py", line 13, in main
+    msg = f"[{MOD}] Revenue: ${revenue} | Leads: {leads} | AI Recommendation: {ai_recommendation}"
+              ^^^
+NameError: name 'MOD' is not defined
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/tanium_v30/modules/lead_management/main.py", line 19, in <module>
+    main()
+    ~~~~^^
+  File "/data/data/com.termux/files/home/tanium_v30/modules/lead_management/main.py", line 13, in main
+    msg = f"[{MOD}] Revenue: ${revenue} | Leads: {leads} | AI Recommendation: {ai_recommendation}"
+              ^^^
+NameError: name 'MOD' is not defined
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/tanium_v30/modules/lead_management/main.py", line 19, in <module>
+    main()
+    ~~~~^^
+  File "/data/data/com.termux/files/home/tanium_v30/modules/lead_management/main.py", line 13, in main
+    msg = f"[{MOD}] Revenue: ${revenue} | Leads: {leads} | AI Recommendation: {ai_recommendation}"
+              ^^^
+NameError: name 'MOD' is not defined
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/tanium_v30/modules/lead_management/main.py", line 19, in <module>
+    main()
+    ~~~~^^
+  File "/data/data/com.termux/files/home/tanium_v30/modules/lead_management/main.py", line 13, in main
+    msg = f"[{MOD}] Revenue: ${revenue} | Leads: {leads} | AI Recommendation: {ai_recommendation}"
+              ^^^
+NameError: name 'MOD' is not defined
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/tanium_v30/modules/lead_management/main.py", line 19, in <module>
+    main()
+    ~~~~^^
+  File "/data/data/com.termux/files/home/tanium_v30/modules/lead_management/main.py", line 13, in main
+    msg = f"[{MOD}] Revenue: ${revenue} | Leads: {leads} | AI Recommendation: {ai_recommendation}"
+              ^^^
+NameError: name 'MOD' is not defined
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/tanium_v30/modules/lead_management/main.py", line 19, in <module>
+    main()
+    ~~~~^^
+  File "/data/data/com.termux/files/home/tanium_v30/modules/lead_management/main.py", line 13, in main
+    msg = f"[{MOD}] Revenue: ${revenue} | Leads: {leads} | AI Recommendation: {ai_recommendation}"
+              ^^^
+NameError: name 'MOD' is not defined
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/tanium_v30/modules/lead_management/main.py", line 19, in <module>
+    main()
+    ~~~~^^
+  File "/data/data/com.termux/files/home/tanium_v30/modules/lead_management/main.py", line 13, in main
+    msg = f"[{MOD}] Revenue: ${revenue} | Leads: {leads} | AI Recommendation: {ai_recommendation}"
+              ^^^
+NameError: name 'MOD' is not defined
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/tanium_v30/modules/lead_management/main.py", line 19, in <module>
+    main()
+    ~~~~^^
+  File "/data/data/com.termux/files/home/tanium_v30/modules/lead_management/main.py", line 13, in main
+    msg = f"[{MOD}] Revenue: ${revenue} | Leads: {leads} | AI Recommendation: {ai_recommendation}"
+              ^^^
+NameError: name 'MOD' is not defined
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/tanium_v30/modules/lead_management/main.py", line 19, in <module>
+    main()
+    ~~~~^^
+  File "/data/data/com.termux/files/home/tanium_v30/modules/lead_management/main.py", line 13, in main
+    msg = f"[{MOD}] Revenue: ${revenue} | Leads: {leads} | AI Recommendation: {ai_recommendation}"
+              ^^^
+NameError: name 'MOD' is not defined
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/tanium_v30/modules/lead_management/main.py", line 19, in <module>
+    main()
+    ~~~~^^
+  File "/data/data/com.termux/files/home/tanium_v30/modules/lead_management/main.py", line 13, in main
+    msg = f"[{MOD}] Revenue: ${revenue} | Leads: {leads} | AI Recommendation: {ai_recommendation}"
+              ^^^
+NameError: name 'MOD' is not defined
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/tanium_v30/modules/lead_management/main.py", line 19, in <module>
+    main()
+    ~~~~^^
+  File "/data/data/com.termux/files/home/tanium_v30/modules/lead_management/main.py", line 13, in main
+    msg = f"[{MOD}] Revenue: ${revenue} | Leads: {leads} | AI Recommendation: {ai_recommendation}"
+              ^^^
+NameError: name 'MOD' is not defined
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/tanium_v30/modules/lead_management/main.py", line 19, in <module>
+    main()
+    ~~~~^^
+  File "/data/data/com.termux/files/home/tanium_v30/modules/lead_management/main.py", line 13, in main
+    msg = f"[{MOD}] Revenue: ${revenue} | Leads: {leads} | AI Recommendation: {ai_recommendation}"
+              ^^^
+NameError: name 'MOD' is not defined
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/tanium_v30/modules/lead_management/main.py", line 19, in <module>
+    main()
+    ~~~~^^
+  File "/data/data/com.termux/files/home/tanium_v30/modules/lead_management/main.py", line 13, in main
+    msg = f"[{MOD}] Revenue: ${revenue} | Leads: {leads} | AI Recommendation: {ai_recommendation}"
+              ^^^
+NameError: name 'MOD' is not defined
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/tanium_v30/modules/lead_management/main.py", line 19, in <module>
+    main()
+    ~~~~^^
+  File "/data/data/com.termux/files/home/tanium_v30/modules/lead_management/main.py", line 13, in main
+    msg = f"[{MOD}] Revenue: ${revenue} | Leads: {leads} | AI Recommendation: {ai_recommendation}"
+              ^^^
+NameError: name 'MOD' is not defined
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/tanium_v30/modules/lead_management/main.py", line 19, in <module>
+    main()
+    ~~~~^^
+  File "/data/data/com.termux/files/home/tanium_v30/modules/lead_management/main.py", line 13, in main
+    msg = f"[{MOD}] Revenue: ${revenue} | Leads: {leads} | AI Recommendation: {ai_recommendation}"
+              ^^^
+NameError: name 'MOD' is not defined
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/tanium_v30/modules/lead_management/main.py", line 19, in <module>
+    main()
+    ~~~~^^
+  File "/data/data/com.termux/files/home/tanium_v30/modules/lead_management/main.py", line 13, in main
+    msg = f"[{MOD}] Revenue: ${revenue} | Leads: {leads} | AI Recommendation: {ai_recommendation}"
+              ^^^
+NameError: name 'MOD' is not defined
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/tanium_v30/modules/lead_management/main.py", line 19, in <module>
+    main()
+    ~~~~^^
+  File "/data/data/com.termux/files/home/tanium_v30/modules/lead_management/main.py", line 13, in main
+    msg = f"[{MOD}] Revenue: ${revenue} | Leads: {leads} | AI Recommendation: {ai_recommendation}"
+              ^^^
+NameError: name 'MOD' is not defined
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/tanium_v30/modules/lead_management/main.py", line 19, in <module>
+    main()
+    ~~~~^^
+  File "/data/data/com.termux/files/home/tanium_v30/modules/lead_management/main.py", line 13, in main
+    msg = f"[{MOD}] Revenue: ${revenue} | Leads: {leads} | AI Recommendation: {ai_recommendation}"
+              ^^^
+NameError: name 'MOD' is not defined
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/tanium_v30/modules/lead_management/main.py", line 19, in <module>
+    main()
+    ~~~~^^
+  File "/data/data/com.termux/files/home/tanium_v30/modules/lead_management/main.py", line 13, in main
+    msg = f"[{MOD}] Revenue: ${revenue} | Leads: {leads} | AI Recommendation: {ai_recommendation}"
+              ^^^
+NameError: name 'MOD' is not defined
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/tanium_v30/modules/lead_management/main.py", line 19, in <module>
+    main()
+    ~~~~^^
+  File "/data/data/com.termux/files/home/tanium_v30/modules/lead_management/main.py", line 13, in main
+    msg = f"[{MOD}] Revenue: ${revenue} | Leads: {leads} | AI Recommendation: {ai_recommendation}"
+              ^^^
+NameError: name 'MOD' is not defined
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/tanium_v30/modules/lead_management/main.py", line 19, in <module>
+    main()
+    ~~~~^^
+  File "/data/data/com.termux/files/home/tanium_v30/modules/lead_management/main.py", line 13, in main
+    msg = f"[{MOD}] Revenue: ${revenue} | Leads: {leads} | AI Recommendation: {ai_recommendation}"
+              ^^^
+NameError: name 'MOD' is not defined
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/tanium_v30/modules/lead_management/main.py", line 19, in <module>
+    main()
+    ~~~~^^
+  File "/data/data/com.termux/files/home/tanium_v30/modules/lead_management/main.py", line 13, in main
+    msg = f"[{MOD}] Revenue: ${revenue} | Leads: {leads} | AI Recommendation: {ai_recommendation}"
+              ^^^
+NameError: name 'MOD' is not defined
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/tanium_v30/modules/lead_management/main.py", line 19, in <module>
+    main()
+    ~~~~^^
+  File "/data/data/com.termux/files/home/tanium_v30/modules/lead_management/main.py", line 13, in main
+    msg = f"[{MOD}] Revenue: ${revenue} | Leads: {leads} | AI Recommendation: {ai_recommendation}"
+              ^^^
+NameError: name 'MOD' is not defined
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/tanium_v30/modules/lead_management/main.py", line 19, in <module>
+    main()
+    ~~~~^^
+  File "/data/data/com.termux/files/home/tanium_v30/modules/lead_management/main.py", line 13, in main
+    msg = f"[{MOD}] Revenue: ${revenue} | Leads: {leads} | AI Recommendation: {ai_recommendation}"
+              ^^^
+NameError: name 'MOD' is not defined
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/tanium_v30/modules/lead_management/main.py", line 19, in <module>
+    main()
+    ~~~~^^
+  File "/data/data/com.termux/files/home/tanium_v30/modules/lead_management/main.py", line 13, in main
+    msg = f"[{MOD}] Revenue: ${revenue} | Leads: {leads} | AI Recommendation: {ai_recommendation}"
+              ^^^
+NameError: name 'MOD' is not defined
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/tanium_v30/modules/lead_management/main.py", line 19, in <module>
+    main()
+    ~~~~^^
+  File "/data/data/com.termux/files/home/tanium_v30/modules/lead_management/main.py", line 13, in main
+    msg = f"[{MOD}] Revenue: ${revenue} | Leads: {leads} | AI Recommendation: {ai_recommendation}"
+              ^^^
+NameError: name 'MOD' is not defined
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/tanium_v30/modules/lead_management/main.py", line 19, in <module>
+    main()
+    ~~~~^^
+  File "/data/data/com.termux/files/home/tanium_v30/modules/lead_management/main.py", line 13, in main
+    msg = f"[{MOD}] Revenue: ${revenue} | Leads: {leads} | AI Recommendation: {ai_recommendation}"
+              ^^^
+NameError: name 'MOD' is not defined
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/tanium_v30/modules/lead_management/main.py", line 19, in <module>
+    main()
+    ~~~~^^
+  File "/data/data/com.termux/files/home/tanium_v30/modules/lead_management/main.py", line 13, in main
+    msg = f"[{MOD}] Revenue: ${revenue} | Leads: {leads} | AI Recommendation: {ai_recommendation}"
+              ^^^
+NameError: name 'MOD' is not defined
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/tanium_v30/modules/lead_management/main.py", line 19, in <module>
+    main()
+    ~~~~^^
+  File "/data/data/com.termux/files/home/tanium_v30/modules/lead_management/main.py", line 13, in main
+    msg = f"[{MOD}] Revenue: ${revenue} | Leads: {leads} | AI Recommendation: {ai_recommendation}"
+              ^^^
+NameError: name 'MOD' is not defined
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/tanium_v30/modules/lead_management/main.py", line 19, in <module>
+    main()
+    ~~~~^^
+  File "/data/data/com.termux/files/home/tanium_v30/modules/lead_management/main.py", line 13, in main
+    msg = f"[{MOD}] Revenue: ${revenue} | Leads: {leads} | AI Recommendation: {ai_recommendation}"
+              ^^^
+NameError: name 'MOD' is not defined
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/tanium_v30/modules/lead_management/main.py", line 19, in <module>
+    main()
+    ~~~~^^
+  File "/data/data/com.termux/files/home/tanium_v30/modules/lead_management/main.py", line 13, in main
+    msg = f"[{MOD}] Revenue: ${revenue} | Leads: {leads} | AI Recommendation: {ai_recommendation}"
+              ^^^
+NameError: name 'MOD' is not defined
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/tanium_v30/modules/lead_management/main.py", line 19, in <module>
+    main()
+    ~~~~^^
+  File "/data/data/com.termux/files/home/tanium_v30/modules/lead_management/main.py", line 13, in main
+    msg = f"[{MOD}] Revenue: ${revenue} | Leads: {leads} | AI Recommendation: {ai_recommendation}"
+              ^^^
+NameError: name 'MOD' is not defined
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/tanium_v30/modules/lead_management/main.py", line 19, in <module>
+    main()
+    ~~~~^^
+  File "/data/data/com.termux/files/home/tanium_v30/modules/lead_management/main.py", line 13, in main
+    msg = f"[{MOD}] Revenue: ${revenue} | Leads: {leads} | AI Recommendation: {ai_recommendation}"
+              ^^^
+NameError: name 'MOD' is not defined
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/tanium_v30/modules/lead_management/main.py", line 19, in <module>
+    main()
+    ~~~~^^
+  File "/data/data/com.termux/files/home/tanium_v30/modules/lead_management/main.py", line 13, in main
+    msg = f"[{MOD}] Revenue: ${revenue} | Leads: {leads} | AI Recommendation: {ai_recommendation}"
+              ^^^
+NameError: name 'MOD' is not defined
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/tanium_v30/modules/lead_management/main.py", line 19, in <module>
+    main()
+    ~~~~^^
+  File "/data/data/com.termux/files/home/tanium_v30/modules/lead_management/main.py", line 13, in main
+    msg = f"[{MOD}] Revenue: ${revenue} | Leads: {leads} | AI Recommendation: {ai_recommendation}"
+              ^^^
+NameError: name 'MOD' is not defined
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/tanium_v30/modules/lead_management/main.py", line 19, in <module>
+    main()
+    ~~~~^^
+  File "/data/data/com.termux/files/home/tanium_v30/modules/lead_management/main.py", line 13, in main
+    msg = f"[{MOD}] Revenue: ${revenue} | Leads: {leads} | AI Recommendation: {ai_recommendation}"
+              ^^^
+NameError: name 'MOD' is not defined
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/tanium_v30/modules/lead_management/main.py", line 19, in <module>
+    main()
+    ~~~~^^
+  File "/data/data/com.termux/files/home/tanium_v30/modules/lead_management/main.py", line 13, in main
+    msg = f"[{MOD}] Revenue: ${revenue} | Leads: {leads} | AI Recommendation: {ai_recommendation}"
+              ^^^
+NameError: name 'MOD' is not defined
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/tanium_v30/modules/lead_management/main.py", line 19, in <module>
+    main()
+    ~~~~^^
+  File "/data/data/com.termux/files/home/tanium_v30/modules/lead_management/main.py", line 13, in main
+    msg = f"[{MOD}] Revenue: ${revenue} | Leads: {leads} | AI Recommendation: {ai_recommendation}"
+              ^^^
+NameError: name 'MOD' is not defined
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/tanium_v30/modules/lead_management/main.py", line 19, in <module>
+    main()
+    ~~~~^^
+  File "/data/data/com.termux/files/home/tanium_v30/modules/lead_management/main.py", line 13, in main
+    msg = f"[{MOD}] Revenue: ${revenue} | Leads: {leads} | AI Recommendation: {ai_recommendation}"
+              ^^^
+NameError: name 'MOD' is not defined
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/tanium_v30/modules/lead_management/main.py", line 19, in <module>
+    main()
+    ~~~~^^
+  File "/data/data/com.termux/files/home/tanium_v30/modules/lead_management/main.py", line 13, in main
+    msg = f"[{MOD}] Revenue: ${revenue} | Leads: {leads} | AI Recommendation: {ai_recommendation}"
+              ^^^
+NameError: name 'MOD' is not defined
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/tanium_v30/modules/lead_management/main.py", line 19, in <module>
+    main()
+    ~~~~^^
+  File "/data/data/com.termux/files/home/tanium_v30/modules/lead_management/main.py", line 13, in main
+    msg = f"[{MOD}] Revenue: ${revenue} | Leads: {leads} | AI Recommendation: {ai_recommendation}"
+              ^^^
+NameError: name 'MOD' is not defined
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/tanium_v30/modules/lead_management/main.py", line 19, in <module>
+    main()
+    ~~~~^^
+  File "/data/data/com.termux/files/home/tanium_v30/modules/lead_management/main.py", line 13, in main
+    msg = f"[{MOD}] Revenue: ${revenue} | Leads: {leads} | AI Recommendation: {ai_recommendation}"
+              ^^^
+NameError: name 'MOD' is not defined
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/tanium_v30/modules/lead_management/main.py", line 19, in <module>
+    main()
+    ~~~~^^
+  File "/data/data/com.termux/files/home/tanium_v30/modules/lead_management/main.py", line 13, in main
+    msg = f"[{MOD}] Revenue: ${revenue} | Leads: {leads} | AI Recommendation: {ai_recommendation}"
+              ^^^
+NameError: name 'MOD' is not defined
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/tanium_v30/modules/lead_management/main.py", line 19, in <module>
+    main()
+    ~~~~^^
+  File "/data/data/com.termux/files/home/tanium_v30/modules/lead_management/main.py", line 13, in main
+    msg = f"[{MOD}] Revenue: ${revenue} | Leads: {leads} | AI Recommendation: {ai_recommendation}"
+              ^^^
+NameError: name 'MOD' is not defined
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/tanium_v30/modules/lead_management/main.py", line 19, in <module>
+    main()
+    ~~~~^^
+  File "/data/data/com.termux/files/home/tanium_v30/modules/lead_management/main.py", line 13, in main
+    msg = f"[{MOD}] Revenue: ${revenue} | Leads: {leads} | AI Recommendation: {ai_recommendation}"
+              ^^^
+NameError: name 'MOD' is not defined
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/tanium_v30/modules/lead_management/main.py", line 19, in <module>
+    main()
+    ~~~~^^
+  File "/data/data/com.termux/files/home/tanium_v30/modules/lead_management/main.py", line 13, in main
+    msg = f"[{MOD}] Revenue: ${revenue} | Leads: {leads} | AI Recommendation: {ai_recommendation}"
+              ^^^
+NameError: name 'MOD' is not defined
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/tanium_v30/modules/lead_management/main.py", line 19, in <module>
+    main()
+    ~~~~^^
+  File "/data/data/com.termux/files/home/tanium_v30/modules/lead_management/main.py", line 13, in main
+    msg = f"[{MOD}] Revenue: ${revenue} | Leads: {leads} | AI Recommendation: {ai_recommendation}"
+              ^^^
+NameError: name 'MOD' is not defined
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/tanium_v30/modules/lead_management/main.py", line 19, in <module>
+    main()
+    ~~~~^^
+  File "/data/data/com.termux/files/home/tanium_v30/modules/lead_management/main.py", line 13, in main
+    msg = f"[{MOD}] Revenue: ${revenue} | Leads: {leads} | AI Recommendation: {ai_recommendation}"
+              ^^^
+NameError: name 'MOD' is not defined
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/tanium_v30/modules/lead_management/main.py", line 19, in <module>
+    main()
+    ~~~~^^
+  File "/data/data/com.termux/files/home/tanium_v30/modules/lead_management/main.py", line 13, in main
+    msg = f"[{MOD}] Revenue: ${revenue} | Leads: {leads} | AI Recommendation: {ai_recommendation}"
+              ^^^
+NameError: name 'MOD' is not defined
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/tanium_v30/modules/lead_management/main.py", line 19, in <module>
+    main()
+    ~~~~^^
+  File "/data/data/com.termux/files/home/tanium_v30/modules/lead_management/main.py", line 13, in main
+    msg = f"[{MOD}] Revenue: ${revenue} | Leads: {leads} | AI Recommendation: {ai_recommendation}"
+              ^^^
+NameError: name 'MOD' is not defined
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/tanium_v30/modules/lead_management/main.py", line 19, in <module>
+    main()
+    ~~~~^^
+  File "/data/data/com.termux/files/home/tanium_v30/modules/lead_management/main.py", line 13, in main
+    msg = f"[{MOD}] Revenue: ${revenue} | Leads: {leads} | AI Recommendation: {ai_recommendation}"
+              ^^^
+NameError: name 'MOD' is not defined
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/tanium_v30/modules/lead_management/main.py", line 19, in <module>
+    main()
+    ~~~~^^
+  File "/data/data/com.termux/files/home/tanium_v30/modules/lead_management/main.py", line 13, in main
+    msg = f"[{MOD}] Revenue: ${revenue} | Leads: {leads} | AI Recommendation: {ai_recommendation}"
+              ^^^
+NameError: name 'MOD' is not defined
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/tanium_v30/modules/lead_management/main.py", line 19, in <module>
+    main()
+    ~~~~^^
+  File "/data/data/com.termux/files/home/tanium_v30/modules/lead_management/main.py", line 13, in main
+    msg = f"[{MOD}] Revenue: ${revenue} | Leads: {leads} | AI Recommendation: {ai_recommendation}"
+              ^^^
+NameError: name 'MOD' is not defined
+Failed checking if argv[0] is an import path entry
+Traceback (most recent call last):
+  File "<frozen importlib._bootstrap_external>", line 1713, in path_hook_for_FileFinder
+KeyboardInterrupt
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/tanium_v30/modules/lead_management/main.py", line 19, in <module>
+    main()
+    ~~~~^^
+  File "/data/data/com.termux/files/home/tanium_v30/modules/lead_management/main.py", line 13, in main
+    msg = f"[{MOD}] Revenue: ${revenue} | Leads: {leads} | AI Recommendation: {ai_recommendation}"
+              ^^^
+NameError: name 'MOD' is not defined

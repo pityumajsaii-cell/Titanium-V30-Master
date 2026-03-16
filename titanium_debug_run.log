@@ -1,0 +1,7 @@
+📦 Titanium Enterprise telepítés és debug indul...
+📦 Telepítés: python-dotenv
+🚀 Főmotor futtatása debug módban...
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/titanium_v30/main.py", line 13, in <module>
+    from email_system.email_campaigns import EmailCampaigns
+ModuleNotFoundError: No module named 'email_system'

@@ -1,0 +1,55 @@
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/usr/lib/python3.13/zoneinfo/_common.py", line 12, in load_tzdata
+    path = resources.files(package_name).joinpath(resource_name)
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.13/importlib/resources/_common.py", line 46, in wrapper
+    return func(anchor)
+  File "/data/data/com.termux/files/usr/lib/python3.13/importlib/resources/_common.py", line 56, in files
+    return from_package(resolve(anchor))
+                        ~~~~~~~^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.13/functools.py", line 934, in wrapper
+    return dispatch(args[0].__class__)(*args, **kw)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.13/importlib/resources/_common.py", line 82, in _
+    return importlib.import_module(cand)
+           ~~~~~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.13/importlib/__init__.py", line 88, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+           ~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<frozen importlib._bootstrap>", line 1387, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1360, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1310, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "<frozen importlib._bootstrap>", line 1387, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1360, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1310, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "<frozen importlib._bootstrap>", line 1387, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1360, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1324, in _find_and_load_unlocked
+ModuleNotFoundError: No module named 'tzdata'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/enterprise_aios/scripts/main_enterprise_max.py", line 43, in <module>
+    scheduler = BackgroundScheduler()
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/apscheduler/schedulers/base.py", line 125, in __init__
+    self.configure(gconfig, **options)
+    ~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/apscheduler/schedulers/base.py", line 174, in configure
+    self._configure(config)
+    ~~~~~~~~~~~~~~~^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/apscheduler/schedulers/background.py", line 27, in _configure
+    super()._configure(config)
+    ~~~~~~~~~~~~~~~~~~^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/apscheduler/schedulers/base.py", line 903, in _configure
+    self.timezone = astimezone(config.pop("timezone", None)) or get_localzone()
+                                                                ~~~~~~~~~~~~~^^
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/tzlocal/unix.py", line 237, in get_localzone
+    _cache_tz = _get_localzone()
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/tzlocal/unix.py", line 214, in _get_localzone
+    tz = zoneinfo.ZoneInfo(tzname)
+  File "/data/data/com.termux/files/usr/lib/python3.13/zoneinfo/_common.py", line 29, in load_tzdata
+    raise ZoneInfoNotFoundError(f"No time zone found with key {key}")
+zoneinfo._common.ZoneInfoNotFoundError: 'No time zone found with key Europe/Budapest'
