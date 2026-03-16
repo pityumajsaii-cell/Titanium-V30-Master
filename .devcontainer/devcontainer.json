@@ -1,0 +1,19 @@
+{
+    "name": "Titanium Cloud Engine",
+    "image": "mcr.microsoft.com/devcontainers/python:3.11",
+    "customizations": {
+        "codespaces": {
+            "openFiles": ["titanium_v30_final.py", "marketing_live.log"]
+        }
+    },
+    "forwardPorts": [3001],
+    "portsAttributes": {
+        "3001": {
+            "label": "Titanium SaaS Gateway",
+            "onAutoForward": "notify",
+            "visibility": "public"
+        }
+    },
+    "postCreateCommand": "pip install -r requirements.txt",
+    "waitFor": "postCreateCommand"
+}
