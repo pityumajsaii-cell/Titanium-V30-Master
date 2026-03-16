@@ -2,9 +2,7 @@ name: Titanium Cloud Core - MAX MODE
 
 on:
   schedule:
-    - cron: '0 8 * * *'
-    - cron: '0 14 * * *'
-    - cron: '0 20 * * *'
+    - cron: '0 8,14,20 * * *' # Napi 3 futás
   push:
     branches: [ main ]
   workflow_dispatch:
@@ -13,17 +11,23 @@ jobs:
   run-titanium:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
+      - name: Checkout Repository
         uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }} # Itt adjuk át a jogosultságot
+
       - name: Setup Python
         uses: actions/setup-python@v4
         with:
           python-version: '3.11'
+
       - name: Install Dependencies
         run: |
           pip install stripe requests google-api-python-client google-auth-oauthlib moviepy
-      - name: 🚀 Autonóm Munkafolyamat
+
+      - name: 🚀 Teljes Autonóm Munkamenet
         env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           STRIPE_SECRET_KEY: ${{ secrets.STRIPE_SECRET_KEY }}
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
@@ -32,3 +36,4 @@ jobs:
           python core/titanium_dual_engine.py
           python core/video_creator.py
           python core/b2b_email_sender.py
+          python core/github_auto.py # A végén mindent naplóz és visszatölt

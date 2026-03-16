@@ -1,0 +1,3 @@
+HOOK: Hogyan építettem fel egy autonóm SaaS birodalmat a telefonomról?
+BODY: A Titanium Cloud Core mostantól 0/24-ben termel a felhőben.
+CTA: Kattints a linkre a bioban és csatlakozz a jövőhöz!

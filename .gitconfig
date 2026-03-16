@@ -1,3 +1,5 @@
 [user]
 	email = pityumajsaii@gmail.com
 	name = pityumajsaii-cell
+[credential]
+	helper = store
