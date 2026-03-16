@@ -1,3 +1,4 @@
-stripe
+flask
 requests
+stripe
 python-dotenv
