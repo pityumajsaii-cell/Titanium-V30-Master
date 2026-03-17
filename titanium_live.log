@@ -1,4 +1,3 @@
-nohup: ignoring input
  * Serving Flask app 'titanium_v30_final'
  * Debug mode: off
 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
