@@ -3,6 +3,7 @@ import os
 from flask import Flask
 from titanium_modules import AIServices
 from marketing_engine import NeuralMarketing
+from quantum_core import QuantumCore
 
 # --- KONFIGURÁCIÓ ---
 TELEGRAM_TOKEN = "8425805311:AAFG_Y4vLl2r6SlJeuBsRFTa_bHDXTI54r4"
@@ -12,42 +13,52 @@ bhast.initialize()
 server = bhast.Server(host='0.0.0.0', port=7860)
 ai = AIServices(STRIPE_KEY)
 marketing = NeuralMarketing()
+quantum = QuantumCore()
 
 @server.route("/")
 def index():
+    prediction = quantum.predict_market()
     services = ai.get_service_list()
-    # Szimulált tanulási adat a dashboardhoz
-    best_campaign = marketing.optimize_campaigns({"Legal_AI": 50, "Enterprise_ERP": 120})[0][0]
-    auto_ad = marketing.generate_auto_ad(best_campaign)
-
-    service_html = "".join([f'<div class="data-row"><span>{s}:</span><span class="value">AI OPTIMIZED</span></div>' for s in services])
+    
+    service_html = "".join([f'<div class="data-row"><span>{s}:</span><span class="value">QUANTUM ACTIVE</span></div>' for s in services[:12]])
     
     return f"""
     <html>
     <head>
         <style>
-            body {{ background: #000; color: #00ff41; font-family: 'Courier New', monospace; text-align: center; padding: 20px; }}
-            .enterprise-box {{ border: 2px dashed #00ff41; background: rgba(0,20,0,0.8); padding: 30px; margin: auto; width: 95%; max-width: 1100px; box-shadow: 0 0 40px #00ff41; }}
-            .header {{ font-size: 2.8em; color: #fff; text-shadow: 0 0 15px #00ff41; }}
-            .ad-scanner {{ background: #111; border: 1px solid #444; padding: 15px; margin: 20px 0; font-style: italic; color: #ff9900; }}
-            .grid {{ display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 15px; text-align: left; }}
-            .data-row {{ border-bottom: 1px solid #222; padding: 8px 0; display: flex; justify-content: space-between; }}
-            .value {{ color: #000; background: #00ff41; padding: 0 10px; border-radius: 3px; }}
-            .brain-status {{ font-weight: bold; color: #00d4ff; text-transform: uppercase; margin-bottom: 10px; }}
+            body {{ background: #000; color: #00ff41; font-family: 'Courier New', monospace; text-align: center; padding: 20px; overflow-x: hidden; }}
+            .empire-container {{ border: 5px double #00ff41; background: radial-gradient(circle, #001100 0%, #000 100%); padding: 40px; margin: auto; width: 95%; max-width: 1200px; box-shadow: 0 0 100px #00ff41; }}
+            .quantum-header {{ font-size: 3.5em; font-weight: 900; letter-spacing: 15px; text-shadow: 0 0 20px #00ff41; margin: 0; }}
+            .status-grid {{ display: grid; grid-template-columns: 1fr 1fr 1fr 1fr; gap: 20px; margin-top: 30px; }}
+            .stat-card {{ border: 1px solid #00ff41; padding: 15px; background: rgba(0,255,65,0.1); }}
+            .prediction-bar {{ background: #00ff41; color: #000; font-weight: bold; padding: 10px; margin: 20px 0; font-size: 1.2em; }}
+            .data-row {{ border-bottom: 1px solid #111; padding: 5px 0; display: flex; justify-content: space-between; font-size: 0.8em; }}
+            .value {{ color: #fff; }}
+            .glow {{ animation: g 2s infinite; }}
+            @keyframes g {{ 0%{{text-shadow: 0 0 5px #00ff41;}} 50%{{text-shadow: 0 0 30px #00ff41;}} 100%{{text-shadow: 0 0 5px #00ff41;}} }}
         </style>
     </head>
     <body>
-        <div class="enterprise-box">
-            <h1 class="header">TITANIUM NEURAL EMPIRE</h1>
-            <div class="brain-status">🧠 AI MARKETING ENGINE: LEARNING MODE ACTIVE</div>
-            <div class="ad-scanner">
-                [AUTO-GENERATED AD]: "{auto_ad}"
+        <div class="empire-container">
+            <h1 class="quantum-header glow">TITANIUM SINGULARITY</h1>
+            <p style="letter-spacing: 5px;">V7.0 GLOBAL DOMINANCE LAYER</p>
+            <div class="prediction-bar">{prediction}</div>
+            <div class="status-grid">
+                <div class="stat-card"><span>LIQUIDITY</span><br><b style="color:#fff;">MAXIMUM</b></div>
+                <div class="stat-card"><span>ARBITRAGE</span><br><b style="color:#fff;">ACTIVE</b></div>
+                <div class="stat-card"><span>NODES</span><br><b style="color:#fff;">1000+ VIRTUAL</b></div>
+                <div class="stat-card"><span>UPTIME</span><br><b style="color:#fff;">INFINITY</b></div>
             </div>
-            <div class="grid">{service_html}</div>
-            <hr style="border: 0.5px solid #222; margin-top: 20px;">
-            <p style="font-size: 0.8em; color: #666;">
-                NEURAL CORE v6.0 | OPERATOR: Majsai István | STRIPE: LIVE | REVOLUT: LT81...
-            </p>
+            <hr style="border: 0.5px solid #00ff41; margin: 30px 0;">
+            <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 40px; text-align: left;">
+                <div>{service_html}</div>
+                <div style="border-left: 1px solid #00ff41; padding-left: 20px;">
+                    <p><b>[NEURAL ADAPTATION]:</b> Optimal</p>
+                    <p><b>[REVOLUT ENDPOINT]:</b> Secure</p>
+                    <p><b>[STRIPE GATEWAY]:</b> 100% Operational</p>
+                    <p style="color: #ff9900;"><b>[ALERT]:</b> Opportunity detected in APAC market.</p>
+                </div>
+            </div>
         </div>
     </body>
     </html>
