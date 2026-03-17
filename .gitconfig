@@ -1,5 +1,10 @@
 [user]
-	email = pityumajsaii@gmail.com
-	name = Pityumajsaii-cell
+	email = istvanmajsai70@gmail.com
+	name = Pityutolna
 [credential]
 	helper = store
+[filter "lfs"]
+	required = true
+	clean = git-lfs clean -- %f
+	smudge = git-lfs smudge -- %f
+	process = git-lfs filter-process
