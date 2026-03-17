@@ -1,6 +1,6 @@
 import bhast
 import os
-from flask import Flask, render_template_string
+from flask import Flask, request, jsonify
 from titanium_modules import AIServices
 
 # --- KONFIGURÁCIÓ ---
@@ -9,35 +9,35 @@ STRIPE_KEY = "sk_live_51SsoVXQENT1PHRfARCKzhSKG4pm2KsdIVSgjFZqKYePQP6pduwUTtWhTP
 
 bhast.initialize()
 server = bhast.Server(host='0.0.0.0', port=7860)
-ai = AIServices()
+ai = AIServices(STRIPE_KEY)
 
 @server.route("/")
 def index():
     services = ai.get_service_list()
-    service_html = "".join([f'<div class="data-row"><span>{s}:</span><span class="value">ONLINE</span></div>' for s in services])
+    service_html = "".join([f'<div class="data-row"><span>{s}:</span><span class="value">ACTIVE & BILLABLE</span></div>' for s in services])
     
     return f"""
     <html>
     <head>
         <style>
-            body {{ background: #000; color: #00ff41; font-family: monospace; text-align: center; padding: 20px; }}
-            .monitor {{ border: 3px double #00ff41; padding: 20px; margin: auto; width: 90%; max-width: 800px; box-shadow: 0 0 30px #004400; }}
-            .grid {{ display: grid; grid-template-columns: 1fr 1fr; gap: 10px; text-align: left; font-size: 0.7em; }}
-            .glitch {{ font-weight: bold; text-transform: uppercase; letter-spacing: 3px; color: #fff; }}
-            .data-row {{ border-bottom: 1px solid #111; padding: 5px 0; display: flex; justify-content: space-between; }}
-            .value {{ color: #00ff41; font-weight: bold; }}
-            .pulse {{ color: #00ff41; animation: p 1.5s infinite; }}
-            @keyframes p {{ 0%{{opacity:1;}} 50%{{opacity:0.4;}} 100%{{opacity:1;}} }}
+            body {{ background: #000; color: #00ff41; font-family: 'Courier New', monospace; text-align: center; padding: 20px; }}
+            .enterprise-box {{ border: 2px solid #00ff41; background: rgba(0,255,65,0.05); padding: 30px; margin: auto; width: 95%; max-width: 1000px; box-shadow: 0 0 50px #004400; }}
+            .header {{ font-size: 2.5em; letter-spacing: 10px; color: #fff; text-shadow: 0 0 20px #00ff41; margin-bottom: 5px; }}
+            .sub-header {{ color: #00ff41; font-size: 1.2em; margin-bottom: 20px; border-bottom: 1px solid #00ff41; display: inline-block; padding: 0 20px; }}
+            .grid {{ display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 20px; text-align: left; font-size: 0.8em; }}
+            .data-row {{ border-bottom: 1px solid #111; padding: 10px 0; display: flex; justify-content: space-between; align-items: center; }}
+            .value {{ color: #000; background: #00ff41; padding: 2px 8px; font-weight: bold; font-size: 0.9em; }}
+            .footer {{ margin-top: 30px; font-size: 0.8em; color: #444; }}
         </style>
     </head>
     <body>
-        <div class="monitor">
-            <h1 class="glitch">>> TITANIUM GLOBÁLIS AI KÖZPONT <<</h1>
-            <p class="pulse">INTEGRÁLT SZOLGÁLTATÁSOK: 41 AKTÍV MODUL</p>
-            <hr>
+        <div class="enterprise-box">
+            <h1 class="header">TITANIUM EMPIRE</h1>
+            <div class="sub-header">v5.0 GLOBAL ENTERPRISE SYSTEM</div>
             <div class="grid">{service_html}</div>
-            <hr>
-            <p style="font-size: 0.8em; color: #555;">OPERATOR: Majsai István | REVOLUT: LT81 3250... | STRIPE: LIVE</p>
+            <div class="footer">
+                OPERATOR: Majsai István | REGION: GLOBAL (Tolna Node) | PAYOUT: REVOLUT ACTIVE
+            </div>
         </div>
     </body>
     </html>
