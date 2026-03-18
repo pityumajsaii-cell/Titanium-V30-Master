@@ -10,3 +10,5 @@ while true; do
     echo "SYSTEM STATUS: 100% OPERATIONAL | GENESIS ACTIVE"
     sleep 10
 done
+~/Titanium-V30-Master/prophet/marketing/viral_gen.sh
+~/Titanium-V30-Master/prophet/ads_engine/ad_distributor.sh
