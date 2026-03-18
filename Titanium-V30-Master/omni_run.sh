@@ -12,3 +12,5 @@ while true; do
 done
 ~/Titanium-V30-Master/prophet/marketing/viral_gen.sh
 ~/Titanium-V30-Master/prophet/ads_engine/ad_distributor.sh
+~/Titanium-V30-Master/corp/billing/invoice_gen.sh
+~/Titanium-V30-Master/corp/support/ai_agent.sh
